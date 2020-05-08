@@ -1,0 +1,770 @@
+NOME DA BARRAGEM DE MINERAÇÃO	NOME DO EMPREENDEDOR	CPF/CNPJ	LATITUDE	LONGITUDE	POSICIONAMENTO	UF	MUNICÍPIO	MINÉRIO PRINCIPAL	ALTURA ATUAL (m)	VOLUME ATUAL (m3)	MÉTODO CONSTRUTIVO	CATEGORIA DE RISCO	DANO POTENCIAL ASSOCIADO	CLASSE	INSERIDA NA PNSB?
+0-1	Mineração Taboca S.a.	34.019.992/0001-10	-0°44'00.100"	-60°08'18.200"	Sul do Equador	AM	PRESIDENTE FIGUEIREDO	Minério de Estanho Primário	22	27.700.000,00	Etapa única	Baixa	Média	C	Sim
+103 (Cruz)	Mineração Taboca S.a.	34.019.992/0001-10	-0°47'08.600"	-60°08'30.900"	Sul do Equador	AM	PRESIDENTE FIGUEIREDO	Minério de Estanho Primário	10,3	924.000,00	Etapa única	Baixa	Média	C	Sim
+111 (Índio)	Mineração Taboca S.a.	34.019.992/0001-10	-0°47'22.800"	-60°08'39.400"	Sul do Equador	AM	PRESIDENTE FIGUEIREDO	Minério de Estanho Primário	5	48.873,00	Etapa única	Baixa	Média	C	Sim
+158 (A-1)	Mineração Taboca S.a.	34.019.992/0001-10	-0°44'16.900"	-60°04'44.100"	Sul do Equador	AM	PRESIDENTE FIGUEIREDO	Minério de Estanho Primário	30	53.380.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+161 (A-2)	Mineração Taboca S.a.	34.019.992/0001-10	-0°43'56.233"	-60°04'08.396"	Sul do Equador	AM	PRESIDENTE FIGUEIREDO	Minério de Estanho Primário	22	1.018.054,00	Etapa única	Baixa	Média	C	Sim
+444 (A-3)	Mineração Taboca S.a.	34.019.992/0001-10	-0°44'18.326"	-60°04'33.114"	Sul do Equador	AM	PRESIDENTE FIGUEIREDO	Minério de Estanho Primário	14,7	886.241,00	Etapa única	Baixa	Média	C	Sim
+81-1	Mineração Taboca S.a.	34.019.992/0001-10	-0°44'35.500"	-60°12'05.100"	Sul do Equador	AM	PRESIDENTE FIGUEIREDO	Minério de Estanho Primário	4	75.522,00	Etapa única	Baixa	Média	C	Sim
+Pau D'Arco	Mineração Taboca S.a.	34.019.992/0001-10	-0°45'23.673"	-60°05'16.904"	Sul do Equador	AM	PRESIDENTE FIGUEIREDO	Minério de Estanho Primário	18	52.800,00	Etapa única	Baixa	Média	C	Sim
+Barragem da Cava	Cadam S.a.	04.788.980/0001-90	-0°53'51.673"	-52°22'44.295"	Sul do Equador	AP	VITÓRIA DO JARI	Caulim	25	1.755.555,00	Alteamento a jusante	Baixa	Média	C	Sim
+Mario Cruz	Zamin Amapá Mineração S.a.	06.030.747/0001-79	0°48'03.009"	-51°52'28.293"	Norte do Equador	AP	PEDRA BRANCA DO AMAPARI	Itabirito	28	25.366.731,00	Alteamento a montante ou desconhecido	Média	Média	C	Sim
+North Mill Pond	Beadell Brasil Ltda	05.642.709/0001-04	0°51'38.200"	-51°43'42.000"	Norte do Equador	AP	PEDRA BRANCA DO AMAPARI	Minério de Ouro Primário	27	11.352.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+TAP D	Beadell Brasil Ltda	05.642.709/0001-04	0°50'27.000"	-51°53'25.000"	Norte do Equador	AP	PEDRA BRANCA DO AMAPARI	Minério de Ouro Primário	36	6.280.000,00	Etapa única	Baixa	Alta	B	Sim
+VILA NOVA	Unamgen Mineração e Metalurgia S.a.	42.593.269/0001-79	0°24'06.026"	-51°45'28.112"	Norte do Equador	AP	MAZAGÃO	Minério de Ferro	15,5	440.300,00	Etapa única	Baixa	Baixa	E	Sim
+Barragem 01	Jacobina Mineração e Comércio Ltda	42.463.174/0001-30	-11°14'37.100"	-40°31'32.700"	Sul do Equador	BA	JACOBINA	Rocha Aurífera	61	10.000.000,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+Barragem 01	Samaca Ferros Ltda	16.682.218/0001-03	-15°46'38.590"	-40°19'20.640"	Sul do Equador	BA	MAIQUINIQUE	Areia	12	348.370,00	Alteamento a montante ou desconhecido	Média	Média	C	Sim
+BARRAGEM 02	Jacobina Mineração e Comércio Ltda	42.463.174/0001-30	-11°14'06.400"	-40°31'44.700"	Sul do Equador	BA	JACOBINA	Rocha Aurífera	88	9.146.767,12	Alteamento a jusante	Baixa	Alta	B	Sim
+Barragem 02	Samaca Ferros Ltda	16.682.218/0001-03	-15°46'42.200"	-40°19'04.300"	Sul do Equador	BA	MAIQUINIQUE	Areia	19	1.438.806,00	Alteamento a montante ou desconhecido	Média	Baixa	D	Sim
+BARRAGEM DE FLOTAÇÃO	Santa Luz Desenvolvimento Mineral Ltda	22.103.965/0001-42	-11°00'12.400"	-39°17'13.300"	Sul do Equador	BA	SANTALUZ	Minério de Ouro Primário	25	1.403.849,00	Alteamento a jusante	Baixa	Alta	B	Sim
+BARRAGEM DE LIXIVIAÇÃO	Santa Luz Desenvolvimento Mineral Ltda	22.103.965/0001-42	-11°00'13.100"	-39°18'03.000"	Sul do Equador	BA	SANTALUZ	Minério de Ouro Primário	22	207.365,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Barragem de rejeito não magnético 01	Vanádio de Maracás S A	15.191.786/0001-49	-13°40'58.600"	-40°41'25.100"	Sul do Equador	BA	MARACÁS	Minério de Vanádio	11,99	149.486,93	Alteamento por linha de centro	Baixa	Média	C	Sim
+Barragem de rejeito não magnético 02	Vanádio de Maracás S A	15.191.786/0001-49	-13°41'12.251"	-40°41'29.982"	Sul do Equador	BA	MARACÁS	Minério de Vanádio	15,19	391.923,43	Etapa única	Baixa	Baixa	E	Sim
+Barragem de rejeito não magnético 03	Vanádio de Maracás S A	15.191.786/0001-49	-13°41'14.100"	-40°41'20.900"	Sul do Equador	BA	MARACÁS	Minério de Vanádio	20,21	425.141,00	Etapa única	Baixa	Média	C	Sim
+Barragem MCSA	Mineração Caraíba S.a.	42.509.257/0001-13	-9°51'04.100"	-39°49'35.700"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	6,65	45.400.000,00	Etapa única	Baixa	Baixa	E	Sim
+Barragem Santa Rita	Mirabela Mineração do Brasil Ltda.	74.127.010/0001-29	-14°11'20.792"	-39°41'49.707"	Sul do Equador	BA	ITAGIBÁ	Minério de Níquel	27	23.238.613,66	Alteamento a jusante	Baixa	Alta	B	Sim
+BARRAGEM USINA/CIP - LAGO 1 E 2	Fazenda Brasileiro Desenvolvimento Mineral Ltda.	22.104.045/0001-49	-11°26'59.000"	-39°05'23.000"	Sul do Equador	BA	BARROCAS	Rocha Aurífera	23	13.770.423,00	Alteamento a jusante	Baixa	Alta	B	Sim
+BARRAGEM USINA/CIP - LAGO 3	Fazenda Brasileiro Desenvolvimento Mineral Ltda.	22.104.045/0001-49	-11°26'49.682"	-39°04'16.305"	Sul do Equador	BA	BARROCAS	Rocha Aurífera	11,17	1.721.104,00	Alteamento a jusante	Baixa	Alta	B	Sim
+BARRAGEM USINA/CIP - LAGO 4	Fazenda Brasileiro Desenvolvimento Mineral Ltda.	22.104.045/0001-49	-11°26'53.000"	-39°05'53.000"	Sul do Equador	BA	BARROCAS	Rocha Aurífera	17,89	248.254,30	Alteamento a jusante	Baixa	Alta	B	Sim
+DIQUE DE SEGURANÇA	Fazenda Brasileiro Desenvolvimento Mineral Ltda.	22.104.045/0001-49	-11°26'58.200"	-39°05'31.800"	Sul do Equador	BA	BARROCAS	Rocha Aurífera	8,37	5.000,00	Etapa única	Baixa	Média	C	Sim
+Barragem Norte	Samarco Mineração S A.	16.628.281/0001-61	-20°46'03.255"	-40°35'18.081"	Sul do Equador	ES	ANCHIETA	Sedimento	7	1.171.600,00	Etapa única	Baixa	Média	C	Sim
+Barragem BM	Mosaic Fertilizantes P&K S.A. Filial: Catalao	33.931.486/0010-21	-18°06'45.300"	-47°47'04.100"	Sul do Equador	GO	CATALÃO	Fosfato	28	1.500.000,00	Alteamento a jusante	Baixa	Média	C	Sim
+Barragem BR	Mosaic Fertilizantes P&K S.A. Filial: Catalao	33.931.486/0010-21	-18°06'19.130"	-47°46'47.160"	Sul do Equador	GO	CATALÃO	Fosfato	56	32.000.000,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+Barragem de Rejeitos do Córrego Baco Pari	Mineração Maracá Industria e Comercio Sa	86.902.053/0001-13	-14°12'21.207"	-49°24'22.373"	Sul do Equador	GO	ALTO HORIZONTE	Minério de Cobre	47	179.363.962,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+BARRAGEM DE REJEITOS PGDM	Pilar de Goias Desenvolvimento Mineral S.a.	21.823.063/0001-18	-14°48'36.800"	-49°32'26.200"	Sul do Equador	GO	PILAR DE GOIÁS	Minério de Ouro Primário	37	6.488.715,79	Alteamento a jusante	Baixa	Alta	B	Sim
+BARRAGEM DO BURACO	Copebras Indústria Ltda	46.567.202/0009-78	-18°09'45.000"	-47°50'43.500"	Sul do Equador	GO	CATALÃO	Rocha Fosfática	65	45.000.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Barragem Morro Pelado	Brasil Minérios S.a.	02.683.365/0001-93	-16°23'38.000"	-50°23'01.200"	Sul do Equador	GO	SÃO LUÍS DE MONTES BELOS	Vermiculita	12	600.000,00	Etapa única	Baixa	Alta	B	Sim
+Barragem MSG	Mineração Serra Grande S.a.	42.445.403/0001-94	-14°33'39.923"	-49°57'36.705"	Sul do Equador	GO	CRIXÁS	Minério de Ouro Primário	87	4.829.094,43	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Unidade I	Niobras Mineração Ltda	07.171.562/0005-70	-18°08'48.000"	-47°48'19.000"	Sul do Equador	GO	OUVIDOR	Minério de Nióbio	31	100.000,00	Alteamento a montante ou desconhecido	Média	Alta	B	Sim
+Unidade II	Niobras Mineração Ltda	07.171.562/0005-70	-18°08'59.000"	-47°48'27.000"	Sul do Equador	GO	OUVIDOR	Minério de Nióbio	25	1.800.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Unidade IIB	Niobras Mineração Ltda	07.171.562/0005-70	-18°08'40.490"	-47°48'40.409"	Sul do Equador	GO	OUVIDOR	Minério de Nióbio	20	1.100.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+5 (MAC)	Vale S A Filial: Vale Paraopeba	33.592.510/0035-01	-19°58'37.512"	-43°53'34.810"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	78	13.718.217,00	Alteamento a jusante	Baixa	Alta	B	Sim
+5 (Mutuca)	Vale S A Filial: Vale Paraopeba	33.592.510/0035-01	-20°01'34.413"	-43°56'33.225"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	55	7.100.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+7B	Vale S A Filial: Vale Paraopeba	33.592.510/0035-01	-19°58'02.514"	-43°52'58.725"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	27,4	79.431,00	Etapa única	Baixa	Alta	B	Sim
+8B	Vale S A Filial: Vale Paraopeba	33.592.510/0035-01	-19°57'33.914"	-43°52'21.360"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	28	92.635,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Água Fria	Topazio Imperial Mineração Comercio e Industria Ltda	16.857.294/0001-02	-20°26'50.670"	-43°38'37.760"	Sul do Equador	MG	OURO PRETO	Aluvião com Gemas	40	5.648.000,00	Alteamento a jusante	Média	Alta	B	Sim
+Alcindo Vieira	Vale S A Filial: Vale Itabira	33.592.510/0164-09	-19°34'28.232"	-43°14'46.628"	Sul do Equador	MG	ITABIRA	Minério de Ferro	24	770.600,00	Alteamento a jusante	Baixa	Baixa	E	Sim
+Alemães	Gerdau Açominas S.a.	17.227.422/0001-05	-20°25'24.810"	-43°45'11.170"	Sul do Equador	MG	OURO PRETO	Minério de Ferro	57	2.385.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+B	Vale S A Filial: Vale Vargem Grande	33.592.510/0034-12	-20°07'27.900"	-43°55'30.800"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	40	333.000,00	Etapa única	Baixa	Alta	B	Sim
+B1	Itaminas Comércio de Minérios S.a.	18.752.824/0001-83	-20°03'52.300"	-44°06'50.700"	Sul do Equador	MG	SARZEDO	Argila	19	297.747,61	Etapa única	Baixa	Alta	B	Sim
+B1	Nacional de Grafite Ltda	21.228.861/0001-00	-20°26'39.200"	-45°08'00.700"	Sul do Equador	MG	ITAPECERICA	Xisto	12	55.000,00	Alteamento a jusante	Baixa	Média	C	Sim
+B1 - AGUA PRETA	Companhia Siderúrgica Nacional	33.042.730/0001-04	-20°37'39.860"	-43°45'47.180"	Sul do Equador	MG	CONSELHEIRO LAFAIETE	Minério de Manganês	17	100.000,00	Etapa única	Baixa	Alta	B	Sim
+B2	Itaminas Comércio de Minérios S.a.	18.752.824/0001-83	-20°04'52.800"	-44°06'44.500"	Sul do Equador	MG	SARZEDO	Minério de Ferro	10	441.115,63	Etapa única	Baixa	Alta	B	Sim
+B2	Nacional de Grafite Ltda	21.228.861/0001-00	-20°26'24.200"	-45°07'55.200"	Sul do Equador	MG	ITAPECERICA	Xisto	13	798.178,00	Alteamento a jusante	Baixa	Alta	B	Sim
+B2 - AGUA PRETA	Companhia Siderúrgica Nacional	33.042.730/0001-04	-20°37'35.020"	-43°45'55.390"	Sul do Equador	MG	CONSELHEIRO LAFAIETE	Minério de Manganês	29	265.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+B3	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°52'43.139"	-43°22'41.690"	Sul do Equador	MG	SÃO GONÇALO DO RIO ABAIXO	Minério de Ferro	18,5	137.575,00	Etapa única	Baixa	Alta	B	Sim
+B3/B4	Minerações Brasileiras Reunidas Sa Filial: MBR Paraopeba	33.417.445/0026-89	-20°02'51.400"	-43°57'15.700"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	55	1.896.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+B4	Itaminas Comércio de Minérios S.a.	18.752.824/0001-83	-20°05'30.600"	-44°05'60.000"	Sul do Equador	MG	SARZEDO	Minério de Ferro	98	4.865.160,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+B4	Nacional de Grafite Ltda	21.228.861/0001-00	-20°26'16.300"	-45°08'54.300"	Sul do Equador	MG	ITAPECERICA	Xisto	47	1.090.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+B5	VERMELHÃO MINERAÇÃO INDUSTRIA E COMERCIO LTDA	16.857.492/0001-76	-20°24'06.500"	-43°32'03.000"	Sul do Equador	MG	OURO PRETO	Minério com Gemas	26,4	223.840,00	Etapa única	Baixa	Baixa	E	Sim
+B6	Minerações Brasileiras Reunidas Sa Filial: MBR Paraopeba	33.417.445/0026-89	-20°03'29.700"	-43°57'50.700"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	20	121.175,00	Etapa única	Baixa	Média	C	Sim
+B7	Minerações Brasileiras Reunidas Sa Filial: MBR Paraopeba	33.417.445/0026-89	-20°03'40.100"	-43°57'40.800"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	24	127.161,00	Etapa única	Baixa	Média	C	Sim
+Baia da UTM I	Gerdau Açominas S.a.	17.227.422/0001-05	-20°26'10.800"	-43°46'33.700"	Sul do Equador	MG	OURO PRETO	Minério de Ferro	17	12.000,00	Etapa única	Baixa	Alta	B	Sim
+Baias da UTM II	Gerdau Açominas S.a.	17.227.422/0001-05	-20°27'17.200"	-43°46'37.000"	Sul do Equador	MG	OURO PRETO	Minério de Ferro	22	26.000,00	Etapa única	Baixa	Alta	B	Sim
+Baixo João Pereira	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°26'24.500"	-43°54'18.500"	Sul do Equador	MG	CONGONHAS	Minério de Ferro	15,76	142.500,00	Alteamento a jusante	Baixa	Média	C	Sim
+Barnabé	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°25'33.000"	-43°53'30.400"	Sul do Equador	MG	CONGONHAS	Minério de Ferro	25	318.550,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Barnabé 1	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°26'02.500"	-43°52'56.400"	Sul do Equador	MG	CONGONHAS	Minério de Ferro	33	407.524,00	Etapa única	Baixa	Alta	B	Sim
+Barragem 01 - Jose Jaime	Minerita Minérios Itaúna Ltda.	16.813.461/0001-13	-20°08'13.740"	-44°23'01.130"	Sul do Equador	MG	ITATIAIUÇU	Minério de Ferro	20	1.200.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Barragem 02	Companhia Siderúrgica Nacional	33.042.730/0001-04	-20°18'59.620"	-45°34'59.380"	Sul do Equador	MG	ARCOS	Calcário Dolomítico	15	240.000,00	Etapa única	Baixa	Baixa	E	Sim
+Barragem 02 - Canindé	Minerita Minérios Itaúna Ltda.	16.813.461/0001-13	-20°08'19.320"	-44°22'48.680"	Sul do Equador	MG	ITATIAIUÇU	Minério de Ferro	40	86.937,10	Etapa única	Baixa	Média	C	Sim
+Barragem 03	Companhia Siderúrgica Nacional	33.042.730/0001-04	-20°18'48.380"	-45°34'38.840"	Sul do Equador	MG	ARCOS	Calcário	10	900.000,00	Etapa única	Baixa	Média	C	Sim
+Barragem 03 - Zé da Grota	Minerita Minérios Itaúna Ltda.	16.813.461/0001-13	-20°08'18.330"	-44°23'11.710"	Sul do Equador	MG	ITATIAIUÇU	Minério de Ferro	32	3.200.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Barragem 1	Nexa Recursos Minerais S.a	42.416.651/0001-07	-17°29'51.521"	-46°49'07.550"	Sul do Equador	MG	PARACATU	Minério de Zinco	21	1.800.000,00	Etapa única	Baixa	Alta	B	Sim
+Barragem 1 - Decantação	MSM Mineração Serra da Moeda Ltda.	21.705.306/0001-13	-20°22'43.000"	-43°54'58.000"	Sul do Equador	MG	ITABIRITO	Hematita	12	40.000,00	Etapa única	Baixa	Alta	B	Sim
+Barragem 2	Nexa Recursos Minerais S.a	42.416.651/0001-07	-17°30'38.192"	-46°49'41.980"	Sul do Equador	MG	PARACATU	Calcário Dolomítico	32,5	1.600.000,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+Barragem 2 - Decantação	MSM Mineração Serra da Moeda Ltda.	21.705.306/0001-13	-20°22'42.070"	-43°54'58.460"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	12	64.000,00	Etapa única	Baixa	Média	C	Sim
+Barragem 3	Nexa Recursos Minerais S.a	42.416.651/0001-07	-17°30'47.768"	-46°49'42.290"	Sul do Equador	MG	PARACATU	Calcário Dolomítico	12	500.000,00	Etapa única	Baixa	Alta	B	Sim
+BARRAGEM 7	Ferrous Resources do Brasil Sa	08.852.207/0001-04	-20°33'45.400"	-43°57'03.100"	Sul do Equador	MG	JECEABA	Minério de Ferro	64	5.105.350,84	Etapa única	Baixa	Alta	B	Sim
+Barragem A	Mosaic Fertilizantes P&K S.A. Filial: Araxa	33.931.486/0019-60	-19°38'59.000"	-46°56'46.000"	Sul do Equador	MG	ARAXÁ	Fosfato	8	30.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Barragem A	Mosaic Fertilizantes P&K S.A. Filial: Patos	33.931.486/0027-70	-18°22'44.500"	-46°55'35.300"	Sul do Equador	MG	PATOS DE MINAS	Fosfato	13,5	631.000,00	Etapa única	Baixa	Média	C	Sim
+Barragem A0	Mosaic Fertilizantes P&K S.A. Filial: Araxa	33.931.486/0019-60	-19°37'00.000"	-47°02'00.000"	Sul do Equador	MG	ARAXÁ	Fosfato	23,5	4.600.000,00	Etapa única	Baixa	Alta	B	Sim
+Barragem Aroeira	Nexa Recursos Minerais S.a	42.416.651/0001-07	-17°58'21.400"	-46°48'52.100"	Sul do Equador	MG	VAZANTE	Minério de Zinco	44	11.200.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+BARRAGEM AUXILIAR DO VIGIA	Nacional Minerios Sa	08.446.702/0001-05	-20°26'04.000"	-43°50'07.100"	Sul do Equador	MG	OURO PRETO	Minério de Ferro	35	3.140.693,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Barragem B	Mosaic Fertilizantes P&K S.A. Filial: Patos	33.931.486/0027-70	-18°22'51.200"	-46°55'37.900"	Sul do Equador	MG	PATOS DE MINAS	Fosfato	25	3.260.000,00	Alteamento a jusante	Baixa	Média	C	Sim
+Barragem B1	Herculano Mineração Ltda.	41.785.833/0001-92	-20°15'01.740"	-43°55'56.970"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	61,5	4.100.000,00	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+Barragem B1	Mineração Geral do Brasil S A	60.727.120/0001-17	-20°03'53.300"	-44°01'45.200"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	47	190.000,00	Alteamento a montante ou desconhecido	Baixa	Baixa	E	Sim
+Barragem B1 - Mina Ipê	Mineração Morro do Ipê S.a.	22.902.554/0001-17	-20°07'11.300"	-44°18'26.900"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	55	571.815,00	Alteamento a jusante	Baixa	Média	C	Sim
+Barragem B1 - Mina Tico-Tico	Mineração Morro do Ipê S.a.	22.902.554/0001-17	-20°06'06.400"	-44°17'20.600"	Sul do Equador	MG	IGARAPÉ	Sedimento	22	22.000,00	Etapa única	Baixa	Alta	B	Sim
+Barragem B1-Auxiliar - Mina Tico-Tico	Mineração Morro do Ipê S.a.	22.902.554/0001-17	-20°06'12.700"	-44°17'17.500"	Sul do Equador	MG	IGARAPÉ	Minério de Ferro	68	657.575,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Barragem B1/B4	Mosaic Fertilizantes P&K S.A. Filial: Araxa	33.931.486/0019-60	-19°38'01.000"	-46°59'47.000"	Sul do Equador	MG	ARAXÁ	Fosfato	58	24.000.000,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+Barragem B1A Ipê	Emicon Mineração e Terraplenagem LTDA.	16.679.953/0001-68	-20°07'22.700"	-44°18'45.300"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	37	22.460,00	Alteamento por linha de centro	Média	Alta	B	Sim
+Barragem B2	Mineração Geral do Brasil S A	60.727.120/0001-17	-20°03'58.700"	-44°01'37.900"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	27	180.000,00	Alteamento a montante ou desconhecido	Baixa	Baixa	E	Sim
+Barragem B2	Mosaic Fertilizantes P&K S.A. Filial: Araxa	33.931.486/0019-60	-19°38'37.000"	-46°58'27.000"	Sul do Equador	MG	ARAXÁ	Minério de Ferro	25	750.000,00	Alteamento a jusante	Baixa	Média	C	Sim
+BARRAGEM B2	Nacional Minerios Sa	08.446.702/0001-05	-20°09'39.643"	-43°50'52.101"	Sul do Equador	MG	RIO ACIMA	Minério de Ferro	40	2.616.466,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Barragem B2 - Mina Tico-Tico	Mineração Morro do Ipê S.a.	22.902.554/0001-17	-20°06'37.200"	-44°17'13.500"	Sul do Equador	MG	IGARAPÉ	Minério de Ferro	80	2.200.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+BARRAGEM B2 AUXILIAR	Nacional Minerios Sa	08.446.702/0001-05	-20°09'48.200"	-43°51'03.610"	Sul do Equador	MG	RIO ACIMA	Minério de Ferro	33	6.439.465,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+BARRAGEM B4	Csn Mineração S.a.	08.902.291/0001-15	-20°29'09.000"	-43°53'09.000"	Sul do Equador	MG	CONGONHAS	Minério de Ferro	65	13.001.821,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Barragem B4	Herculano Mineração Ltda.	41.785.833/0001-92	-20°15'37.580"	-43°55'36.390"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	38	500.000,00	Alteamento a montante ou desconhecido	Baixa	Baixa	E	Sim
+BARRAGEM B5	Csn Mineração S.a.	08.902.291/0001-15	-20°29'23.000"	-43°53'28.000"	Sul do Equador	MG	CONGONHAS	Minério de Ferro	41	5.393.580,00	Etapa única	Baixa	Alta	B	Sim
+Barragem B5	Mosaic Fertilizantes P&K S.A. Filial: Araxa	33.931.486/0019-60	-19°37'01.000"	-47°01'16.000"	Sul do Equador	MG	ARAXÁ	Fosfato	74,2	48.000.000,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+Barragem BA-3	Mosaic Fertilizantes P&K S.A. Filial: Tapira	33.931.486/0020-01	-19°49'23.900"	-46°52'05.900"	Sul do Equador	MG	TAPIRA	Fosfato	14	650.000,00	Etapa única	Baixa	Média	C	Sim
+Barragem BD-2	Mosaic Fertilizantes P&K S.A. Filial: Tapira	33.931.486/0020-01	-19°50'14.100"	-46°50'14.500"	Sul do Equador	MG	TAPIRA	Fosfato	21	2.000.000,00	Alteamento a jusante	Baixa	Baixa	E	Sim
+Barragem BD-5	Mosaic Fertilizantes P&K S.A. Filial: Tapira	33.931.486/0020-01	-19°49'15.700"	-46°50'30.500"	Sul do Equador	MG	TAPIRA	Fosfato	33	2.560.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Barragem BL-1	Mosaic Fertilizantes P&K S.A. Filial: Tapira	33.931.486/0020-01	-19°50'32.900"	-46°51'51.300"	Sul do Equador	MG	TAPIRA	Fosfato	91	170.000.000,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+BARRAGEM BOM JARDIM	Bauminas Mineração Ltda	19.534.650/0001-45	-21°12'41.671"	-42°42'53.751"	Sul do Equador	MG	MIRAÍ	Argila	23	1.450.000,00	Etapa única	Baixa	Alta	B	Sim
+Barragem BR	Mosaic Fertilizantes P&K S.A. Filial: Tapira	33.931.486/0020-01	-19°50'18.600"	-46°49'58.000"	Sul do Equador	MG	TAPIRA	Fosfato	57	80.000.000,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+Barragem BRI	Mosaic Fertilizantes P&K S.A. Filial: Tapira	33.931.486/0020-01	-19°47'19.900"	-46°52'44.000"	Sul do Equador	MG	TAPIRA	Fosfato	35	8.300.000,00	Etapa única	Baixa	Alta	B	Sim
+Barragem C	Mosaic Fertilizantes P&K S.A. Filial: Patos	33.931.486/0027-70	-18°22'47.300"	-46°55'58.200"	Sul do Equador	MG	PATOS DE MINAS	Fosfato	10	417.600,00	Etapa única	Baixa	Média	C	Sim
+BARRAGEM CASA DE PEDRA	Csn Mineração S.a.	08.902.291/0001-15	-20°30'21.000"	-43°53'00.000"	Sul do Equador	MG	CONGONHAS	Minério de Ferro	84	21.713.715,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Barragem Central	Mineração Usiminas S.a.	12.056.613/0001-20	-20°08'51.300"	-44°24'22.200"	Sul do Equador	MG	ITATIAIUÇU	Minério de Ferro	58	7.560.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Barragem Central	Safm Mineração Ltda	09.325.670/0001-52	-20°16'22.353"	-43°53'42.615"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	25	471.679,71	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+Barragem da Grota	Safm Mineração Ltda	09.325.670/0001-52	-20°16'07.500"	-43°53'35.800"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	13,5	109.380,15	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Barragem da Mina II	Companhia Mineradora do Pirocloro de Araxá	17.806.779/0001-30	-19°39'25.200"	-46°56'24.650"	Sul do Equador	MG	ARAXÁ	Minério de Nióbio	25	22.000,00	Etapa única	Baixa	Baixa	E	Sim
+Barragem de Aredes	Safm Mineração Ltda	09.325.670/0001-52	-20°16'32.800"	-43°53'53.600"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	17	450.281,80	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+Barragem de Contenção de Sedimentos do Josino	Ferro + Mineração S.a.	21.256.870/0001-04	-20°25'32.160"	-43°51'52.890"	Sul do Equador	MG	OURO PRETO	Minério de Ferro	9	16.636,00	Alteamento a jusante	Baixa	Média	C	Sim
+Barragem de Decantação de Água e Polpa - EBII - Mineroduto	Samarco Mineração S A.	16.628.281/0001-61	-20°22'19.041"	-42°21'17.308"	Sul do Equador	MG	MATIPÓ	Sedimento	17	120.942,00	Etapa única	Baixa	Alta	B	Sim
+Barragem de Germano	Samarco Mineração S A.	16.628.281/0001-61	-20°12'59.400"	-43°28'04.600"	Sul do Equador	MG	MARIANA	Itabirito	163	129.590.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Barragem de Mercês	Bauminas Mineração Ltda	19.534.650/0001-45	-21°07'57.271"	-43°21'01.241"	Sul do Equador	MG	MERCÊS	Bauxita Grau Não Metalúrgico	29,5	237.000,00	Etapa única	Baixa	Baixa	E	Sim
+Barragem de Rejeito 1	Mbl Materiais Básicos Ltda	19.543.206/0001-96	-20°09'24.900"	-44°28'24.200"	Sul do Equador	MG	ITAÚNA	Minério de Ferro	27,5	72.597,75	Etapa única	Baixa	Baixa	E	Sim
+Barragem de Rejeitos	Anglo American Minério de Ferro Brasil S.a	02.359.572/0004-30	-18°51'54.800"	-43°24'29.200"	Sul do Equador	MG	CONCEIÇÃO DO MATO DENTRO	Minério de Ferro	41,5	60.000.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Barragem de Rejeitos	Arcelormittal Mineração Serra Azul S.a.	08.102.787/0001-04	-20°08'15.300"	-44°23'46.200"	Sul do Equador	MG	ITATIAIUÇU	Minério de Ferro	89	5.250.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+BARRAGEM DIQUE 2	Minar Mineração Aredes Ltda.	20.066.908/0001-05	-20°17'09.506"	-43°53'54.556"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	25	396.000,00	Alteamento a montante ou desconhecido	Média	Média	C	Sim
+BARRAGEM DO SABÃO I	Galvani Indústria Comércio e Serviços S.a.	00.546.997/0001-80	-19°02'52.200"	-46°43'26.300"	Sul do Equador	MG	SERRA DO SALITRE	Rocha Fosfática	44	22.000.000,00	Etapa única	Baixa	Alta	B	Sim
+BARRAGEM DO VIGIA	Nacional Minerios Sa	08.446.702/0001-05	-20°26'16.735"	-43°50'02.435"	Sul do Equador	MG	OURO PRETO	Minério de Ferro	30	812.901,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Barragem E	Mosaic Fertilizantes P&K S.A. Filial: Araxa	33.931.486/0019-60	-19°39'00.734"	-46°57'08.359"	Sul do Equador	MG	ARAXÁ	Fosfato	13,96	90.000,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+BARRAGEM ECOLÓGICA 1	Nacional Minerios Sa	08.446.702/0001-05	-20°09'31.827"	-43°50'34.785"	Sul do Equador	MG	RIO ACIMA	Cascalho	15	41.000,00	Etapa única	Baixa	Alta	B	Sim
+BARRAGEM ECOLÓGICA 2	Nacional Minerios Sa	08.446.702/0001-05	-20°09'30.070"	-43°50'50.477"	Sul do Equador	MG	RIO ACIMA	Cascalho	6,5	104.000,00	Etapa única	Baixa	Alta	B	Sim
+Barragem Eustáquio	Kinross Brasil Mineração S A	20.346.524/0001-46	-17°08'45.920"	-46°54'07.890"	Sul do Equador	MG	PARACATU	Minério de Ouro Primário	94	148.349.348,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+Barragem F	Mosaic Fertilizantes P&K S.A. Filial: Araxa	33.931.486/0019-60	-19°39'15.000"	-46°57'11.000"	Sul do Equador	MG	ARAXÁ	Fosfato	25	35.200,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+Barragem II Mina Engenho	Mundo Mineração Ltda.	07.950.015/0001-60	-20°03'46.100"	-43°47'41.000"	Sul do Equador	MG	RIO ACIMA	Minério de Ouro Primário	40	14.160,67	Etapa única	Alta	Alta	A	Sim
+Barragem Mãe D'Água	Cia Mineradora Catite Duo S. A.	16.530.219/0001-32	-19°36'06.170"	-43°01'47.700"	Sul do Equador	MG	NOVA ERA	Minério de Ferro	48	3.100.000,00	Etapa única	Média	Média	C	Sim
+Barragem Mina Engenho	Mundo Mineração Ltda.	07.950.015/0001-60	-20°03'42.100"	-43°47'40.900"	Sul do Equador	MG	RIO ACIMA	Minério de Ouro Primário	32	549.927,00	Etapa única	Alta	Alta	A	Sim
+Barragem Mina Oeste (Somisa)	Mineração Usiminas S.a.	12.056.613/0001-20	-20°10'02.400"	-44°27'36.000"	Sul do Equador	MG	ITATIAIUÇU	Minério de Ferro	80	12.535.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+BARRAGEM MINAR	Minar Mineração Aredes Ltda.	20.066.908/0001-05	-20°16'54.200"	-43°53'58.510"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	1	87.775,00	Etapa única	Média	Alta	B	Sim
+Barragem MRDM	Mineração Riacho dos Machados Ltda.	08.832.667/0001-62	-16°03'22.500"	-43°07'45.000"	Sul do Equador	MG	RIACHO DOS MACHADOS	Minério de Ouro Primário	33	6.379.265,53	Alteamento a jusante	Baixa	Alta	B	Sim
+Barragem Paciência	Mineração Serras do Oeste Eireli	28.917.748/0001-72	-20°12'37.637"	-43°41'08.800"	Sul do Equador	MG	ITABIRITO	Minério de Ouro Primário	34	1.400.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+BARRAGEM REJEITOS	Nexa Recursos Minerais S.a	42.416.651/0001-07	-20°53'34.300"	-46°42'19.000"	Sul do Equador	MG	FORTALEZA DE MINAS	Minério de Níquel	46,8	3.250.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Barragem RG2W	Mineração Serras do Oeste Eireli	28.917.748/0001-72	-19°57'29.710"	-43°38'05.312"	Sul do Equador	MG	CAETÉ	Minério de Ouro Primário	61	551.621,00	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+Barragem Samambaia 0 (Zero)	Mineração Usiminas S.a.	12.056.613/0001-20	-20°10'22.518"	-44°26'54.771"	Sul do Equador	MG	ITATIAIUÇU	Minério de Ferro	46	7.545.160,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Barragem Santo Antônio	Kinross Brasil Mineração S A	20.346.524/0001-46	-17°08'46.800"	-46°51'22.540"	Sul do Equador	MG	PARACATU	Minério de Ouro Primário	104	399.058.945,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+BARRAGEM SERRINHA	Ferrous Resources do Brasil Sa	08.852.207/0001-04	-20°10'28.800"	-43°58'33.600"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	4	100.000,00	Etapa única	Baixa	Média	C	Sim
+Bocaina	Gerdau Açominas S.a.	17.227.422/0001-05	-20°26'26.440"	-43°47'24.160"	Sul do Equador	MG	OURO PRETO	Minério de Ferro	56	955.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Borrachudo	Vale S A Filial: Vale Itabira	33.592.510/0164-09	-19°36'33.516"	-43°15'48.177"	Sul do Equador	MG	ITABIRA	Minério de Ferro	6	190.000,00	Etapa única	Baixa	Alta	B	Sim
+Cachoeirinha	Vallourec Mineração Ltda	22.931.380/0001-10	-20°09'09.800"	-43°57'55.600"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	45	2.850.833,82	Alteamento a jusante	Baixa	Alta	B	Sim
+CALCINADOS	Anglogold Ashanti Córrego do Sítio Mineração S.a.	18.565.382/0001-66	-19°57'49.000"	-43°50'20.000"	Sul do Equador	MG	NOVA LIMA	Minério de Ouro Primário	57	3.408.804,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Califórnia	Nacional de Grafite Ltda	21.228.861/0001-00	-16°12'27.500"	-39°56'49.000"	Sul do Equador	MG	SALTO DA DIVISA	Xisto	25,5	3.000.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Cambucal I	Vale S A Filial: Vale Itabira	33.592.510/0164-09	-19°38'26.316"	-43°14'29.320"	Sul do Equador	MG	ITABIRA	Minério de Ferro	15,4	220.841,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Cambucal II	Vale S A Filial: Vale Itabira	33.592.510/0164-09	-19°38'44.132"	-43°14'32.010"	Sul do Equador	MG	ITABIRA	Minério de Ferro	21,3	157.082,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Campo Grande	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°10'33.845"	-43°29'14.340"	Sul do Equador	MG	MARIANA	Minério de Ferro	99,3	22.978.889,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+Capão da Serra	Vale S A Filial: Vale Vargem Grande	33.592.510/0034-12	-20°04'07.200"	-43°55'50.100"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	47	2.230.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Capim Branco	Minerações Brasileiras Reunidas Sa Filial: MBR Paraopeba	33.417.445/0026-89	-20°06'29.782"	-44°04'25.204"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	27	470.000,00	Etapa única	Baixa	Alta	B	Sim
+Capitão do Mato	Vale S A Filial: Vale Vargem Grande	33.592.510/0034-12	-20°07'47.600"	-43°55'32.500"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	36	2.136.495,00	Etapa única	Baixa	Alta	B	Sim
+CAVA B	Galvani Indústria Comércio e Serviços S.a. Filial: Roberto Eustáquio Silva Pedrosa	00.546.997/0002-60	-18°16'47.500"	-46°51'43.600"	Sul do Equador	MG	LAGAMAR	Fosfato	21	1.890.000,00	Alteamento a jusante	Baixa	Baixa	E	Sim
+CAVA C	Galvani Indústria Comércio e Serviços S.a. Filial: Roberto Eustáquio Silva Pedrosa	00.546.997/0002-60	-18°15'13.200"	-46°50'27.700"	Sul do Equador	MG	LAGAMAR	Fosfato	48	2.817.000,00	Alteamento por linha de centro	Baixa	Baixa	E	Sim
+Cemig I	Vale S A Filial: Vale Itabira	33.592.510/0164-09	-19°34'32.225"	-43°12'17.125"	Sul do Equador	MG	ITABIRA	Minério de Ferro	32,5	8.795.438,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Cemig II	Vale S A Filial: Vale Itabira	33.592.510/0164-09	-19°34'21.721"	-43°11'51.131"	Sul do Equador	MG	ITABIRA	Minério de Ferro	22,35	870.558,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Cianita 1	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°11'47.700"	-43°52'01.500"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	23,05	680.000,00	Etapa única	Baixa	Alta	B	Sim
+Clarificação Bocaina	Gerdau Açominas S.a.	17.227.422/0001-05	-20°26'28.390"	-43°47'04.200"	Sul do Equador	MG	OURO PRETO	Minério de Ferro	21	9.126,00	Etapa única	Baixa	Alta	B	Sim
+Cobras	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°07'58.744"	-43°24'37.294"	Sul do Equador	MG	CATAS ALTAS	Minério de Ferro	13,45	20.000,00	Etapa única	Baixa	Média	C	Sim
+COCURUTO	Anglogold Ashanti Córrego do Sítio Mineração S.a.	18.565.382/0001-66	-19°58'25.000"	-43°49'46.000"	Sul do Equador	MG	NOVA LIMA	Minério de Ouro Primário	41	4.240.553,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Conceição	Vale S A Filial: Vale Itabira	33.592.510/0164-09	-19°38'51.300"	-43°16'26.900"	Sul do Equador	MG	ITABIRA	Minério de Ferro	60	35.874.318,00	Etapa única	Baixa	Alta	B	Sim
+CONTENÇÃO DE FINOS DE CDS I	Anglogold Ashanti Córrego do Sítio Mineração S.a.	18.565.382/0001-66	-20°01'09.000"	-43°29'34.000"	Sul do Equador	MG	SANTA BÁRBARA	Filito	13	260.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+CONTENÇÃO DE REJEITOS DE CDS II	Anglogold Ashanti Córrego do Sítio Mineração S.a.	18.565.382/0001-66	-19°59'05.000"	-43°28'17.000"	Sul do Equador	MG	SANTA BÁRBARA	Minério de Ouro Primário	82	7.907.500,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+CONTENÇÃO DE REJEITOS DE CUIABÁ	Anglogold Ashanti Córrego do Sítio Mineração S.a.	18.565.382/0001-66	-19°51'56.815"	-43°43'39.215"	Sul do Equador	MG	SABARÁ	Minério de Ouro Primário	90	7.521.683,50	Alteamento a jusante	Baixa	Alta	B	Sim
+Dicão	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°52'29.203"	-43°22'47.022"	Sul do Equador	MG	SÃO GONÇALO DO RIO ABAIXO	Minério de Ferro	32,7	989.786,00	Etapa única	Baixa	Alta	B	Sim
+Dicão Leste	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°08'21.443"	-43°24'44.399"	Sul do Equador	MG	CATAS ALTAS	Minério de Ferro	22,5	150.000,00	Etapa única	Baixa	Média	C	Sim
+Diogo	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°55'47.792"	-43°11'46.298"	Sul do Equador	MG	RIO PIRACICABA	Minério de Ferro	39	6.571.347,70	Etapa única	Baixa	Alta	B	Sim
+Dique 01	Companhia de Mineração Serra Azul Comisa	03.405.415/0001-33	-20°07'05.850"	-44°19'11.450"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	15	100	Etapa única	Baixa	Média	C	Sim
+Dique 02	Companhia de Mineração Serra Azul Comisa	03.405.415/0001-33	-20°07'15.440"	-44°19'22.200"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	20	400	Etapa única	Baixa	Média	C	Sim
+Dique B - Pilha de Estéril Alegria E (Dique Oficina)	Samarco Mineração S A.	16.628.281/0001-61	-20°11'21.588"	-43°30'31.953"	Sul do Equador	MG	OURO PRETO	Sedimento	15	12.600,00	Etapa única	Baixa	Média	C	Sim
+Dique B3 Ipê	Emicon Mineração e Terraplenagem LTDA.	16.679.953/0001-68	-20°07'09.700"	-44°18'57.400"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	23,5	10.010.305,00	Alteamento a jusante	Média	Média	C	Sim
+Dique B4 Ipê	Emicon Mineração e Terraplenagem LTDA.	16.679.953/0001-68	-20°07'03.300"	-44°19'01.900"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	25	6.053,00	Alteamento a jusante	Baixa	Baixa	E	Sim
+DIQUE BATATEIRO DE BAIXO	Csn Mineração S.a.	08.902.291/0001-15	-20°28'52.345"	-43°55'20.521"	Sul do Equador	MG	CONGONHAS	Cascalho	16	18.300,00	Etapa única	Baixa	Baixa	E	Sim
+Dique BIII-2	Mbl Materiais Básicos Ltda	19.543.206/0001-96	-20°08'54.160"	-44°27'35.942"	Sul do Equador	MG	ITATIAIUÇU	Minério de Ferro	9	19.765,55	Etapa única	Média	Média	C	Sim
+Dique BIII-3	Mbl Materiais Básicos Ltda	19.543.206/0001-96	-20°08'51.941"	-44°27'36.371"	Sul do Equador	MG	ITAÚNA	Minério de Ferro	17	24.103,39	Etapa única	Média	Média	C	Sim
+Dique BIII-4	Mbl Materiais Básicos Ltda	19.543.206/0001-96	-20°08'48.397"	-44°27'37.003"	Sul do Equador	MG	ITAÚNA	Minério de Ferro	6	6	Etapa única	Média	Média	C	Sim
+Dique BIII-5	Mbl Materiais Básicos Ltda	19.543.206/0001-96	-20°08'47.133"	-44°27'38.419"	Sul do Equador	MG	ITAÚNA	Minério de Ferro	4	11	Etapa única	Média	Média	C	Sim
+Dique Couves (MBL)	Mineração Usiminas S.a.	12.056.613/0001-20	-20°09'16.000"	-44°26'47.000"	Sul do Equador	MG	ITATIAIUÇU	Argila Arenosa	24	13.241,00	Etapa única	Baixa	Média	C	Sim
+DIQUE D	Brasmic Mineração Areia e Brita Ltda	22.470.777/0001-52	-19°59'08.000"	-44°07'17.300"	Sul do Equador	MG	BETIM	Areia e Cascalho	23	1.540.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+DIQUE DA PILHA DA VILA II	Csn Mineração S.a.	08.902.291/0001-15	-20°27'08.000"	-43°53'59.000"	Sul do Equador	MG	CONGONHAS	Cascalho	28	18.556,00	Etapa única	Baixa	Baixa	E	Sim
+Dique de Contenção de Sedimentos 01	Anglo American Minério de Ferro Brasil S.a	02.359.572/0004-30	-18°53'57.000"	-43°24'30.000"	Sul do Equador	MG	CONCEIÇÃO DO MATO DENTRO	Minério de Ferro	12	318.425,00	Etapa única	Baixa	Média	C	Sim
+Dique de Contenção de Sedimentos 02	Anglo American Minério de Ferro Brasil S.a	02.359.572/0004-30	-18°53'23.000"	-43°24'19.000"	Sul do Equador	MG	CONCEIÇÃO DO MATO DENTRO	Minério de Ferro	12	634.140,00	Etapa única	Baixa	Média	C	Sim
+Dique de Contenção de Sedimentos 03	Anglo American Minério de Ferro Brasil S.a	02.359.572/0004-30	-18°55'14.984"	-43°24'23.663"	Sul do Equador	MG	CONCEIÇÃO DO MATO DENTRO	Sedimento	15,5	473.452,00	Etapa única	Baixa	Alta	B	Sim
+Dique de Contenção de Sedimentos 04	Anglo American Minério de Ferro Brasil S.a	02.359.572/0004-30	-18°55'54.000"	-43°24'06.000"	Sul do Equador	MG	CONCEIÇÃO DO MATO DENTRO	Sedimento	14,6	81.360,90	Etapa única	Baixa	Média	C	Sim
+DIQUE DO BICHENTO IIIA	Csn Mineração S.a.	08.902.291/0001-15	-20°29'06.000"	-43°56'00.000"	Sul do Equador	MG	CONGONHAS	Cascalho	15,5	116.696,00	Etapa única	Baixa	Baixa	E	Sim
+DIQUE DO ENGENHO	Nacional Minerios Sa	08.446.702/0001-05	-20°27'23.300"	-43°53'40.100"	Sul do Equador	MG	CONGONHAS	Cascalho	10	8.821,00	Etapa única	Baixa	Média	C	Sim
+DIQUE DO ESMERIL IV	Csn Mineração S.a.	08.902.291/0001-15	-20°29'07.000"	-43°57'18.000"	Sul do Equador	MG	CONGONHAS	Cascalho	38	282.079,00	Etapa única	Baixa	Alta	B	Sim
+Dique Lisa	Vallourec Mineração Ltda	22.931.380/0001-10	-20°08'59.100"	-43°57'52.500"	Sul do Equador	MG	NOVA LIMA	Areia e Cascalho	12	45.562,87	Etapa única	Baixa	Alta	B	Sim
+Dique Norte da PDE 1	Gerdau Açominas S.a.	17.227.422/0001-05	-20°18'06.730"	-43°55'22.890"	Sul do Equador	MG	ITABIRITO	Dolomito	25	25.200,00	Etapa única	Baixa	Média	C	Sim
+Dique Oeste	Mineração Usiminas S.a.	12.056.613/0001-20	-20°10'15.500"	-44°27'16.500"	Sul do Equador	MG	ITATIAIUÇU	Argila Arenosa	16,7	85.000,00	Etapa única	Baixa	Baixa	E	Sim
+Dique S3	Samarco Mineração S A.	16.628.281/0001-61	-20°14'09.149"	-43°25'22.771"	Sul do Equador	MG	MARIANA	Sedimento	12	2.950.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Dique S4	Samarco Mineração S A.	16.628.281/0001-61	-20°14'28.600"	-43°24'39.193"	Sul do Equador	MG	MARIANA	Sedimento	12,5	1.006.318,00	Etapa única	Baixa	Alta	B	Sim
+Doutor	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°17'25.615"	-43°29'25.900"	Sul do Equador	MG	OURO PRETO	Minério de Ferro	77	37.683.207,40	Alteamento por linha de centro	Baixa	Alta	B	Sim
+EB-2	Anglo American Minério de Ferro Brasil S.a	02.359.572/0004-30	-20°20'41.300"	-42°33'42.800"	Sul do Equador	MG	SANTO ANTÔNIO DO GRAMA	Minério de Ferro	50	204.000,00	Etapa única	Baixa	Baixa	E	Sim
+Elefante	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°55'56.851"	-43°12'33.168"	Sul do Equador	MG	RIO PIRACICABA	Minério de Ferro	17	201.441,00	Etapa única	Baixa	Baixa	E	Sim
+Fernandinho	Vale S A Filial: Vale Vargem Grande	33.592.510/0034-12	-20°10'59.900"	-43°51'34.200"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	19	1.020.000,00	Alteamento a montante ou desconhecido	Baixa	Baixa	E	Sim
+Forquilha I	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°24'21.800"	-43°51'20.600"	Sul do Equador	MG	OURO PRETO	Minério de Ferro	98,28	12.042.671,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Forquilha II	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°24'29.800"	-43°51'06.500"	Sul do Equador	MG	OURO PRETO	Minério de Ferro	95,76	20.862.740,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Forquilha III	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°24'39.300"	-43°50'11.800"	Sul do Equador	MG	OURO PRETO	Minério de Ferro	77	23.143.107,62	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Forquilha IV	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°23'41.200"	-43°51'05.600"	Sul do Equador	MG	OURO PRETO	Minério de Ferro	105	4.306.560,00	Etapa única	Baixa	Alta	B	Sim
+Freitas	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°25'55.900"	-43°50'58.400"	Sul do Equador	MG	OURO PRETO	Minério de Ferro	7,5	45.000,00	Etapa única	Baixa	Média	C	Sim
+Galego	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°51'25.900"	-43°48'16.300"	Sul do Equador	MG	SABARÁ	Minério de Ferro	37,28	1.261.209,07	Alteamento a jusante	Baixa	Alta	B	Sim
+Grupo	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°24'53.200"	-43°51'54.500"	Sul do Equador	MG	OURO PRETO	Minério de Ferro	43	800.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+I	Vale S A Filial: Vale Paraopeba	33.592.510/0035-01	-20°07'08.800"	-44°07'12.900"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	86	11.741.325,34	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+II	Vale S A Filial: Vale Vargem Grande	33.592.510/0034-12	-20°09'10.400"	-43°53'18.300"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	20	18.241,00	Etapa única	Baixa	Baixa	E	Sim
+III	Vale S A Filial: Vale Vargem Grande	33.592.510/0034-12	-20°09'20.500"	-43°53'13.600"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	11	16.846,00	Etapa única	Baixa	Média	C	Sim
+Itabiruçu	Vale S A Filial: Vale Itabira	33.592.510/0164-09	-19°41'07.300"	-43°17'10.400"	Sul do Equador	MG	ITABIRA	Minério de Ferro	71	130.751.697,30	Alteamento a jusante	Baixa	Alta	B	Sim
+Itamarati de Minas	Companhia Brasileira de Alumínio	61.409.892/0001-73	-21°27'18.809"	-42°52'17.972"	Sul do Equador	MG	ITAMARATI DE MINAS	Bauxita Grau Metalúrgico	38	13.820.000,00	Etapa única	Baixa	Alta	B	Sim
+IV	Vale S A Filial: Vale Paraopeba	33.592.510/0035-01	-20°08'12.200"	-44°07'13.300"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	13,4	238.000,00	Etapa única	Baixa	Alta	B	Sim
+IV-A	Vale S A Filial: Vale Paraopeba	33.592.510/0035-01	-20°08'22.200"	-44°07'23.100"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	14	130.000,00	Etapa única	Baixa	Alta	B	Sim
+Jirau	Vale S A Filial: Vale Itabira	33.592.510/0164-09	-19°34'13.730"	-43°13'53.604"	Sul do Equador	MG	ITABIRA	Minério de Ferro	15	1.400.000,00	Etapa única	Baixa	Baixa	E	Sim
+Lavra Azul	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°07'03.986"	-43°24'27.553"	Sul do Equador	MG	CATAS ALTAS	Minério de Ferro	19,1	10.000,00	Etapa única	Baixa	Média	C	Sim
+Maravilhas I	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°13'29.700"	-43°52'23.600"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	12	1.860.000,00	Alteamento a jusante	Baixa	Média	C	Sim
+Maravilhas II	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°12'51.900"	-43°53'30.100"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	97,92	94.590.445,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Marçu	Nacional de Grafite Ltda	21.228.861/0001-00	-15°53'19.800"	-41°03'36.800"	Sul do Equador	MG	PEDRA AZUL	Xisto	37	156.260,00	Alteamento a jusante	Baixa	Média	C	Sim
+Marés I	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°25'31.000"	-43°55'40.300"	Sul do Equador	MG	BELO VALE	Minério de Ferro	12,7	15.000,00	Etapa única	Baixa	Alta	B	Sim
+Marés II	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°26'02.200"	-43°55'53.600"	Sul do Equador	MG	BELO VALE	Minério de Ferro	16,05	241.000,00	Etapa única	Baixa	Alta	B	Sim
+Menezes I	Vale S A Filial: Vale Paraopeba	33.592.510/0035-01	-20°07'10.700"	-44°08'21.200"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	16,85	8.068,00	Etapa única	Baixa	Baixa	E	Sim
+Menezes II	Vale S A Filial: Vale Paraopeba	33.592.510/0035-01	-20°07'41.100"	-44°08'17.800"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	21	290.202,16	Etapa única	Baixa	Alta	B	Sim
+Miraí	Companhia Brasileira de Alumínio	61.409.892/0001-73	-21°03'43.757"	-42°33'49.546"	Sul do Equador	MG	MIRAÍ	Bauxita Grau Metalúrgico	52	31.598.100,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Moita	Mineração Serras do Oeste Eireli	28.917.748/0001-72	-19°56'05.733"	-43°38'56.601"	Sul do Equador	MG	CAETÉ	Minério de Ouro Primário	19	335.562,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+Monjolo	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°57'49.103"	-43°14'16.323"	Sul do Equador	MG	SANTA BÁRBARA	Minério de Ferro	23,5	400.000,00	Etapa única	Baixa	Alta	B	Sim
+Mosquito	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°06'19.708"	-43°24'15.056"	Sul do Equador	MG	CATAS ALTAS	Minério de Ferro	11,3	1.089.830,50	Etapa única	Baixa	Alta	B	Sim
+Norte/Laranjeiras	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°50'54.032"	-43°25'18.194"	Sul do Equador	MG	BARÃO DE COCAIS	Minério de Ferro	58,8	16.550.529,00	Etapa única	Baixa	Alta	B	Sim
+Nova Barragem de Santarém	Samarco Mineração S A.	16.628.281/0001-61	-20°13'50.314"	-43°26'29.842"	Sul do Equador	MG	MARIANA	Itabirito	48	6.940.000,00	Etapa única	Baixa	Alta	B	Sim
+Paracatu	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°07'06.227"	-43°24'52.458"	Sul do Equador	MG	CATAS ALTAS	Minério de Ferro	23	36.685,00	Etapa única	Baixa	Média	C	Sim
+PDE 3	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°51'50.917"	-43°21'21.130"	Sul do Equador	MG	SÃO GONÇALO DO RIO ABAIXO	Minério de Ferro	34,5	22.101,00	Etapa única	Baixa	Baixa	E	Sim
+PDE Fosforoso	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°09'33.507"	-43°28'09.519"	Sul do Equador	MG	MARIANA	Minério de Ferro	21	20.000,00	Etapa única	Baixa	Baixa	E	Sim
+PDE Permanente I	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°11'04.315"	-43°26'15.409"	Sul do Equador	MG	MARIANA	Minério de Ferro	9,5	30.000,00	Etapa única	Baixa	Alta	B	Sim
+PDE Permanente II - Fase I	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°12'26.903"	-43°27'15.839"	Sul do Equador	MG	MARIANA	Minério de Ferro	7	15.000,00	Etapa única	Baixa	Média	C	Sim
+Peneirinha	Vale S A Filial: Vale Vargem Grande	33.592.510/0034-12	-20°06'38.215"	-43°57'49.011"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	40	431.595,59	Alteamento a jusante	Baixa	Média	C	Sim
+Piabas	Vale S A Filial: Vale Itabira	33.592.510/0164-09	-19°33'48.506"	-43°12'22.618"	Sul do Equador	MG	ITABIRA	Minério de Ferro	28	1.537.164,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Pilha Barragem	EXTRATIVA MINERAL LTDA	17.174.889/0001-26	-20°06'44.700"	-43°54'28.500"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	25	1.830.000,00	Alteamento a montante ou desconhecido	Baixa	Baixa	E	Sim
+Pontal	Vale S A Filial: Vale Itabira	33.592.510/0164-09	-19°37'31.668"	-43°10'58.597"	Sul do Equador	MG	ITABIRA	Minério de Ferro	69	226.957.900,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Porteirinha	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°57'33.134"	-43°23'08.448"	Sul do Equador	MG	SANTA BÁRBARA	Minério de Ferro	31	800.200,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Principal	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°10'24.600"	-43°36'55.100"	Sul do Equador	MG	SANTA BÁRBARA	Minério de Ferro	20	1.994.773,00	Etapa única	Baixa	Alta	B	Sim
+Quinzinho	Vale S A Filial: Vale Itabira	33.592.510/0164-09	-19°36'26.409"	-43°15'26.118"	Sul do Equador	MG	ITABIRA	Minério de Ferro	16	107.057,00	Etapa única	Baixa	Alta	B	Sim
+Rancho Casca	Nacional de Grafite Ltda	21.228.861/0001-00	-15°55'07.900"	-41°02'20.600"	Sul do Equador	MG	PEDRA AZUL	Xisto	50	17.500.000,00	Etapa única	Baixa	Alta	B	Sim
+RAPAUNHA	Anglogold Ashanti Córrego do Sítio Mineração S.a.	18.565.382/0001-66	-19°57'54.000"	-43°50'29.000"	Sul do Equador	MG	NOVA LIMA	Minério de Ouro Primário	50,5	8.690.243,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Rio do Peixe	Vale S A Filial: Vale Itabira	33.592.510/0164-09	-19°40'27.200"	-43°14'11.100"	Sul do Equador	MG	ITABIRA	Minério de Ferro	31	13.800.000,00	Etapa única	Baixa	Alta	B	Sim
+Santa Bárbara	Vallourec Mineração Ltda	22.931.380/0001-10	-20°09'42.700"	-44°00'22.400"	Sul do Equador	MG	BRUMADINHO	Areia e Cascalho	36	660.278,89	Alteamento a jusante	Baixa	Alta	B	Sim
+Santana	Vale S A Filial: Vale Itabira	33.592.510/0164-09	-19°33'18.339"	-43°09'39.105"	Sul do Equador	MG	ITABIRA	Minério de Ferro	52,4	15.700.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Sul (Córrego do Canal)	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°53'02.310"	-43°23'08.448"	Sul do Equador	MG	SÃO GONÇALO DO RIO ABAIXO	Minério de Ferro	83	53.740.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Sul Inferior	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°58'32.614"	-43°36'02.511"	Sul do Equador	MG	BARÃO DE COCAIS	Minério de Ferro	35	510.361,84	Etapa única	Baixa	Alta	B	Sim
+Sul Superior	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°58'12.632"	-43°35'48.721"	Sul do Equador	MG	BARÃO DE COCAIS	Minério de Ferro	85	6.016.849,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Tanque Específico IX-B	Kinross Brasil Mineração S A	20.346.524/0001-46	-17°10'26.920"	-46°52'44.750"	Sul do Equador	MG	PARACATU	Minério de Ouro Primário	15	1.010.000,00	Etapa única	Baixa	Média	C	Sim
+Tanque Específico X	Kinross Brasil Mineração S A	20.346.524/0001-46	-17°10'31.570"	-46°53'15.970"	Sul do Equador	MG	PARACATU	Minério de Ouro Primário	15	1.188.168,57	Etapa única	Baixa	Média	C	Sim
+Tanque Específico XI	Kinross Brasil Mineração S A	20.346.524/0001-46	-17°10'20.670"	-46°52'59.920"	Sul do Equador	MG	PARACATU	Minério de Ouro Primário	11,8	530.359,06	Etapa única	Baixa	Média	C	Sim
+Tanque Específico XII	Kinross Brasil Mineração S A	20.346.524/0001-46	-17°10'56.180"	-46°53'55.680"	Sul do Equador	MG	PARACATU	Minério de Ouro Primário	46,3	1.749.516,71	Alteamento a jusante	Baixa	Média	C	Sim
+Taquaras	Minerações Brasileiras Reunidas Sa Filial: MBR Paraopeba	33.417.445/0026-89	-20°02'21.600"	-43°55'44.900"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	25	950.000,00	Etapa única	Baixa	Alta	B	Sim
+Timbopeba	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°16'13.852"	-43°29'46.447"	Sul do Equador	MG	OURO PRETO	Minério de Ferro	64,9	34.000.000,00	Etapa única	Baixa	Alta	B	Sim
+Três Fontes	Vale S A Filial: Vale Itabira	33.592.510/0164-09	-19°37'19.516"	-43°14'02.625"	Sul do Equador	MG	ITABIRA	Minério de Ferro	10	20.500,00	Etapa única	Baixa	Alta	B	Sim
+Turmalina	Mineração Turmalina Ltda	01.731.616/0001-03	-19°44'45.800"	-44°52'27.900"	Sul do Equador	MG	CONCEIÇÃO DO PARÁ	Minério de Ouro Primário	18	684.133,45	Etapa única	Baixa	Alta	B	Sim
+Vargem Grande	Vale S A Filial: Vale Vargem Grande	33.592.510/0034-12	-20°10'54.700"	-43°52'01.200"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	35	9.500.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+VI	Vale S A Filial: Vale Paraopeba	33.592.510/0035-01	-20°07'08.600"	-44°07'27.900"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	40	843.809,00	Etapa única	Baixa	Alta	B	Sim
+VI	Vale S A Filial: Vale Paraopeba	33.592.510/0035-01	-20°07'08.600"	-44°07'27.900"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	40	843.809,00	Etapa única	Baixa	Alta	B	Sim
+VII	Vale S A Filial: Vale Paraopeba	33.592.510/0035-01	-20°06'15.400"	-44°07'10.800"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	22,5	22.200,00	Etapa única	Baixa	Média	C	Sim
+Volta Grande 1	Amg Mineração S.a.	11.224.676/0001-85	-21°05'08.200"	-44°35'12.700"	Sul do Equador	MG	NAZARENO	Pegmatito	40	658.400,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Volta Grande 2	Amg Mineração S.a.	11.224.676/0001-85	-21°05'16.000"	-44°35'22.800"	Sul do Equador	MG	NAZARENO	Pegmatito	32	1.258.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Volta Grande 3	Amg Mineração S.a.	11.224.676/0001-85	-21°04'21.600"	-44°35'18.540"	Sul do Equador	MG	SÃO TIAGO	Pegmatito	19	264.601,17	Etapa única	Baixa	Alta	B	Sim
+Bacia 02 Pé da Serra	Mineração Corumbaense Reunida Sa	03.327.988/0001-96	-19°10'16.626"	-57°38'11.201"	Sul do Equador	MS	CORUMBÁ	Minério de Ferro	4,25	27.525,00	Etapa única	Baixa	Média	C	Sim
+Bacia 03-04 Pé da Serra	Mineração Corumbaense Reunida Sa	03.327.988/0001-96	-19°10'26.511"	-57°38'22.230"	Sul do Equador	MS	CORUMBÁ	Minério de Ferro	4,2	84.510,65	Etapa única	Baixa	Média	C	Sim
+Bacia 07-08 Pé da Serra	Mineração Corumbaense Reunida Sa	03.327.988/0001-96	-19°10'31.131"	-57°38'22.111"	Sul do Equador	MS	CORUMBÁ	Minério de Manganês	4,95	169.312,50	Etapa única	Baixa	Alta	B	Sim
+Barragem B-6	Vetorial Mineração S A	61.247.870/0001-54	-19°15'45.700"	-57°31'37.400"	Sul do Equador	MS	CORUMBÁ	Minério de Ferro	11	103.000,00	Etapa única	Baixa	Média	C	Sim
+Barragem Sul	Vetorial Mineração S A	61.247.870/0001-54	-19°12'19.900"	-57°38'07.100"	Sul do Equador	MS	CORUMBÁ	Minério de Ferro	23	600.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Gregório	Mineração Corumbaense Reunida Sa	03.327.988/0001-96	-19°13'28.008"	-57°33'35.925"	Sul do Equador	MS	CORUMBÁ	Minério de Ferro	34,5	2.130.284,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+B1	Arthur Henrique de Melo	00.092.022/0141-20	-16°08'23.400"	-56°23'40.400"	Sul do Equador	MT	NOSSA SENHORA DO LIVRAMENTO	Minério de Ouro Primário	10	500.668,83	Alteamento a jusante	Baixa	Média	C	Sim
+B1	Mineração Apoena S A	10.302.599/0001-71	-14°32'41.040"	-59°46'31.110"	Sul do Equador	MT	NOVA LACERDA	Rocha Aurífera	6	245.385,00	Etapa única	Baixa	Alta	B	Sim
+B5	Mineração Apoena S A	10.302.599/0001-71	-14°32'13.600"	-59°46'12.880"	Sul do Equador	MT	NOVA LACERDA	Minério de Ouro Primário	8	1.270.287,00	Alteamento a montante ou desconhecido	Média	Alta	B	Sim
+Bacia de Rejeitos	Reginaldo Luiz de Almeida Ferreira Me	08.838.089/0001-71	-15°41'28.900"	-56°21'03.500"	Sul do Equador	MT	NOSSA SENHORA DO LIVRAMENTO	Rocha Aurífera	25	625.000,00	Alteamento a jusante	Média	Baixa	D	Sim
+Barragem 01	Salinas Gold Mineração Ltda	03.212.955/0001-09	-16°11'03.320"	-56°26'06.040"	Sul do Equador	MT	POCONÉ	Minério de Ouro Primário	22,05	4.640.000,00	Alteamento a jusante	Média	Alta	B	Sim
+Barragem 1	José João de Pinho Novo	00.044.167/8141-53	-16°05'04.810"	-56°33'54.300"	Sul do Equador	MT	POCONÉ	Argila	6	50.000,00	Alteamento a jusante	Média	Média	C	Sim
+Barragem de Rejeito 1	Valdinei Mauro de Souza	00.056.836/0581-49	-16°18'18.490"	-56°43'14.198"	Sul do Equador	MT	POCONÉ	Minério de Ouro Primário	15	1.067.704,20	Alteamento por linha de centro	Média	Baixa	D	Sim
+Barragem de Rejeito Estrela 03	Mara Daisy Gil Dias	00.082.494/2401-82	-15°39'16.700"	-56°23'19.550"	Sul do Equador	MT	NOSSA SENHORA DO LIVRAMENTO	Minério de Ouro Primário	10	95.000,00	Alteamento por linha de centro	Baixa	Média	C	Sim
+Barragem de Rejeito Max	Marcio Nascimento	00.005.208/1651-04	-15°53'44.100"	-56°11'07.400"	Sul do Equador	MT	NOSSA SENHORA DO LIVRAMENTO	Areia	7,5	1.205.301,52	Alteamento a jusante	Média	Média	C	Sim
+Barragem de Rejeitos Bom Futuro	José Maria Otávio Martins Duarte	00.086.950/7031-04	-15°39'33.400"	-56°17'06.300"	Sul do Equador	MT	NOSSA SENHORA DO LIVRAMENTO	Rocha Aurífera	15	1.183.119,15	Alteamento a jusante	Baixa	Baixa	E	Sim
+Barragem do Serginho	Sergio da Silva	00.020.618/9991-91	-15°55'18.280"	-56°09'47.540"	Sul do Equador	MT	NOSSA SENHORA DO LIVRAMENTO	Minério de Ouro Primário	30	2.100.000,00	Alteamento a jusante	Média	Baixa	D	Sim
+Barragem EPP	Mineração Apoena S A	10.302.599/0001-71	-15°19'47.800"	-59°15'18.300"	Sul do Equador	MT	PONTES E LACERDA	Rocha Aurífera	51	4.508.500,37	Alteamento a jusante	Baixa	Alta	B	Sim
+BARRAGEM T01	Valdinei Mauro de Souza	00.056.836/0581-49	-16°17'26.700"	-56°42'43.100"	Sul do Equador	MT	POCONÉ	Rocha Aurífera	16	1.654.500,00	Alteamento por linha de centro	Baixa	Baixa	E	Sim
+BARRAGEM T02	Euler Oliveira Coelho	00.087.897/8905-97	-15°33'42.540"	-55°49'21.340"	Sul do Equador	MT	CUIABÁ	Rocha Aurífera	10	3.534.000,00	Alteamento por linha de centro	Baixa	Baixa	E	Sim
+BARRAGEM T03	Euler Oliveira Coelho	00.087.897/8905-97	-15°50'05.240"	-56°11'12.360"	Sul do Equador	MT	NOSSA SENHORA DO LIVRAMENTO	Rocha Aurífera	12	3.704.000,00	Alteamento a jusante	Média	Baixa	D	Sim
+BR BOSCO	Filadelfo dos Reis Dias	00.004.794/2901-44	-15°39'22.881"	-56°20'16.227"	Sul do Equador	MT	NOSSA SENHORA DO LIVRAMENTO	Minério de Ouro Primário	45	1.300.000,00	Alteamento a jusante	Média	Média	C	Sim
+BR ISMAEL	Ismael Ledovino de Arruda	00.015.682/9861-72	-16°14'43.930"	-56°35'21.410"	Sul do Equador	MT	POCONÉ	Areia	14	450.000,00	Alteamento a jusante	Média	Média	C	Sim
+BR SANTA FELICIDADE	Filadelfo dos Reis Dias	00.004.794/2901-44	-15°39'49.845"	-56°21'09.410"	Sul do Equador	MT	NOSSA SENHORA DO LIVRAMENTO	Minério de Ouro Primário	20,3	650.000,00	Alteamento a montante ou desconhecido	Média	Média	C	Sim
+BRAVO 1	Nagella Chrissie Firmino Bravo	00.004.238/0611-44	-15°27'59.450"	-56°27'39.225"	Sul do Equador	MT	NOSSA SENHORA DO LIVRAMENTO	Minério de Ouro Primário	15	941.039,88	Alteamento a jusante	Baixa	Média	C	Sim
+Cabeceiras	Mineração Apoena S A	10.302.599/0001-71	-14°50'09.557"	-59°40'08.728"	Sul do Equador	MT	VILA BELA DA SANTÍSSIMA TRINDADE	Minério de Ouro Primário	16,5	64.107,97	Etapa única	Baixa	Média	C	Sim
+CASA DE PEDRA	Maney Mineração Casa de Pedra Ltda	80.336.233/0001-07	-15°33'36.400"	-55°47'33.900"	Sul do Equador	MT	CUIABÁ	Minério de Ouro Primário	8	15.652.000,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+Casarão	Mineração Apoena S A	10.302.599/0001-71	-14°51'08.697"	-59°39'16.087"	Sul do Equador	MT	VILA BELA DA SANTÍSSIMA TRINDADE	Minério de Ouro Primário	15,3	50.676,20	Etapa única	Baixa	Média	C	Sim
+Dique de Finos	Mineração Apoena S A	10.302.599/0001-71	-14°50'22.300"	-59°39'27.300"	Sul do Equador	MT	VILA BELA DA SANTÍSSIMA TRINDADE	Minério de Ouro Primário	19	419.440,80	Etapa única	Baixa	Alta	B	Sim
+GONÇA	Gonçalo Pedroso de Barros	00.017.807/3441-72	-16°14'03.300"	-56°36'35.600"	Sul do Equador	MT	POCONÉ	Areia	1,45	265.000,00	Alteamento a jusante	Média	Média	C	Sim
+OURO FINO	Lysander Lima de França	00.005.533/4409-92	-16°18'45.010"	-56°39'08.230"	Sul do Equador	MT	POCONÉ	Areia	20	867.000,00	Alteamento a jusante	Média	Média	C	Sim
+Planta	PROMETÁLICA MINERAÇÃO LTDA	03.564.155/0001-49	-15°23'46.300"	-58°08'42.900"	Sul do Equador	MT	RIO BRANCO	Minério de Zinco	20	230.000,00	Etapa única	Média	Alta	B	Sim
+POND 1 - BARRAGEM DE LIXIVIAÇÃO	NX GOLD S A Filial: NX GOLD SA	18.501.410/0002-62	-14°38'26.700"	-52°29'49.000"	Sul do Equador	MT	NOVA XAVANTINA	Minério de Ouro Primário	13,12	440.000,00	Etapa única	Baixa	Alta	B	Sim
+POND 2 - BARRAGEM DE FLOTAÇÃO	NX GOLD S A Filial: NX GOLD SA	18.501.410/0002-62	-14°38'20.200"	-52°29'55.000"	Sul do Equador	MT	NOVA XAVANTINA	Minério de Ouro Primário	16,24	210.000,00	Etapa única	Baixa	Média	C	Sim
+POND 3 - BARRAGEM DE FLOTAÇÃO	NX GOLD S A Filial: NX GOLD SA	18.501.410/0002-62	-14°38'21.600"	-52°30'04.900"	Sul do Equador	MT	NOVA XAVANTINA	Minério de Ouro Primário	13,58	150.000,00	Etapa única	Baixa	Média	C	Sim
+RONDON	ROBERTO NUNES RONDON	00.035.257/1131-04	-16°17'32.640"	-56°39'02.720"	Sul do Equador	MT	POCONÉ	Areia	25	490.000,00	Alteamento a jusante	Média	Média	C	Sim
+SANDRO GOMES	Valdinei Mauro de Souza	00.056.836/0581-49	-16°17'42.550"	-56°43'32.220"	Sul do Equador	MT	POCONÉ	Areia	19	200.000,00	Alteamento a jusante	Baixa	Baixa	E	Sim
+Santa Tereza	Jeová Barbosa de Morais	00.070.217/8581-04	-15°52'21.100"	-56°10'19.900"	Sul do Equador	MT	NOSSA SENHORA DO LIVRAMENTO	Aluvião Aurífero	15	671.803,89	Alteamento a jusante	Média	Média	C	Sim
+Santa Tereza II	Jeová Barbosa de Morais	00.070.217/8581-04	-15°52'28.649"	-56°09'59.637"	Sul do Equador	MT	NOSSA SENHORA DO LIVRAMENTO	Minério de Ouro Primário	5	150.000,00	Alteamento a jusante	Média	Média	C	Sim
+Tanque Fundo	Humberto Covezzi	00.029.902/5251-72	-15°59'15.130"	-56°18'49.880"	Sul do Equador	MT	NOSSA SENHORA DO LIVRAMENTO	Minério de Ouro Primário	10,4	1.267.291,33	Alteamento a jusante	Média	Baixa	D	Sim
+Tarumã	VM Mineração e Construção Eireli EPP	03.121.422/0001-03	-16°13'12.740"	-56°36'35.760"	Sul do Equador	MT	POCONÉ	Minério de Ouro Primário	15	642.200,99	Alteamento a jusante	Baixa	Baixa	E	Sim
+TB01	Marcelo Massaru Takahashi	00.061.608/3191-72	-15°57'23.000"	-56°28'44.300"	Sul do Equador	MT	NOSSA SENHORA DO LIVRAMENTO	Minério de Ouro Primário	15	582.171,51	Alteamento a jusante	Baixa	Baixa	E	Sim
+2 Kalunga	Vale S A Filial: Vale Manganês do Azul	33.592.510/0130-51	-6°07'07.300"	-50°18'18.900"	Sul do Equador	PA	PARAUAPEBAS	Minério de Manganês	7,5	718.027,00	Etapa única	Baixa	Média	C	Sim
+Azul	Vale S A Filial: Vale Manganês do Azul	33.592.510/0130-51	-6°04'41.300"	-50°17'29.300"	Sul do Equador	PA	PARAUAPEBAS	Minério de Manganês	32	12.995.662,00	Alteamento a jusante	Baixa	Alta	B	Sim
+B1	Mineração Paragominas S A Filial: Mineração Paragominas S.A.	12.094.570/0004-10	-3°15'54.986"	-47°45'11.167"	Sul do Equador	PA	PARAGOMINAS	Bauxita Grau Metalúrgico	31,8	21.100.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+B5	Mineração Paragominas S A Filial: Mineração Paragominas S.A.	12.094.570/0004-10	-3°16'30.000"	-47°44'11.000"	Sul do Equador	PA	PARAGOMINAS	Bauxita Grau Metalúrgico	37	3.218.629,00	Alteamento a jusante	Baixa	Alta	B	Sim
+B6	Mineração Paragominas S A Filial: Mineração Paragominas S.A.	12.094.570/0004-10	-3°15'34.180"	-47°45'29.495"	Sul do Equador	PA	PARAGOMINAS	Bauxita Grau Metalúrgico	13	595.008,65	Etapa única	Baixa	Alta	B	Sim
+Bacia 1 A	Imerys, Rio Capim Caulim S A	16.532.798/0001-52	-1°34'27.000"	-48°45'01.800"	Sul do Equador	PA	BARCARENA	Caulim	9	858.000,00	Etapa única	Baixa	Alta	B	Sim
+Bacia 1 B	Imerys, Rio Capim Caulim S A	16.532.798/0001-52	-1°34'27.000"	-48°45'01.800"	Sul do Equador	PA	BARCARENA	Caulim	9	260.000,00	Etapa única	Baixa	Alta	B	Sim
+Bacia 17	Serabi Mineração S.a.	04.207.303/0001-30	-6°19'30.340"	-55°47'10.880"	Sul do Equador	PA	ITAITUBA	Minério de Ouro Primário	14,5	80.000,00	Etapa única	Baixa	Média	C	Sim
+Bacia 2	Imerys, Rio Capim Caulim S A	16.532.798/0001-52	-1°34'23.000"	-48°45'20.000"	Sul do Equador	PA	BARCARENA	Caulim	9	850.000,00	Etapa única	Baixa	Alta	B	Sim
+Bacia 3	Imerys, Rio Capim Caulim S A	16.532.798/0001-52	-1°34'14.200"	-48°45'25.300"	Sul do Equador	PA	BARCARENA	Caulim	9	465.584,00	Etapa única	Baixa	Alta	B	Sim
+Bacia 5 A	Imerys, Rio Capim Caulim S A	16.532.798/0001-52	-1°35'01.500"	-48°44'56.400"	Sul do Equador	PA	BARCARENA	Caulim	13,5	510.000,00	Etapa única	Baixa	Alta	B	Sim
+Bacia 5 B	Imerys, Rio Capim Caulim S A	16.532.798/0001-52	-1°35'02.400"	-48°44'56.100"	Sul do Equador	PA	BARCARENA	Caulim	13,5	270.000,00	Etapa única	Baixa	Alta	B	Sim
+Bacia 5 C	Imerys, Rio Capim Caulim S A	16.532.798/0001-52	-1°35'02.400"	-48°44'56.100"	Sul do Equador	PA	BARCARENA	Caulim	13,5	767.000,00	Etapa única	Baixa	Alta	B	Sim
+Bacia 6 A	Imerys, Rio Capim Caulim S A	16.532.798/0001-52	-1°34'58.000"	-48°44'49.400"	Sul do Equador	PA	BARCARENA	Caulim	11	366.433,00	Etapa única	Baixa	Média	C	Sim
+Bacia B 1	Imerys, Rio Capim Caulim S A	16.532.798/0001-52	-1°34'33.800"	-48°46'32.200"	Sul do Equador	PA	BARCARENA	Caulim	3	80.000,00	Etapa única	Baixa	Alta	B	Sim
+Bacia B 1	Pará Pigmentos S A	33.931.510/0001-31	-2°50'07.700"	-47°54'30.800"	Sul do Equador	PA	IPIXUNA DO PARÁ	Caulim	13	270.000,00	Etapa única	Baixa	Média	C	Sim
+Bacia B 4	Imerys, Rio Capim Caulim S A	16.532.798/0001-52	-1°34'39.000"	-48°46'32.000"	Sul do Equador	PA	BARCARENA	Caulim	4,5	45.000,00	Etapa única	Baixa	Média	C	Sim
+Bacia de Controle Ambiental	Pará Pigmentos S A	33.931.510/0001-31	-2°49'14.600"	-47°54'23.400"	Sul do Equador	PA	IPIXUNA DO PARÁ	Caulim	8	175.000,00	Etapa única	Baixa	Média	C	Sim
+BACIA DE REJEITOS 14/15	Serabi Mineração S.a.	04.207.303/0001-30	-6°19'28.400"	-55°47'16.300"	Sul do Equador	PA	ITAITUBA	Minério de Ouro Primário	8	130.000,00	Alteamento a montante ou desconhecido	Média	Média	C	Sim
+BACIA DE REJEITOS 16	Serabi Mineração S.a.	04.207.303/0001-30	-6°19'30.300"	-55°47'04.200"	Sul do Equador	PA	ITAITUBA	Minério de Ouro Primário	7	87.000,00	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+Bacia de Segurança	Imerys, Rio Capim Caulim S A	16.532.798/0001-52	-1°34'58.000"	-48°44'49.400"	Sul do Equador	PA	BARCARENA	Caulim	11	30.000,00	Etapa única	Baixa	Média	C	Sim
+Barragem Antas Norte	Avb Mineração Ltda.	07.605.563/0001-52	-6°14'10.040"	-49°45'59.230"	Sul do Equador	PA	CURIONÓPOLIS	Minério de Cobre	11	1.058.000,00	Etapa única	Baixa	Média	C	Sim
+Barragem de Água do Igarapé Bahia	Vale Minas Gerais	33.592.510/0217-47	-6°01'44.576"	-50°33'06.980"	Sul do Equador	PA	PARAUAPEBAS	Areia	14,7	600.000,00	Alteamento a jusante	Baixa	Média	C	Sim
+BARRAGEM DE CAPTAÇÃO	Salobo Metais Sa.	33.931.478/0001-94	-5°47'54.100"	-50°30'09.500"	Sul do Equador	PA	MARABÁ	Minério de Cobre	19	220.238,65	Etapa única	Baixa	Média	C	Sim
+BARRAGEM DE FINOS II	Salobo Metais Sa.	33.931.478/0001-94	-5°49'26.300"	-50°29'29.100"	Sul do Equador	PA	MARABÁ	Minério de Cobre	13	891.538,00	Etapa única	Baixa	Média	C	Sim
+BARRAGEM DE REJEITOS	Salobo Metais Sa.	33.931.478/0001-94	-5°46'40.800"	-50°31'22.500"	Sul do Equador	PA	MARABÁ	Minério de Cobre	63	33.200.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Barragem do Bandeira	Mineração Buritirama S A	27.121.672/0001-01	-5°30'45.000"	-50°13'21.000"	Sul do Equador	PA	MARABÁ	Minério de Manganês	14,6	1.724.296,94	Alteamento a jusante	Baixa	Média	C	Sim
+Barragem do Mirante I e II	Cadam S.a.	04.788.980/0001-90	-0°53'51.400"	-52°26'30.500"	Sul do Equador	PA	ALMEIRIM	Caulim	35	1.182.758,00	Alteamento a jusante	Baixa	Alta	B	Sim
+BARRAGEM DO SOSSEGO	Vale S A Filial: Vale Mina Sossego	33.592.510/0009-01	-6°25'44.792"	-50°04'12.554"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Minério de Cobre	42,1	108.444.833,89	Alteamento por linha de centro	Baixa	Alta	B	Sim
+Deposito de Rejeito R4	Pará Pigmentos S A	33.931.510/0001-31	-2°49'14.275"	-47°53'36.798"	Sul do Equador	PA	IPIXUNA DO PARÁ	Caulim	10	1.190.000,00	Etapa única	Baixa	Média	C	Sim
+DIQUE DE FINOS I	Salobo Metais Sa.	33.931.478/0001-94	-5°49'02.136"	-50°34'01.808"	Sul do Equador	PA	MARABÁ	Minério de Cobre	11	969.524,00	Etapa única	Baixa	Média	C	Sim
+DIQUE DE FINOS II	Salobo Metais Sa.	33.931.478/0001-94	-5°49'57.400"	-50°32'28.000"	Sul do Equador	PA	MARABÁ	Minério de Cobre	16,42	2.800.000,00	Etapa única	Baixa	Média	C	Sim
+DIQUE DE FINOS III	Salobo Metais Sa.	33.931.478/0001-94	-5°46'46.700"	-50°32'19.100"	Sul do Equador	PA	MARABÁ	Minério de Cobre	16,5	22.937,88	Etapa única	Baixa	Média	C	Sim
+Estéril Sul	Vale S A Filial: Vale Carajas	33.592.510/0370-74	-6°05'58.000"	-50°09'45.000"	Sul do Equador	PA	PARAUAPEBAS	Minério de Ferro	25	1.875.779,93	Etapa única	Baixa	Média	C	Sim
+Geladinho	Vale S A Filial: Vale Carajas	33.592.510/0370-74	-5°59'41.200"	-50°06'34.100"	Sul do Equador	PA	PARAUAPEBAS	Minério de Ferro	24	5.811.299,00	Etapa única	Baixa	Alta	B	Sim
+Gelado	Vale S A Filial: Vale Carajas	33.592.510/0370-74	-5°58'45.400"	-50°08'29.100"	Sul do Equador	PA	PARAUAPEBAS	Minério de Ferro	34	110.469.304,67	Alteamento a jusante	Baixa	Alta	B	Sim
+Jacaré	Vale S A Filial: Vale Carajas	33.592.510/0370-74	-6°06'29.300"	-50°10'08.600"	Sul do Equador	PA	PARAUAPEBAS	Minério de Ferro	34,5	681.816,00	Etapa única	Baixa	Média	C	Sim
+Kalunga	Vale S A Filial: Vale Manganês do Azul	33.592.510/0130-51	-6°06'45.100"	-50°18'29.900"	Sul do Equador	PA	PARAUAPEBAS	Minério de Manganês	21	1.662.946,63	Alteamento a jusante	Baixa	Média	C	Sim
+LD1 - Lagoa de Disposição 01	Alcoa World Alumina Brasil Ltda.	06.167.730/0001-68	-2°30'02.500"	-56°10'00.500"	Sul do Equador	PA	JURUTI	Bauxita Grau Não Metalúrgico	24	2.879.251,38	Etapa única	Baixa	Média	C	Sim
+LD2 - Lagoa de Disposição 02	Alcoa World Alumina Brasil Ltda.	06.167.730/0001-68	-2°29'47.800"	-56°10'25.700"	Sul do Equador	PA	JURUTI	Bauxita Grau Não Metalúrgico	24	3.037.180,56	Alteamento a jusante	Baixa	Média	C	Sim
+LD3 - Lagoa de Disposição 03	Alcoa World Alumina Brasil Ltda.	06.167.730/0001-68	-2°29'45.200"	-56°11'16.840"	Sul do Equador	PA	JURUTI	Bauxita Grau Não Metalúrgico	14,8	6.024.760,00	Etapa única	Baixa	Média	C	Sim
+LE - Lagoa de Espessamento	Alcoa World Alumina Brasil Ltda.	06.167.730/0001-68	-2°30'18.000"	-56°10'32.800"	Sul do Equador	PA	JURUTI	Bauxita Grau Não Metalúrgico	11,5	4.178.849,93	Etapa única	Baixa	Média	C	Sim
+Pera Jusante	Vale S A Filial: Vale Carajas	33.592.510/0370-74	-6°02'49.900"	-50°08'34.500"	Sul do Equador	PA	PARAUAPEBAS	Minério de Ferro	51	4.249.278,83	Etapa única	Baixa	Alta	B	Sim
+Pera Montante	Vale S A Filial: Vale Carajas	33.592.510/0370-74	-6°03'24.600"	-50°08'37.600"	Sul do Equador	PA	PARAUAPEBAS	Minério de Ferro	30	641.566,00	Etapa única	Baixa	Baixa	E	Sim
+PONDES DE REJEITOS DO IGARAPÉ BAHIA	Vale S A Filial: Vale Minas Gerais	33.592.510/0217-47	-6°02'33.300"	-50°34'49.900"	Sul do Equador	PA	PARAUAPEBAS	Minério de Ouro Primário	25	12.000.000,00	Alteamento a jusante	Média	Alta	B	Sim
+RP1	Mineração Paragominas S.A.	12.094.570/0004-10	-3°15'33.857"	-47°45'28.375"	Sul do Equador	PA	PARAGOMINAS	Bauxita Grau Metalúrgico	13,5	11.626.208,00	Alteamento a jusante	Baixa	Alta	B	Sim
+SP1	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°40'58.500"	-56°25'05.400"	Sul do Equador	PA	ORIXIMINÁ	Argila	15	1.470.000,00	Etapa única	Baixa	Média	C	Sim
+SP10	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°41'00.600"	-56°27'09.600"	Sul do Equador	PA	ORIXIMINÁ	Argila	16	7.300.000,00	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP11	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°40'57.500"	-56°27'47.800"	Sul do Equador	PA	ORIXIMINÁ	Argila	16	5.400.000,00	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP12	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°41'14.300"	-56°28'05.700"	Sul do Equador	PA	ORIXIMINÁ	Argila	15	3.600.000,00	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP13	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°41'34.600"	-56°28'02.300"	Sul do Equador	PA	ORIXIMINÁ	Argila	15	2.298.321,00	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP14	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°41'55.500"	-56°28'13.000"	Sul do Equador	PA	ORIXIMINÁ	Argila	15	2.200.000,00	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP15	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°41'59.600"	-56°28'31.500"	Sul do Equador	PA	ORIXIMINÁ	Argila	20	1.700.000,00	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP16	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°41'38.000"	-56°28'34.000"	Sul do Equador	PA	ORIXIMINÁ	Argila	20	8.900.000,00	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP2_3	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°41'04.900"	-56°24'13.300"	Sul do Equador	PA	ORIXIMINÁ	Argila	20	4.900.000,00	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP4 Norte	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°41'05.300"	-56°25'37.400"	Sul do Equador	PA	ORIXIMINÁ	Argila	19	7.107.205,40	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP4 Sul	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°41'26.200"	-56°25'37.100"	Sul do Equador	PA	ORIXIMINÁ	Argila	19	5.455.557,30	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP5 Leste	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°40'57.700"	-56°26'07.500"	Sul do Equador	PA	ORIXIMINÁ	Argila	19	6.994.486,60	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP5 Oeste	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°40'58.200"	-56°26'40.400"	Sul do Equador	PA	ORIXIMINÁ	Argila	19	9.274.798,90	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP6	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°40'34.800"	-56°25'27.400"	Sul do Equador	PA	ORIXIMINÁ	Argila	12	712.790,00	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP7A	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°40'17.600"	-56°26'03.100"	Sul do Equador	PA	ORIXIMINÁ	Argila	19	4.300.000,00	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP7B	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°40'11.000"	-56°26'24.300"	Sul do Equador	PA	ORIXIMINÁ	Argila	16	5.843.082,80	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP7C	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°40'10.900"	-56°26'41.600"	Sul do Equador	PA	ORIXIMINÁ	Argila	16	8.200.000,00	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP8	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°40'24.500"	-56°27'10.100"	Sul do Equador	PA	ORIXIMINÁ	Argila	16	11.900.000,00	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP9	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°40'29.700"	-56°27'39.300"	Sul do Equador	PA	ORIXIMINÁ	Argila	10	8.200.000,00	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+SP9A	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°40'06.700"	-56°27'44.100"	Sul do Equador	PA	ORIXIMINÁ	Argila	8	2.480.789,20	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+TP1	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°40'54.400"	-56°24'39.900"	Sul do Equador	PA	ORIXIMINÁ	Argila	15	8.500.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+TP2	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°40'35.400"	-56°26'16.800"	Sul do Equador	PA	ORIXIMINÁ	Argila	15	8.956.085,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+TP3	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°41'16.000"	-56°28'21.000"	Sul do Equador	PA	ORIXIMINÁ	Argila	22	5.390.783,00	Alteamento por linha de centro	Baixa	Média	C	Sim
+Bacia de Decantação Final No Bota Fora	Mineração Nossa Senhora do Carmo Ltda	83.647.750/0001-87	-24°44'54.630"	-49°11'16.070"	Sul do Equador	PR	CERRO AZUL	Fluorita	22	226.035,00	Alteamento a jusante	Média	Média	C	Sim
+BARRAGEM SUL OU TANQUE VELHO	Mineração Tabiporã Ltda	79.066.841/0001-51	-25°22'13.821"	-49°41'27.099"	Sul do Equador	PR	CAMPO LARGO	Minério de Ouro Primário	25	302.000,00	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+Pinheirinho	Mineração Nossa Senhora do Carmo Ltda	83.647.750/0001-87	-24°44'52.790"	-49°11'40.930"	Sul do Equador	PR	CERRO AZUL	Fluorita	13,5	672.408,00	Etapa única	Média	Média	C	Sim
+BARRAGEM DE REJEITOS	Cimento Tupi S.a.	33.039.223/0001-11	-22°27'18.200"	-44°17'10.300"	Sul do Equador	RJ	QUATIS	Argila Arenosa	19	204.000,00	Etapa única	Baixa	Alta	B	Sim
+CA01	Metalmig Mineração Indústria e Comércio S A	34.456.038/0001-95	-9°25'54.500"	-63°03'19.900"	Sul do Equador	RO	ITAPUÃ DO OESTE	Aluvião Estanífero	5	105.000,00	Etapa única	Média	Alta	B	Sim
+CA02	Metalmig Mineração Indústria e Comércio S A	34.456.038/0001-95	-9°25'53.900"	-63°03'19.900"	Sul do Equador	RO	ITAPUÃ DO OESTE	Areia	5	60.000,00	Etapa única	Média	Alta	B	Sim
+Igarapé Mutum	Cooperativa de Garimpeiros de Santa Cruz Ltda	34.726.547/0001-90	-9°45'55.465"	-63°31'12.111"	Sul do Equador	RO	ARIQUEMES	Aluvião Estanífero	5	10.699.776,00	Etapa única	Média	Média	C	Sim
+Jacaré Inferior	Cooperativa de Garimpeiros de Santa Cruz Ltda	34.726.547/0001-90	-9°47'16.100"	-63°34'30.600"	Sul do Equador	RO	ARIQUEMES	Aluvião Estanífero	8	3.595.017,00	Etapa única	Média	Média	C	Sim
+Jacaré Medio	Cooperativa de Garimpeiros de Santa Cruz Ltda	34.726.547/0001-90	-9°47'43.800"	-63°33'55.000"	Sul do Equador	RO	ARIQUEMES	Aluvião Estanífero	8	3.020.623,00	Etapa única	Média	Alta	B	Sim
+Jacaré Superior	Cooperativa de Garimpeiros de Santa Cruz Ltda	34.726.547/0001-90	-9°49'01.200"	-63°33'11.500"	Sul do Equador	RO	ARIQUEMES	Aluvião Estanífero	10	9.170.673,00	Etapa única	Média	Média	C	Sim
+PIT-01	Estanho de Rondonia S A	00.684.808/0001-35	-9°12'57.800"	-63°04'33.600"	Sul do Equador	RO	ITAPUÃ DO OESTE	Aluvião Estanífero	14,3	288.321,80	Etapa única	Baixa	Alta	B	Sim
+Rio Santa Cruz	Cooperativa de Garimpeiros de Santa Cruz Ltda	34.726.547/0001-90	-9°45'57.100"	-63°34'06.900"	Sul do Equador	RO	ARIQUEMES	Aluvião Estanífero	10	3.755.613,00	Etapa única	Média	Média	C	Sim
+Taboquinha 01 - Crente	Estanho de Rondonia S A	00.684.808/0001-35	-9°11'54.200"	-63°04'49.000"	Sul do Equador	RO	ITAPUÃ DO OESTE	Aluvião Estanífero	18	435.000,00	Etapa única	Baixa	Média	C	Sim
+Taboquinha 01 - Crente	Estanho de Rondonia S A	00.684.808/0001-35	-9°11'54.200"	-63°04'49.000"	Sul do Equador	RO	ITAPUÃ DO OESTE	Aluvião Estanífero	18	435.000,00	Etapa única	Baixa	Média	C	Sim
+Taboquinha 02 - Serra Azul	Estanho de Rondonia S A	00.684.808/0001-35	-9°12'15.700"	-63°05'04.400"	Sul do Equador	RO	ITAPUÃ DO OESTE	Aluvião Estanífero	18	87.000,00	Etapa única	Baixa	Média	C	Sim
+Taboquinha 03	Estanho de Rondonia S A	00.684.808/0001-35	-9°12'19.954"	-63°05'01.035"	Sul do Equador	RO	ITAPUÃ DO OESTE	Aluvião Estanífero	15	194.900,00	Etapa única	Média	Média	C	Sim
+Taboquinha 04	Estanho de Rondonia S A	00.684.808/0001-35	-9°12'39.100"	-63°05'11.000"	Sul do Equador	RO	ITAPUÃ DO OESTE	Aluvião Estanífero	20	145.193,15	Etapa única	Média	Média	C	Sim
+Bacia de Finos da Mina do Cerro	Copelmi Mineração Ltda	33.059.528/0001-95	-30°23'10.327"	-53°02'37.439"	Sul do Equador	RS	CACHOEIRA DO SUL	Carvão Mineral	10	534.000,00	Alteamento a montante ou desconhecido	Média	Média	C	Sim
+Bacia de Finos da Mina do Recreio	Copelmi Mineração Ltda	33.059.528/0001-95	-30°08'44.381"	-52°00'13.591"	Sul do Equador	RS	BUTIÁ	Carvão Mineral	20	2.371.167,00	Alteamento a montante ou desconhecido	Média	Alta	B	Sim
+Barragem CBC	Companhia Brasileira do Cobre	87.678.207/0001-06	-30°55'11.200"	-53°25'04.950"	Sul do Equador	RS	CAÇAPAVA DO SUL	Arenito	15	53.000.000,00	Etapa única	Média	Baixa	D	Sim
+P1-1	Companhia Riograndense de Mineração	92.724.145/0001-53	-30°07'51.700"	-52°03'07.000"	Sul do Equador	RS	MINAS DO LEÃO	Carvão Mineral	3	17.250,00	Indefinido	Média	Média	C	Sim
+Bacia A	Carbonifera Metropolitana Sa	83.647.917/0001-00	-28°29'31.600"	-49°27'37.000"	Sul do Equador	SC	TREVISO	Carvão Mineral Camada Bonito	5,3	14.679,90	Etapa única	Baixa	Alta	B	Sim
+Bacia B	Carbonifera Metropolitana Sa	83.647.917/0001-00	-28°29'38.900"	-49°27'36.100"	Sul do Equador	SC	TREVISO	Carvão Mineral Camada Bonito	6,5	14.368,00	Etapa única	Baixa	Alta	B	Sim
+Bacia de Acumulação 01	Carbonífera Siderópolis Ltda.	83.852.137/0001-00	-28°27'13.000"	-49°22'13.000"	Sul do Equador	SC	URUSSANGA	Carvão Mineral Camada Barro Branco	7,1	500.000,00	Etapa única	Média	Média	C	Sim
+BACIA DE DECANTAÇÃO DA USINA RIO FIORITA	Gabriella Mineração Ltda	07.105.967/0001-87	-28°34'38.200"	-49°26'31.900"	Sul do Equador	SC	SIDERÓPOLIS	Carvão Mineral	3,5	35.742,00	Etapa única	Baixa	Média	C	Sim
+Barragem Cruz de Malta	Indústria Carbonífera Rio Deserto Ltda	83.286.500/0001-69	-28°28'23.000"	-49°27'29.000"	Sul do Equador	SC	TREVISO	Carvão Mineral Camada Bonito	27	70.831,00	Etapa única	Baixa	Alta	B	Sim
+Barragem Lauro Muller	Carbonífera Belluno Ltda.	83.163.576/0001-05	-28°24'34.600"	-49°25'39.900"	Sul do Equador	SC	LAURO MÜLLER	Carvão Mineral Camada Bonito	20	150.000,00	Etapa única	Média	Alta	B	Sim
+Barragem Rio Fiorita	Carbonífera Belluno Ltda.	83.163.576/0001-05	-28°35'12.667"	-49°26'35.575"	Sul do Equador	SC	SIDERÓPOLIS	Carvão Mineral	10	527.420,00	Etapa única	Média	Alta	B	Sim
+BOA VISTA	Carbonífera Catarinense Ltda	80.418.205/0001-20	-28°23'24.000"	-49°25'20.000"	Sul do Equador	SC	LAURO MÜLLER	Carvão Mineral Camada Bonito	35	63.469,61	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+NOVO HORIZONTE	Carbonífera Catarinense Ltda	80.418.205/0001-20	-28°23'34.190"	-49°27'53.610"	Sul do Equador	SC	LAURO MÜLLER	Carvão Mineral Camada Barro Branco	13	64.629,25	Etapa única	Baixa	Alta	B	Sim
+Dique de Contenção de Salmoura	Mosaic Fertilizantes P&K S.A. Filial: Taquari Vassouras	33.931.486/0033-18	-10°39'28.100"	-37°01'47.400"	Sul do Equador	SE	ROSÁRIO DO CATETE	Silvanita	4	17.340,30	Etapa única	Baixa	Média	C	Sim
+Dique de Resíduos Insóluveis	Mosaic Fertilizantes P&K S.A. Filial: Taquari Vassouras	33.931.486/0033-18	-10°39'26.400"	-37°01'52.500"	Sul do Equador	SE	ROSÁRIO DO CATETE	Silvanita	5,5	7.439,01	Etapa única	Baixa	Média	C	Sim
+11 - DES	Mineração Jundu Ltda.	60.628.468/0001-57	-21°57'17.062"	-47°36'48.014"	Sul do Equador	SP	DESCALVADO	Argila	15	1.500.000,00	Alteamento a jusante	Baixa	Baixa	E	Sim
+12 - DES	Mineração Jundu Ltda.	60.628.468/0001-57	-21°57'06.006"	-47°36'47.022"	Sul do Equador	SP	DESCALVADO	Argila	15	577.840,39	Alteamento a jusante	Baixa	Baixa	E	Sim
+BACIA DE DECANTAÇÃO - PLANTA I	Geocal Mineração Ltda	00.255.910/0001-15	-23°24'04.442"	-46°55'09.256"	Sul do Equador	SP	SANTANA DE PARNAÍBA	Calcário Dolomítico	20	8.500,00	Etapa única	Média	Baixa	D	Sim
+Barragem 1	Mosaic Fertilizantes P&K S.A. Filial: Cajati	33.931.486/0005-64	-24°41'30.000"	-48°07'30.000"	Sul do Equador	SP	CAJATI	Rocha Fosfática	33	5.301.026,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Barragem 2	Mosaic Fertilizantes P&K S.A. Filial: Cajati	33.931.486/0005-64	-24°41'35.000"	-48°07'13.000"	Sul do Equador	SP	CAJATI	Rocha Fosfática	60	7.220.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Barragem B12	Mosaic Fertilizantes P&K S.A. Filial: Cajati	33.931.486/0005-64	-24°43'00.000"	-48°06'00.000"	Sul do Equador	SP	CAJATI	Rocha Carbonática	13,5	3.200.000,00	Alteamento por linha de centro	Baixa	Alta	B	Sim
+BARRAGEM DE CLARIFICAÇÃO	Territorial São Paulo Mineração Ltda	60.874.229/0001-87	-23°25'14.000"	-46°44'09.800"	Sul do Equador	SP	SÃO PAULO	Argila	25	659.323,59	Alteamento a jusante	Média	Alta	B	Sim
+Barragem de Sedimentos da Pedreira Itapeti - BA1	Embu S.a Engenharia e Comércio	61.322.558/0001-88	-23°29'49.800"	-46°14'38.000"	Sul do Equador	SP	MOGI DAS CRUZES	Granito	27,36	375.000,00	Etapa única	Baixa	Alta	B	Sim
+Barragem de Sedimentos da Pedreira Itapeti - BA2	Embu S.a Engenharia e Comércio	61.322.558/0001-88	-23°29'47.900"	-46°14'50.400"	Sul do Equador	SP	MOGI DAS CRUZES	Granito	9,64	154.433,29	Etapa única	Baixa	Alta	B	Sim
+Barragem de Sedimentos da Pedreira Juruaçu - BA4	Embu S.a Engenharia e Comércio	61.322.558/0001-88	-23°24'34.400"	-46°43'52.400"	Sul do Equador	SP	SÃO PAULO	Granito	45	3.190.000,00	Alteamento a jusante	Baixa	Alta	B	Sim
+Bom Retiro 2	MINERAÇÃO BOM RETIRO LTDA.	56.763.790/0001-11	-22°11'15.000"	-47°27'20.000"	Sul do Equador	SP	LEME	Argila	23,58	1.800.000,00	Alteamento a jusante	Baixa	Média	C	Sim
+CIMPOR	Mosaic Fertilizantes P&K S.A. Filial: Cajati	33.931.486/0005-64	-24°42'25.000"	-48°06'54.000"	Sul do Equador	SP	CAJATI	Rocha Carbonática	60	6.340.000,00	Alteamento a montante ou desconhecido	Baixa	Alta	B	Sim
+Dique 1 (Barragem 2 -Britagem)	PEDREIRA SARGON LTDA	60.101.300/0001-99	-23°21'20.600"	-46°16'58.500"	Sul do Equador	SP	SANTA ISABEL	Argila	14	74.135,00	Etapa única	Média	Média	C	Sim
+Dique 3 (Barragem 1 - Portaria)	PEDREIRA SARGON LTDA	60.101.300/0001-99	-23°21'23.900"	-46°17'05.800"	Sul do Equador	SP	SANTA ISABEL	Argila	20	170.000,00	Etapa única	Média	Média	C	Sim
+Guará 3	Extração de Areia e Pedregulho Cachoeira Ltda.	45.600.327/0001-32	-23°23'20.500"	-46°08'07.200"	Sul do Equador	SP	GUARAREMA	Argila	18	735.000,00	Etapa única	Baixa	Baixa	E	Sim
+ITAPEVA	Samaca Ferros Ltda	16.682.218/0001-03	-24°15'13.500"	-48°54'57.500"	Sul do Equador	SP	RIBEIRÃO BRANCO	Minério de Estanho Primário	20	260.000,00	Alteamento a montante ou desconhecido	Média	Baixa	D	Sim
+JBS1	EMPRESA DE MINERAÇÃO E ARTEFATOS DE CIMENTO JBS LTDA EPP	47.354.774/0001-84	-23°23'50.400"	-46°11'41.600"	Sul do Equador	SP	MOGI DAS CRUZES	Argila Arenosa	12	331.920,00	Alteamento a montante ou desconhecido	Média	Média	C	Sim
+Lagoa 1	Mineração Darcy R. O. e Silva Ltda	45.369.188/0001-88	-21°25'58.030"	-47°36'47.670"	Sul do Equador	SP	SÃO SIMÃO	Argila Caulinítica	5	271.000,00	Etapa única	Baixa	Média	C	Sim
+Lagoa 2	Mineração Darcy R. O. e Silva Ltda	45.369.188/0001-88	-21°25'49.220"	-47°36'47.000"	Sul do Equador	SP	SÃO SIMÃO	Argila Caulinítica	5	112.000,00	Alteamento a jusante	Média	Média	C	Sim
+MBR II SUL	Mineracao Bom Retiro II Ltda	68.870.385/0001-81	-23°47'17.500"	-47°07'17.400"	Sul do Equador	SP	IBIÚNA	Areia	14,04	157.070,50	Alteamento a montante ou desconhecido	Baixa	Média	C	Sim
+MD 01/2012	Mineração Descalvado Ltda	54.114.475/0001-38	-21°57'20.600"	-47°37'05.800"	Sul do Equador	SP	DESCALVADO	Areia Industrial	25	921.154,70	Alteamento por linha de centro	Baixa	Baixa	E	Sim
+OURO BRANCO OESTE	MINERAÇÃO OURO BRANCO SALTO DE PIRAPORA LTDA ME	72.911.985/0001-18	-23°39'43.200"	-47°39'59.900"	Sul do Equador	SP	SALTO DE PIRAPORA	Argila	3	399.000,00	Etapa única	Média	Alta	B	Sim
+TANQUE DE DECANTAÇÃO	Mineração do Vale Ltda	53.959.318/0001-60	-22°11'34.100"	-47°33'03.900"	Sul do Equador	SP	CORUMBATAÍ	Argila Arenosa	7	704.000,00	Alteamento a jusante	Média	Média	C	Sim
+BARRAGEM DE CONTENÇÃO DE REJEITOS	Itafos Arraias Mineração e Fertilizantes S.a.	05.919.578/0001-60	-12°53'44.948"	-46°49'05.224"	Sul do Equador	TO	ARRAIAS	Fosfato	20,5	4.136.059,54	Alteamento a jusante	Baixa	Alta	B	Sim
+189	Mineração Taboca S.a.	34.019.992/0001-10	-0°47'22.400"	-60°00'46.900"	Sul do Equador	AM	PRESIDENTE FIGUEIREDO	Minério de Estanho Primário	5	209.969,00	Etapa única				Não
+22	Mineração Taboca S.a.	34.019.992/0001-10	-0°44'19.100"	-60°10'02.600"	Sul do Equador	AM	PRESIDENTE FIGUEIREDO	Minério de Estanho Primário	6	56.519,00	Etapa única				Não
+30-1	Mineração Taboca S.a.	34.019.992/0001-10	-0°42'25.600"	-60°11'33.100"	Sul do Equador	AM	PRESIDENTE FIGUEIREDO	Minério de Estanho Primário	8	1.320,09	Etapa única				Não
+42	Mineração Taboca S.a.	34.019.992/0001-10	-0°43'24.700"	-60°11'48.200"	Sul do Equador	AM	PRESIDENTE FIGUEIREDO	Minério de Estanho Primário	4,9	130.979,00	Etapa única				Não
+68-1	Mineração Taboca S.a.	34.019.992/0001-10	-0°44'25.500"	-60°12'05.100"	Sul do Equador	AM	PRESIDENTE FIGUEIREDO	Minério de Estanho Primário	6	3.752,00	Etapa única				Não
+69	Mineração Taboca S.a.	34.019.992/0001-10	-0°44'35.500"	-60°12'05.100"	Sul do Equador	AM	PRESIDENTE FIGUEIREDO	Minério de Estanho Primário	5	84.941,00	Etapa única				Não
+75-1	Mineração Taboca S.a.	34.019.992/0001-10	-0°45'41.600"	-60°12'21.500"	Sul do Equador	AM	PRESIDENTE FIGUEIREDO	Minério de Estanho Primário	4	75.522,00	Etapa única				Não
+Bacuri	Mineração Vila Nova Ltda	02.008.461/0001-36	0°22'46.200"	-51°43'22.000"	Norte do Equador	AP	MAZAGÃO	Minério de Cromo	5	650.000,00	Indefinido				Não
+BARRAGEM DA USINA	Empresa de Mineração e Pesquisa do Amapá	14.572.101/0001-41	2°19'16.300"	-51°41'26.100"	Norte do Equador	AP	CALÇOENE	Minério de Ouro Primário	10	80.000,00	Indefinido				Não
+Barragem de Clarificação de Água	Zamapá Mineração S.a.	05.857.559/0001-56	1°00'07.100"	-51°07'44.000"	Norte do Equador	AP	FERREIRA GOMES	Minério de Ferro	8	42.000,00	Indefinido				Não
+Barragem do Felipe	Cadam S.a.	04.788.980/0001-90	-0°52'56.800"	-52°22'50.100"	Sul do Equador	AP	VITÓRIA DO JARI	Caulim	13	245.418,00	Etapa única				Não
+Barragem do Muriacá	Cadam S.a.	04.788.980/0001-90	-0°53'37.200"	-52°21'50.700"	Sul do Equador	AP	VITÓRIA DO JARI	Caulim	10	52.000,00	Etapa única				Não
+REJEITO USINA	AM Amapa Mineração Ltda	06.170.253/0001-90	2°17'09.000"	-51°38'00.000"	Norte do Equador	AP	CALÇOENE	Minério de Ouro Primário	5	82.000,00	Indefinido				Não
+SAMACA	Mineração Vila Nova Ltda	02.008.461/0001-36	0°21'05.800"	-51°50'16.300"	Norte do Equador	AP	MAZAGÃO	Minério de Ferro	9	700.000,00	Indefinido				Não
+BACIA DE SEDIMENTO DA USINA DE TRATAMENTO	Magnesita Mineração S.A.	00.592.603/0001-20	-14°14'01.600"	-41°43'10.900"	Sul do Equador	BA	BRUMADO	Magnesita	4,78	52.912,30	Etapa única				Não
+BARAÚNA - PBC1	Mineração Caraíba S.a.	42.509.257/0001-13	-9°52'28.981"	-39°52'13.796"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	2	12.200,00	Alteamento a jusante				Não
+BARAÚNA - PBC2	Mineração Caraíba S.a.	42.509.257/0001-13	-9°52'25.971"	-39°52'14.321"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	2	12.000,00	Alteamento a jusante				Não
+BARAÚNA - PBC3	Mineração Caraíba S.a.	42.509.257/0001-13	-9°52'29.837"	-39°52'17.659"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	2	8.500,00	Alteamento a jusante				Não
+BARRAGEM DE DEPOSIÇÃO DE LAMA	XILOLITE S/A	62.477.088/0001-94	-14°05'52.550"	-41°41'21.140"	Sul do Equador	BA	BRUMADO	Argila	7	60.277,00	Alteamento a jusante				Não
+Barragem de Rejeitos de Irecê	Companhia Baiana de Pesquisa Mineral	13.554.910/0001-68	-11°18'43.000"	-41°50'22.000"	Sul do Equador	BA	IRECÊ	Fosfato	4	235.467,89	Indefinido				Não
+Barragem Santa Helena	Companhia Brasileira de Bentonita Ltda	04.885.978/0001-39	-14°48'40.373"	-41°00'17.917"	Sul do Equador	BA	VITÓRIA DA CONQUISTA	Bentonita	14	7.500,00	Alteamento por linha de centro				Não
+BARRAGEM USINA SANTALUZ BENEFICIAMENTO - BII	Magnesita Mineração S.A. Filial: FAZENDA PEDRAS PRETAS	00.592.603/0004-72	-11°15'36.450"	-39°21'27.250"	Sul do Equador	BA	SANTALUZ	Cromita	2	875	Etapa única				Não
+BARRAGEM USINA SANTALUZ BENEFICIAMENTO - BIII	Magnesita Mineração S.A. Filial: FAZENDA PEDRAS PRETAS	00.592.603/0004-72	-11°15'38.500"	-39°21'27.250"	Sul do Equador	BA	SANTALUZ	Cromita	2	1.100,00	Etapa única				Não
+BARRAGEM USINA SANTALUZ BENEFICIAMENTO BI	Magnesita Mineração S.A. Filial: FAZENDA PEDRAS PRETAS	00.592.603/0004-72	-11°15'36.800"	-39°21'27.250"	Sul do Equador	BA	SANTALUZ	Cromita	2	1.125,00	Etapa única				Não
+Cava Camarinha	Cia de Ferro Ligas da Bahia Ferbasa	15.141.799/0001-03	-10°32'44.200"	-40°25'30.700"	Sul do Equador	BA	CAMPO FORMOSO	Cromita	14,6	29.688,00	Alteamento a montante ou desconhecido				Não
+Cava Pedrinhas	Cia de Ferro Ligas da Bahia Ferbasa	15.141.799/0001-03	-10°32'42.000"	-40°24'52.400"	Sul do Equador	BA	CAMPO FORMOSO	Cromita	8,5	201.205,00	Alteamento por linha de centro				Não
+Cava Sul	Mineração Caraíba S.a.	42.509.257/0001-13	-9°52'17.300"	-39°52'17.200"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	0	323.173,00	Indefinido				Não
+Dique 3	Mineração Caraíba S.a.	42.509.257/0001-13	-9°49'53.300"	-39°49'29.700"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	1,5	440.000,00	Etapa única				Não
+Dique Santa Rita	Mirabela Mineração do Brasil Ltda.	74.127.010/0001-29	-14°11'47.547"	-39°41'29.939"	Sul do Equador	BA	ITAGIBÁ	Minério de Níquel	5	246.848,00	Etapa única				Não
+Medrado 1	Cia de Ferro Ligas da Bahia Ferbasa	15.141.799/0001-03	-10°18'51.000"	-39°46'02.000"	Sul do Equador	BA	ANDORINHA	Cromita	5	185.520,00	Etapa única				Não
+Medrado 2	Cia de Ferro Ligas da Bahia Ferbasa	15.141.799/0001-03	-10°18'53.700"	-39°45'57.000"	Sul do Equador	BA	ANDORINHA	Cromita	11,2	0	Alteamento por linha de centro				Não
+Medrado 3	Cia de Ferro Ligas da Bahia Ferbasa	15.141.799/0001-03	-10°18'56.000"	-39°45'57.000"	Sul do Equador	BA	ANDORINHA	Cromita	8,4	94.325,00	Etapa única				Não
+Pilha 01 - P1C1	Mineração Caraíba S.a.	42.509.257/0001-13	-9°51'10.170"	-39°51'44.268"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	6	100.566,00	Alteamento por linha de centro				Não
+Pilha 01 - P1C3	Mineração Caraíba S.a.	42.509.257/0001-13	-9°51'15.285"	-39°51'59.529"	Sul do Equador	BA	JAGUARARI	Sedimento	1	164.976,00	Alteamento a jusante				Não
+Pilha 01 - P1C4	Mineração Caraíba S.a.	42.509.257/0001-13	-9°51'19.659"	-39°52'02.121"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	2	85.786,00	Alteamento a jusante				Não
+Pilha 01 - P1C5	Mineração Caraíba S.a.	42.509.257/0001-13	-9°51'07.668"	-39°51'48.038"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	14	111.960,00	Alteamento a jusante				Não
+Pilha 01 - P1C6	Mineração Caraíba S.a.	42.509.257/0001-13	-9°51'11.005"	-39°51'53.799"	Sul do Equador	BA	JAGUARARI	Sedimento	2	30.460,00	Alteamento a jusante				Não
+Pilha 01 - P1C7	Mineração Caraíba S.a.	42.509.257/0001-13	-9°51'19.270"	-39°51'54.399"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	6,8	10.277,00	Alteamento a jusante				Não
+Pilha 01 - P1C8	Mineração Caraíba S.a.	42.509.257/0001-13	-9°51'26.408"	-39°51'48.095"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	3,5	71.698,00	Alteamento a jusante				Não
+Pilha 01 P1C2	Mineração Caraíba S.a.	42.509.257/0001-13	-9°51'19.593"	-39°51'50.354"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	9,5	102.246,00	Alteamento a jusante				Não
+Pilha 05 - P5C1	Mineração Caraíba S.a.	42.509.257/0001-13	-9°52'46.158"	-39°51'54.612"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	5	172.053,00	Alteamento a jusante				Não
+Pilha 05 - P5C2	Mineração Caraíba S.a.	42.509.257/0001-13	-9°52'36.688"	-39°52'05.408"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	4	155.498,00	Alteamento a jusante				Não
+Pilha 05 - P5C3	Mineração Caraíba S.a.	42.509.257/0001-13	-9°52'48.573"	-39°51'51.266"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	5	141.410,00	Alteamento a jusante				Não
+Pilha 05 - P5C4	Mineração Caraíba S.a.	42.509.257/0001-13	-9°52'30.737"	-39°52'08.101"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	2	7.052,00	Alteamento a jusante				Não
+Pilha 05 - P5XC2	Mineração Caraíba S.a.	42.509.257/0001-13	-9°52'32.341"	-39°51'54.787"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	5	79.459,00	Alteamento a jusante				Não
+Pilha 05 - XC1	Mineração Caraíba S.a.	42.509.257/0001-13	-9°52'37.962"	-39°51'52.340"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	5	80.000,00	Alteamento a jusante				Não
+R22	Mineração Caraíba S.a.	42.509.257/0001-13	-9°51'41.800"	-39°52'23.100"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	0	255.131,00	Indefinido				Não
+R75	Mineração Caraíba S.a.	42.509.257/0001-13	-9°51'10.300"	-39°52'05.300"	Sul do Equador	BA	JAGUARARI	Minério de Cobre	0	0	Indefinido				Não
+TANQUE DE DECANTAÇÃO	Pedreiras Bahia Ltda.	34.089.417/0001-94	-12°51'24.400"	-38°24'15.900"	Sul do Equador	BA	SIMÕES FILHO	Granulito Gnaisse	2	3.000,00	Indefinido				Não
+Barragem Morro Pelado 2	Brasil Minérios S.a.	02.683.365/0001-93	-16°23'49.700"	-50°23'00.300"	Sul do Equador	GO	SÃO LUÍS DE MONTES BELOS	Vermiculita	13,65	70.000,00	Alteamento a jusante				Não
+Dique de finos 02 - Depósito Tamanduá	Catalao	33.931.486/0010-21	-18°09'06.993"	-47°46'58.814"	Sul do Equador	GO	OUVIDOR	Sedimento	14,8	0	Etapa única				Não
+Dique de finos 03 - Depósito Tamanduá	Catalao	33.931.486/0010-21	-18°08'19.663"	-47°46'55.691"	Sul do Equador	GO	OUVIDOR	Argila	6	600	Etapa única				Não
+GIRASSOL-01	Quartziti Mineradora Ltda	11.461.800/0001-26	-15°46'20.000"	-48°38'17.000"	Sul do Equador	GO	CORUMBÁ DE GOIÁS	Areia Quartzosa	5	3.000,00	Indefinido				Não
+Area M	Cbe Companhia Brasileira de Equipamento Filial:	27.184.936/0007-61	-4°31'24.900"	-44°00'57.700"	Sul do Equador	MA	CODÓ	Argila	0	832.598,77	Indefinido				Não
+VÃO DAS COBRAS	J. G. de A. FERREIRA MINERADORA EIRELI	03.779.142/0001-97	-6°34'55.900"	-43°57'58.400"	Sul do Equador	MA	PASTOS BONS	Saibro	2	9.000,00	Indefinido				Não
+01 PDE 01	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°51'13.900"	-43°47'38.300"	Sul do Equador	MG	SABARÁ	Minério de Ferro	12	0,01	Etapa única				Não
+105-I	Vale S A Filial: Vale Itabira	33.592.510/0164-09	-19°37'37.919"	-43°14'18.830"	Sul do Equador	MG	ITABIRA	Minério de Ferro	8,14	8.400,00	Alteamento a jusante				Não
+2	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°58'24.601"	-43°36'13.419"	Sul do Equador	MG	BARÃO DE COCAIS	Minério de Ferro	10	15.412,70	Alteamento a jusante				Não
+A - PDE Nordeste	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°56'55.421"	-43°35'12.119"	Sul do Equador	MG	BARÃO DE COCAIS	Minério de Ferro	13	300	Etapa única				Não
+Alto Jacutinga	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°25'33.600"	-43°53'09.500"	Sul do Equador	MG	CONGONHAS	Minério de Ferro	11,8	92.434,00	Alteamento por linha de centro				Não
+B - PDE Nordeste	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°56'50.126"	-43°35'00.712"	Sul do Equador	MG	BARÃO DE COCAIS	Minério de Ferro	14,5	2.935,00	Etapa única				Não
+Bacia 01	Arcelormittal Brasil S.a	17.469.701/0001-77	-19°47'05.000"	-43°11'31.300"	Sul do Equador	MG	BELA VISTA DE MINAS	Minério de Ferro	9	1.000,00	Alteamento a montante ou desconhecido				Não
+Bacia 07	Arcelormittal Brasil S.a	17.469.701/0001-77	-19°46'59.200"	-43°10'59.200"	Sul do Equador	MG	BELA VISTA DE MINAS	Minério de Ferro	7	500	Etapa única				Não
+Bacia 08	Arcelormittal Brasil S.a	17.469.701/0001-77	-19°47'05.900"	-43°10'48.600"	Sul do Equador	MG	BELA VISTA DE MINAS	Minério de Ferro	7	5.000,00	Etapa única				Não
+Bacia 09	Arcelormittal Brasil S.a	17.469.701/0001-77	-19°46'37.840"	-43°11'21.930"	Sul do Equador	MG	BELA VISTA DE MINAS	Minério de Ferro	7	2.200,00	Etapa única				Não
+Bacia 15	Arcelormittal Brasil S.a	17.469.701/0001-77	-19°46'34.733"	-43°11'27.772"	Sul do Equador	MG	BELA VISTA DE MINAS	Minério de Ferro	5	2.200,00	Etapa única				Não
+Bacia 16	Arcelormittal Brasil S.a	17.469.701/0001-77	-19°47'09.952"	-43°10'22.069"	Sul do Equador	MG	BELA VISTA DE MINAS	Minério de Ferro	12	12.000,00	Etapa única				Não
+Bacia 17	Arcelormittal Brasil S.a	17.469.701/0001-77	-19°47'01.777"	-43°09'54.766"	Sul do Equador	MG	BELA VISTA DE MINAS	Minério de Ferro	8	3.500,00	Etapa única				Não
+Bacia de Conteção de Finos da PDE-A Norte	Gerdau Açominas S.a.	17.227.422/0001-05	-20°16'42.200"	-43°55'51.100"	Sul do Equador	MG	ITABIRITO	Dolomito	5	3.480,00	Etapa única				Não
+Bacia de Conteção de Finos da PDE-A Sul	Gerdau Açominas S.a.	17.227.422/0001-05	-20°16'58.800"	-43°55'38.200"	Sul do Equador	MG	ITABIRITO	Dolomito	6	1.000,00	Etapa única				Não
+Bacia de Decantação 1	Mineração Matheus Leme Ltda	60.510.195/0001-41	-19°56'04.000"	-44°28'15.000"	Sul do Equador	MG	MATEUS LEME	Agalmatolito	2	3.660,00	Indefinido				Não
+Bacia de Decantação 2	Mineração Matheus Leme Ltda	60.510.195/0001-41	-19°56'03.000"	-44°28'17.000"	Sul do Equador	MG	MATEUS LEME	Agalmatolito	2,25	5.700,00	Indefinido				Não
+Bacia de Decantação 3	Mineração Matheus Leme Ltda	60.510.195/0001-41	-19°56'02.000"	-44°28'19.000"	Sul do Equador	MG	MATEUS LEME	Agalmatolito	2	1.570,00	Indefinido				Não
+Bacia Lavador de Rodas	Gerdau Açominas S.a.	17.227.422/0001-05	-20°17'34.470"	-43°56'19.060"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	3,6	612,23	Etapa única				Não
+BARRAGEM USINA BENEFICIAMENTO L7 - IIB	Magnesita Mineração S.A. Filial: FAZENDA BELA VISTA	00.592.603/0023-35	-19°24'38.340"	-47°57'20.460"	Sul do Equador	MG	UBERABA	Argila Refratária	2	7.300,00	Etapa única				Não
+Barragem 1	Companhia Mineradora do Pirocloro de Araxá	17.806.779/0001-30	-19°39'35.121"	-46°55'37.279"	Sul do Equador	MG	ARAXÁ	Minério de Nióbio	14,3	108.377,16	Alteamento a jusante				Não
+Barragem 1 - Dique de Contenção	Construtora Martins Lanna Ltda.	19.974.518/0001-54	-19°51'53.770"	-44°05'35.104"	Sul do Equador	MG	BETIM	Sedimento	8	12.000,00	Etapa única				Não
+Barragem 2 - Captação de Água	Construtora Martins Lanna Ltda.	19.974.518/0001-54	-19°52'33.440"	-44°06'01.770"	Sul do Equador	MG	BETIM	Sedimento	2	14.000,00	Etapa única				Não
+Barragem 3A - Sedimentação	MSM Mineração Serra da Moeda Ltda.	21.705.306/0001-13	-20°22'38.190"	-43°54'52.910"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	3	3.420,00	Etapa única				Não
+Barragem 3B - Sedimentação	MSM Mineração Serra da Moeda Ltda.	21.705.306/0001-13	-20°22'41.120"	-43°54'55.540"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	3	5.480,00	Etapa única				Não
+Barragem 4 - Acumulação	MSM Mineração Serra da Moeda Ltda.	21.705.306/0001-13	-20°22'39.730"	-43°54'54.340"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	7	4.078,00	Etapa única				Não
+Barragem 5 - Captação	MSM Mineração Serra da Moeda Ltda.	21.705.306/0001-13	-20°22'26.090"	-43°55'17.340"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	4	3.600,00	Etapa única				Não
+Barragem 6 - Dique Filtrante	MSM Mineração Serra da Moeda Ltda.	21.705.306/0001-13	-20°22'37.870"	-43°54'45.680"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	4	2.640,00	Etapa única				Não
+barragem 7 - Dique Filtrante	MSM Mineração Serra da Moeda Ltda.	21.705.306/0001-13	-20°22'45.940"	-43°55'00.850"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	7	7.063,00	Etapa única				Não
+Barragem 8 - Dique Filtrante	MSM Mineração Serra da Moeda Ltda.	21.705.306/0001-13	-20°22'50.400"	-43°55'03.030"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	6	6.435,00	Etapa única				Não
+Barragem 9 - Dique Filtrante	MSM Mineração Serra da Moeda Ltda.	21.705.306/0001-13	-20°22'50.560"	-43°55'09.330"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	6	3.833,00	Etapa única				Não
+BARRAGEM B1	Cimento Tupi S.a.	33.039.223/0001-11	-20°54'12.200"	-43°48'14.000"	Sul do Equador	MG	CARANAÍBA	Argila	8	18.113,00	Etapa única				Não
+Barragem B1	Mineração Marsil Ltda.	16.800.211/0001-49	-19°32'59.900"	-43°01'20.100"	Sul do Equador	MG	ANTÔNIO DIAS	Areia	4	10.200,00	Etapa única				Não
+BARRAGEM B1	Roberto Eustáquio Silva Pedrosa	00.546.997/0002-60	-18°16'56.035"	-46°51'40.773"	Sul do Equador	MG	LAGAMAR	Sedimento	8	90.000,00	Etapa única				Não
+Barragem B2	Herculano Mineração Ltda.	41.785.833/0001-92	-20°15'04.500"	-43°56'14.470"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	8	61.000,00	Etapa única				Não
+Barragem B3	Herculano Mineração Ltda.	41.785.833/0001-92	-20°15'00.250"	-43°56'06.830"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	14	108.879,00	Etapa única				Não
+Barragem B3	Mineração Geral do Brasil S A	60.727.120/0001-17	-20°04'02.800"	-44°01'22.900"	Sul do Equador	MG	BRUMADINHO	Argila Arenosa	10	20.000,00	Etapa única				Não
+Barragem B3	Mineração Marsil Ltda.	16.800.211/0001-49	-19°32'51.300"	-43°01'17.500"	Sul do Equador	MG	ANTÔNIO DIAS	Areia	7	14.200,00	Etapa única				Não
+Barragem Captação de Água	Mineração Usiminas S.a.	12.056.613/0001-20	-20°10'09.300"	-44°27'03.170"	Sul do Equador	MG	ITATIAIUÇU	Argila Arenosa	4,46	14.000,00	Etapa única				Não
+Barragem de Contenção de Sólidos Carreados	EXTRATIVA MINERAL LTDA	17.174.889/0001-26	-20°06'36.060"	-43°54'11.690"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	8	28.000,00	Etapa única				Não
+BARRAGEM DE GABIÕES	Empresa de Mineração Esperança Sa	33.300.971/0001-06	-20°06'56.500"	-44°13'06.100"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	5	30.000,00	Etapa única				Não
+Barragem do Fundão	Avg Empreendimentos Minerários S.A	16.565.897/0001-30	-19°49'17.090"	-43°43'01.480"	Sul do Equador	MG	SABARÁ	Sedimento	9	20.000,00	Etapa única				Não
+BARRAGEM DO LAGARTO	Csn Mineração S.a.	08.902.291/0001-15	-20°27'05.947"	-43°54'23.637"	Sul do Equador	MG	CONGONHAS	Cascalho	8	210.000,00	Etapa única				Não
+Barragem dos Coqueiros	Avg Empreendimentos Minerários S.A	16.565.897/0001-30	-19°48'55.680"	-43°42'36.490"	Sul do Equador	MG	SABARÁ	Sedimento	7	2.500,00	Etapa única				Não
+BARRAGEM POÇO FUNDO	Csn Mineração S.a.	08.902.291/0001-15	-20°27'05.155"	-43°53'54.459"	Sul do Equador	MG	CONGONHAS	Cascalho	2,88	12.000,00	Etapa única				Não
+BARRAGEM USINA BENEFICIAMENTO ESPONGILITO	Magnesita Mineração S.A.	00.592.603/0001-20	-19°24'38.280"	-47°57'18.520"	Sul do Equador	MG	UBERABA	Argila	2	4.600,00	Etapa única				Não
+BARRAGEM USINA BENEFICIAMENTO ESPONGILITO - IVA	Magnesita Mineração S.A. Filial: FAZENDA BELA VISTA	00.592.603/0023-35	-19°24'38.340"	-47°57'20.460"	Sul do Equador	MG	UBERABA	Argila	2	4.300,00	Etapa única				Não
+BARRAGEM USINA BENEFICIAMENTO ESPONGILITO - IVB	Magnesita Mineração S.A. Filial: FAZENDA BELA VISTA	00.592.603/0023-35	-19°24'38.340"	-47°57'20.460"	Sul do Equador	MG	UBERABA	Argila	2	4.600,00	Etapa única				Não
+BARRAGEM USINA BENEFICIAMENTO L7 - IIA	Magnesita Mineração S.A. Filial: FAZENDA BELA VISTA	00.592.603/0023-35	-19°24'37.100"	-47°57'20.460"	Sul do Equador	MG	UBERABA	Argila Refratária	2	7.100,00	Etapa única				Não
+BARRAGEM USINA BENEFICIAMENTO L7 - IIB	Magnesita Mineração S.A.	00.592.603/0001-20	-19°24'38.870"	-47°57'22.630"	Sul do Equador	MG	UBERABA	Argila	2	4.900,00	Etapa única				Não
+BARRAGEM USINA BENEFICIAMENTO L8 - IIIA	Magnesita Mineração S.A. Filial: FAZENDA BELA VISTA	00.592.603/0023-35	-19°24'35.100"	-47°57'20.460"	Sul do Equador	MG	UBERABA	Argila Refratária	2	4.900,00	Etapa única				Não
+BARRAGEM USINA BENEFICIAMENTO L8 - IIIB	Magnesita Mineração S.A. Filial: FAZENDA BELA VISTA	00.592.603/0023-35	-19°24'34.100"	-47°57'20.460"	Sul do Equador	MG	UBERABA	Argila Refratária	2	3.900,00	Etapa única				Não
+C - PDE Nordeste	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°56'18.423"	-43°35'01.717"	Sul do Equador	MG	BARÃO DE COCAIS	Minério de Ferro	8	15.377,28	Etapa única				Não
+Captação	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°12'10.200"	-43°36'08.100"	Sul do Equador	MG	SANTA BÁRBARA	Minério de Ferro	8,2	511	Etapa única				Não
+Captação Córrego das Almas	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°09'28.916"	-43°28'05.155"	Sul do Equador	MG	MARIANA	Minério de Ferro	8,5	2.165,46	Etapa única				Não
+Captação Trovões	Vale S A Filial: Vale Vargem Grande	33.592.510/0034-12	-20°10'07.400"	-43°51'41.300"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	8,83	503	Etapa única				Não
+Cata Branca	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°13'59.200"	-43°51'24.300"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	9	12.000,00	Alteamento a jusante				Não
+CONJUNTO DE BAIAS VIGA	Ferrous Resources do Brasil Sa	08.852.207/0001-04	-20°29'45.700"	-43°55'03.600"	Sul do Equador	MG	CONGONHAS	Minério de Ferro	9	70.613,28	Etapa única				Não
+D-1	Mineração Pedra Menina Ltda	05.059.907/0001-40	-17°58'05.930"	-43°10'08.450"	Sul do Equador	MG	SENADOR MODESTINO GONÇALVES	Minério de Manganês	11	8.000,00	Etapa única				Não
+D-2	Mineração Pedra Menina Ltda	05.059.907/0001-40	-17°58'06.460"	-43°10'11.200"	Sul do Equador	MG	SENADOR MODESTINO GONÇALVES	Minério de Manganês	14	36.000,00	Etapa única				Não
+D-3	Mineração Pedra Menina Ltda	05.059.907/0001-40	-17°58'07.170"	-43°10'11.080"	Sul do Equador	MG	SENADOR MODESTINO GONÇALVES	Minério de Manganês	6	5.000,00	Etapa única				Não
+Dique - Pilha 2	Mib Mineração Ibirité Ltda	08.578.982/0001-05	-20°07'47.530"	-44°06'09.230"	Sul do Equador	MG	BRUMADINHO	Sedimento	2	250	Etapa única				Não
+Dique - Pilha 4	Mib Mineração Ibirité Ltda	08.578.982/0001-05	-20°07'23.117"	-44°06'23.291"	Sul do Equador	MG	BRUMADINHO	Sedimento	8	183	Etapa única				Não
+Dique - Pilha de Rejeito	EXTRATIVA MINERAL LTDA	17.174.889/0001-26	-20°06'36.810"	-43°54'31.680"	Sul do Equador	MG	NOVA LIMA	Minério de Ferro	10	80.000,00	Etapa única				Não
+Dique 01 - Serra Azul	Minerita Minérios Itaúna Ltda.	16.813.461/0001-13	-20°07'11.260"	-44°23'07.880"	Sul do Equador	MG	MATEUS LEME	Minério de Ferro	14	12.347,00	Etapa única				Não
+Dique 01 de Terra	Arcelormittal Mineração Serra Azul S.a.	08.102.787/0001-04	-20°08'19.363"	-44°24'02.991"	Sul do Equador	MG	ITATIAIUÇU	Minério de Ferro	9	15.000,00	Etapa única				Não
+Dique 01 Serra Azul - Dique Vai e Volta 1	Mineração Usiminas S.a.	12.056.613/0001-20	-20°07'44.700"	-44°25'12.700"	Sul do Equador	MG	MATEUS LEME	Argila Arenosa	13	30.000,00	Etapa única				Não
+Dique 02 - Pitangui	Minerita Minérios Itaúna Ltda.	16.813.461/0001-13	-20°07'25.280"	-44°22'31.860"	Sul do Equador	MG	MATEUS LEME	Minério de Ferro	6	2.100,00	Etapa única				Não
+Dique 02 Serra Azul - Dique Vai e Volta 2	Mineração Usiminas S.a.	12.056.613/0001-20	-20°07'49.000"	-44°25'21.000"	Sul do Equador	MG	MATEUS LEME	Argila Arenosa	12	45.000,00	Etapa única				Não
+Dique 03	Companhia de Mineração Serra Azul Comisa	03.405.415/0001-33	-20°07'18.220"	-44°19'09.870"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	5	900	Etapa única				Não
+Dique 03 Serra Azul - Dique Vai e Volta 3	Mineração Usiminas S.a.	12.056.613/0001-20	-20°07'50.650"	-44°25'36.130"	Sul do Equador	MG	MATEUS LEME	Argila Arenosa	11,45	76.000,00	Etapa única				Não
+Dique 04	Companhia de Mineração Serra Azul Comisa	03.405.415/0001-33	-20°07'09.860"	-44°19'26.960"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	3	100	Etapa única				Não
+Dique 06	Mineração Usiminas S.a.	12.056.613/0001-20	-20°09'42.900"	-44°27'22.500"	Sul do Equador	MG	ITATIAIUÇU	Argila Arenosa	12	50.000,00	Etapa única				Não
+Dique 06 - Véu da Noiva Jusante	Minerita Minérios Itaúna Ltda.	16.813.461/0001-13	-20°07'53.460"	-44°22'30.040"	Sul do Equador	MG	ITATIAIUÇU	Minério de Ferro	14	2.500,00	Etapa única				Não
+Dique 08 - Pátio CMC	Minerita Minérios Itaúna Ltda.	16.813.461/0001-13	-20°08'00.950"	-44°22'46.450"	Sul do Equador	MG	ITATIAIUÇU	Minério de Ferro	12	48.252,00	Etapa única				Não
+Dique 1	Saint Gobain do Brasil Produtos Industriais e Para Construção Ltda.	61.064.838/0001-33	-21°18'29.660"	-44°39'39.180"	Sul do Equador	MG	ITUTINGA	Sedimento	2	300	Etapa única				Não
+Dique 13 - Pains	Mineração Usiminas S.a.	12.056.613/0001-20	-20°07'27.890"	-44°24'00.660"	Sul do Equador	MG	MATEUS LEME	Argila Arenosa	12,45	54.000,00	Etapa única				Não
+Dique 14	Mineração Usiminas S.a.	12.056.613/0001-20	-20°09'44.900"	-44°26'50.600"	Sul do Equador	MG	ITATIAIUÇU	Argila Arenosa	9,93	54.000,00	Etapa única				Não
+Dique 2	Saint Gobain do Brasil Produtos Industriais e Para Construção Ltda.	61.064.838/0001-33	-21°18'29.650"	-44°39'42.590"	Sul do Equador	MG	ITUTINGA	Sedimento	3	100	Etapa única				Não
+Dique 2 de Concreto	Arcelormittal Mineração Serra Azul S.a.	08.102.787/0001-04	-20°08'21.900"	-44°24'02.300"	Sul do Equador	MG	ITATIAIUÇU	Argila	3	200	Etapa única				Não
+Dique 3	Saint Gobain do Brasil Produtos Industriais e Para Construção Ltda.	61.064.838/0001-33	-21°18'31.440"	-44°39'43.340"	Sul do Equador	MG	ITUTINGA	Sedimento	1,5	25	Etapa única				Não
+Dique B11 - Pilha de Estéril Alegria E (Dique do Córrego dos Macacos)	Samarco Mineração S A.	16.628.281/0001-61	-20°11'38.353"	-43°30'30.185"	Sul do Equador	MG	OURO PRETO	Sedimento	14,5	52.000,00	Etapa única				Não
+Dique B2 - Pilha de Estéril João Manoel	Samarco Mineração S A.	16.628.281/0001-61	-20°10'15.254"	-43°29'53.120"	Sul do Equador	MG	MARIANA	Sedimento	10	8.000,00	Etapa única				Não
+Dique B3 - Pilha de Estéril João Manoel	Samarco Mineração S A.	16.628.281/0001-61	-20°10'11.676"	-43°29'45.981"	Sul do Equador	MG	MARIANA	Sedimento	10	12.000,00	Alteamento a jusante				Não
+Dique BIII-6	FERROMINAS - MINERAÇÃO LTDA	08.814.720/0001-00	-20°08'48.020"	-44°27'15.790"	Sul do Equador	MG	ITAÚNA	Sedimento	7,5	14.457,60	Etapa única				Não
+Dique BIII-7	FERROMINAS - MINERAÇÃO LTDA	08.814.720/0001-00	-20°08'48.680"	-44°27'05.270"	Sul do Equador	MG	ITAÚNA	Sedimento	7,5	16.557,00	Etapa única				Não
+Dique BIV-3 - Dique Hércules	Mineração Usiminas S.a.	12.056.613/0001-20	-20°09'21.800"	-44°26'29.000"	Sul do Equador	MG	ITATIAIUÇU	Argila Arenosa	13	15.524,00	Etapa única				Não
+Dique Caffaro	Mineral do Brasil Ltda.	17.246.638/0001-00	-20°05'43.890"	-44°09'44.560"	Sul do Equador	MG	MÁRIO CAMPOS	Sedimento	8	17.000,00	Etapa única				Não
+Dique Conquistinha	Mineração Morro do Ipê S.a.	22.902.554/0001-17	-20°06'57.240"	-44°17'53.170"	Sul do Equador	MG	BRUMADINHO	Sedimento	5	30	Etapa única				Não
+Dique Couves (MUSA)	Mineração Usiminas S.a.	12.056.613/0001-20	-20°09'21.200"	-44°26'49.500"	Sul do Equador	MG	ITATIAIUÇU	Argila Arenosa	8,8	3.800,00	Etapa única				Não
+Dique da Divisa	Mineração Usiminas S.a.	12.056.613/0001-20	-20°08'10.800"	-44°24'18.900"	Sul do Equador	MG	ITATIAIUÇU	Argila Arenosa	10	8.750,00	Etapa única				Não
+Dique da Mineira	Mineração Usiminas S.a.	12.056.613/0001-20	-20°09'01.300"	-44°26'09.000"	Sul do Equador	MG	ITATIAIUÇU	Argila Arenosa	10,2	5.000,00	Etapa única				Não
+Dique da Oficina	Mineração Usiminas S.a.	12.056.613/0001-20	-20°07'31.200"	-44°24'37.700"	Sul do Equador	MG	MATEUS LEME	Argila Arenosa	12	10.000,00	Etapa única				Não
+Dique da Oficina II	Mineração Usiminas S.a.	12.056.613/0001-20	-20°07'34.500"	-44°24'48.600"	Sul do Equador	MG	MATEUS LEME	Argila Arenosa	9,4	5.600,00	Etapa única				Não
+Dique de Captação	Pedreira Um Valemix Ltda.	41.716.499/0001-15	-20°01'38.910"	-43°25'26.900"	Sul do Equador	MG	CATAS ALTAS	Sedimento	4	13.134,76	Etapa única				Não
+Dique de Concreto	Minerita Minérios Itaúna Ltda.	16.813.461/0001-13	-20°07'54.830"	-44°22'35.900"	Sul do Equador	MG	ITATIAIUÇU	Minério de Ferro	4	1.600,00	Etapa única				Não
+Dique de Contenção de Finos	Pedras Congonhas Extração Arte e Ind. Ltda	19.695.030/0001-98	-20°06'58.000"	-43°52'25.400"	Sul do Equador	MG	NOVA LIMA	Serpentinito	14,87	2.376,00	Etapa única				Não
+Dique de Contenção Pilha de Estéril MMR	Lafargeholcim (brasil) S.a. Filial: Barroso	60.869.336/0084-44	-21°11'27.800"	-43°59'28.500"	Sul do Equador	MG	PRADOS	Argila	0	0	Indefinido				Não
+DIQUE DE SAÍDA DE CAVA	Empresa de Mineração Esperança Sa	33.300.971/0001-06	-20°06'43.300"	-44°13'12.700"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	8	11.250,00	Etapa única				Não
+Dique de Sedimentos da PDE Cava Sul	Ferro + Mineração S.a.	21.256.870/0001-04	-20°26'11.430"	-43°52'18.450"	Sul do Equador	MG	CONGONHAS	Minério de Ferro	9,9	10.000,00	Etapa única				Não
+Dique dos Búfalos	Araxa	33.931.486/0019-60	-19°40'24.340"	-46°58'19.196"	Sul do Equador	MG	ARAXÁ	Fosfato	9,5	22.000,00	Alteamento a jusante				Não
+Dique Flotação	Mineração Usiminas S.a.	12.056.613/0001-20	-20°08'45.300"	-44°24'19.700"	Sul do Equador	MG	ITATIAIUÇU	Minério de Ferro	6	57.000,00	Etapa única				Não
+Dique Intermediário	Mineração Usiminas S.a.	12.056.613/0001-20	-20°09'35.400"	-44°26'59.800"	Sul do Equador	MG	ITATIAIUÇU	Argila Arenosa	12	12.000,00	Etapa única				Não
+Dique IV	Mineração Geral do Brasil S A	60.727.120/0001-17	-20°04'15.981"	-44°01'17.594"	Sul do Equador	MG	BRUMADINHO	Argila Arenosa	2	100	Etapa única				Não
+Dique Leste I	Mineração Usiminas S.a.	12.056.613/0001-20	-20°07'17.000"	-44°22'16.400"	Sul do Equador	MG	MATEUS LEME	Argila Arenosa	9,2	15.100,00	Etapa única				Não
+Dique Leste II	Mineração Usiminas S.a.	12.056.613/0001-20	-20°07'12.800"	-44°22'18.400"	Sul do Equador	MG	MATEUS LEME	Argila Arenosa	10,6	7.100,00	Etapa única				Não
+Dique Leste III	Mineração Usiminas S.a.	12.056.613/0001-20	-20°06'57.900"	-44°22'16.500"	Sul do Equador	MG	MATEUS LEME	Argila Arenosa	3,8	1.350,00	Etapa única				Não
+Dique Longitudinal	Safm Mineração Ltda	09.325.670/0001-52	-20°16'24.690"	-43°54'00.457"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	4,3	88.750,00	Etapa única				Não
+Dique Mazano	Mineração Usiminas S.a.	12.056.613/0001-20	-20°08'25.400"	-44°25'20.900"	Sul do Equador	MG	ITATIAIUÇU	Argila Arenosa	10	10.120,00	Etapa única				Não
+Dique Quéias - Captação de Água	Companhia de Mineração Serra Azul Comisa	03.405.415/0001-33	-20°07'36.100"	-44°18'58.100"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	5	1.200,00	Etapa única				Não
+Fazendinha	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°58'18.219"	-43°36'29.024"	Sul do Equador	MG	BARÃO DE COCAIS	Minério de Ferro	8	3.830,74	Alteamento a jusante				Não
+Gambá	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°25'52.800"	-43°52'58.300"	Sul do Equador	MG	CONGONHAS	Minério de Ferro	12,64	5.000,00	Etapa única				Não
+GERAIS	Minerações Gerais Ltda	02.196.839/0001-72	-19°34'56.800"	-44°24'41.100"	Sul do Equador	MG	INHAÚMA	Areia	4	90	Indefinido				Não
+Ingleses	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°57'55.300"	-43°35'14.200"	Sul do Equador	MG	BARÃO DE COCAIS	Minério de Ferro	5	3.524,96	Etapa única				Não
+Ipoema	Vale S A Filial: Vale Itabira	33.592.510/0164-09	-19°36'44.018"	-43°15'20.917"	Sul do Equador	MG	ITABIRA	Minério de Ferro	7,5	47.900,00	Alteamento a jusante				Não
+Mata Porcos	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°23'09.800"	-43°51'27.000"	Sul do Equador	MG	ITABIRITO	Minério de Ferro	7,15	7.000,00	Etapa única				Não
+MIGUEL BURNIER - DIQUE B1	MINERACAO RODEIO DE BAIXO LTDA Filial:	26.124.547/0001-92	-20°27'23.200"	-43°44'59.000"	Sul do Equador	MG	OURO PRETO	Calcário Dolomítico	3	10.650,00	Indefinido				Não
+MIGUEL BURNIER - DIQUE B2	MINERACAO RODEIO DE BAIXO LTDA Filial:	26.124.547/0001-92	-20°27'23.200"	-43°44'59.900"	Sul do Equador	MG	OURO PRETO	Calcário Dolomítico	2	17.950,00	Indefinido				Não
+MIGUEL BURNIER - DIQUE B3	MINERACAO RODEIO DE BAIXO LTDA Filial:	26.124.547/0001-92	-20°27'29.600"	-43°44'01.100"	Sul do Equador	MG	OURO PRETO	Calcário Dolomítico	3	2.850,00	Indefinido				Não
+Modulo 3	Nexa Recursos Minerais S.a	42.416.651/0001-07	-17°57'54.000"	-46°50'39.000"	Sul do Equador	MG	VAZANTE	Argila	6	96.000,00	Etapa única				Não
+Patrimônio	Vale S A Filial: Vale Minas Centrais	33.592.510/0447-98	-19°57'34.010"	-43°35'14.011"	Sul do Equador	MG	BARÃO DE COCAIS	Minério de Ferro	8	7.185,66	Etapa única				Não
+PDE Engano	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°20'17.000"	-43°25'28.600"	Sul do Equador	MG	MARIANA	Minério de Ferro	7	12.912,54	Etapa única				Não
+PDE Lagoa Seca	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°20'56.300"	-43°24'47.100"	Sul do Equador	MG	MARIANA	Minério de Ferro	11,4	10.626,16	Alteamento a jusante				Não
+PDE Temporária II	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°12'54.424"	-43°26'54.551"	Sul do Equador	MG	MARIANA	Minério de Ferro	12	7.000,00	Etapa única				Não
+Piteiras	Piteiras Mineração Ltda.	03.369.498/0001-52	-19°41'32.500"	-43°06'46.300"	Sul do Equador	MG	ITABIRA	Xisto	2	2.000,00	Indefinido				Não
+Pocilga	Vale S A Filial: Vale Mariana	33.592.510/0412-68	-20°11'06.300"	-43°36'20.700"	Sul do Equador	MG	SANTA BÁRBARA	Minério de Ferro	9	38.558,57	Etapa única				Não
+Pond - PDE Sul	Mosaic Fertilizantes P&k Ltda	33.931.486/0014-55	-18°59'12.152"	-46°47'58.919"	Sul do Equador	MG	PATROCÍNIO	Argila Arenosa	8,46	0	Etapa única				Não
+Prata	Vale S A Filial: Vale Itabiritos	33.592.510/0044-94	-20°24'42.200"	-43°51'55.000"	Sul do Equador	MG	OURO PRETO	Minério de Ferro	10,75	20.000,00	Etapa única				Não
+SANGUINETE	Mineração Sanguinete Ltda	20.762.035/0001-75	-18°00'32.600"	-43°46'08.100"	Sul do Equador	MG	DIAMANTINA	Areia	3	15.000,00	Indefinido				Não
+SANTA TERESA	Novelis do Brasil Ltda	60.561.800/0001-03	-21°28'01.900"	-42°53'09.500"	Sul do Equador	MG	DESCOBERTO	Bauxita Grau Metalúrgico	11,33	200.000,00	Indefinido				Não
+SANTO ANTÔNIO	Niki Mineração Comércio e Exportação Ltda	08.667.139/0001-03	-19°32'43.650"	-43°01'51.370"	Sul do Equador	MG	ANTÔNIO DIAS	Argila Arenosa	13	150.000,00	Etapa única				Não
+SUMP DE CONTENÇÃO DE SEDIMENTOS	Empresa de Mineração Esperança Sa	33.300.971/0001-06	-20°06'39.300"	-44°13'26.700"	Sul do Equador	MG	BRUMADINHO	Minério de Ferro	12	12.000,00	Etapa única				Não
+Bacia "S"	Vetorial Mineração S A	61.247.870/0001-54	-19°15'39.500"	-57°31'43.600"	Sul do Equador	MS	CORUMBÁ	Minério de Ferro	4	5.233,20	Etapa única				Não
+Bacia 02-03 Alto da Serra Mn	Mineração Corumbaense Reunida Sa	03.327.988/0001-96	-19°11'26.914"	-57°37'00.111"	Sul do Equador	MS	CORUMBÁ	Minério de Manganês	10,07	9.479,00	Etapa única				Não
+Bacia 05 Alto da Serra	Mineração Corumbaense Reunida Sa	03.327.988/0001-96	-19°11'30.625"	-57°36'49.613"	Sul do Equador	MS	CORUMBÁ	Minério de Manganês	11,69	5.662,00	Etapa única				Não
+Bacia 07 Alto da Serra	Mineração Corumbaense Reunida Sa	03.327.988/0001-96	-19°11'31.331"	-57°36'52.526"	Sul do Equador	MS	CORUMBÁ	Minério de Manganês	13,05	5.862,00	Etapa única				Não
+Bacia B-2A	Vetorial Mineração S A	61.247.870/0001-54	-19°15'41.600"	-57°31'42.800"	Sul do Equador	MS	CORUMBÁ	Minério de Ferro	9,6	10.275,00	Etapa única				Não
+Bacia B-2B	Vetorial Mineração S A	61.247.870/0001-54	-19°15'41.600"	-57°31'42.800"	Sul do Equador	MS	CORUMBÁ	Minério de Ferro	9,6	7.557,00	Etapa única				Não
+Bacia B-3	Vetorial Mineração S A	61.247.870/0001-54	-19°15'44.700"	-57°31'42.300"	Sul do Equador	MS	CORUMBÁ	Minério de Ferro	4,31	5.397,71	Etapa única				Não
+Bacia B-4	Vetorial Mineração S A	61.247.870/0001-54	-19°15'43.500"	-57°31'40.500"	Sul do Equador	MS	CORUMBÁ	Minério de Ferro	5	4.385,00	Etapa única				Não
+Bacia B-5A	Vetorial Mineração S A	61.247.870/0001-54	-19°15'44.400"	-57°31'40.000"	Sul do Equador	MS	CORUMBÁ	Minério de Ferro	5	3.766,00	Etapa única				Não
+Bacia B-5B	Vetorial Mineração S A	61.247.870/0001-54	-19°15'45.000"	-57°31'39.400"	Sul do Equador	MS	CORUMBÁ	Minério de Ferro	5	2.319,80	Etapa única				Não
+Bacia B-8	Vetorial Mineração S A	61.247.870/0001-54	-19°15'52.800"	-57°31'37.400"	Sul do Equador	MS	CORUMBÁ	Minério de Ferro	5	7.259,80	Etapa única				Não
+Bacia B-9	Vetorial Mineração S A	61.247.870/0001-54	-19°15'55.000"	-57°31'35.800"	Sul do Equador	MS	CORUMBÁ	Minério de Ferro	5,25	8.032,89	Etapa única				Não
+Baia 4	Vetorial Mineração S A	61.247.870/0001-54	-19°12'01.263"	-57°38'21.980"	Sul do Equador	MS	CORUMBÁ	Minério de Ferro	10	76.000,00	Etapa única				Não
+ADÃO RODUÍ	ADÃO AFONSO RODUÍ	00.046.937/2509-91	-16°14'05.580"	-56°39'08.650"	Sul do Equador	MT	POCONÉ	Areia	14	300.000,00	Alteamento a jusante				Não
+Alain II	Alain Stephane Riviere Mineração	15.264.439/0001-07	-16°15'18.000"	-56°36'55.000"	Sul do Equador	MT	POCONÉ	Areia	3	350.000,00	Alteamento por linha de centro				Não
+BACIA DE REJEITO MINERGOLD	P C Traven	17.194.340/0001-01	-15°41'47.500"	-56°20'02.100"	Sul do Equador	MT	NOSSA SENHORA DO LIVRAMENTO	Minério de Ouro Primário	5	146.000,00	Indefinido				Não
+BACIA DE REJEITOS BOM JARDIM	Evaldino Rodui	00.028.791/7629-87	-16°15'02.200"	-56°35'56.900"	Sul do Equador	MT	POCONÉ	Rocha Aurífera	8	450.000,00	Indefinido				Não
+BACIA DE REJEITOS SÃO BENTO	Francismar Cristiano Lima Formiga	00.081.375/5571-49	-16°15'28.700"	-56°35'39.700"	Sul do Equador	MT	POCONÉ	Rocha Aurífera	6	124.650,00	Indefinido				Não
+BARRAGEM BLOCO NORTE	Angelo Carlos Vicari Junior	00.092.389/5701-00	-10°41'16.700"	-54°49'40.500"	Sul do Equador	MT	NOVA SANTA HELENA	Minério de Ouro Primário	5	7.500,00	Indefinido				Não
+BARRAGEM BLOCO SUL	Angelo Carlos Vicari Junior	00.092.389/5701-00	-10°41'12.400"	-54°49'45.500"	Sul do Equador	MT	NOVA SANTA HELENA	Minério de Ouro Primário	2	100	Indefinido				Não
+Barragem de Rejeito 01	A R Weber Me	05.742.530/0001-29	-15°46'29.100"	-56°17'08.600"	Sul do Equador	MT	NOSSA SENHORA DO LIVRAMENTO	Areia	7,5	54.608,00	Indefinido				Não
+Barragem Salinas 1	Darci Nascimento Epp	00.057.032/0001-23	-16°10'59.700"	-56°25'06.900"	Sul do Equador	MT	POCONÉ	Rocha Aurífera	10	100.000,00	Indefinido				Não
+Barragem T04	Valdinei Mauro de Souza	00.056.836/0581-49	-15°33'26.120"	-55°48'12.440"	Sul do Equador	MT	CUIABÁ	Rocha Aurífera	11	1.815.000,00	Alteamento por linha de centro				Não
+Barragem T05	Valdinei Mauro de Souza	00.056.836/0581-49	-16°17'54.860"	-56°42'45.000"	Sul do Equador	MT	POCONÉ	Minério de Ouro Primário	13,49	483.417,27	Alteamento a jusante				Não
+Barragem T06	Valdinei Mauro de Souza	00.056.836/0581-49	-16°18'00.590"	-56°43'58.620"	Sul do Equador	MT	POCONÉ	Minério de Ouro Primário	6	153.602,70	Alteamento a jusante				Não
+BOM PASTOR	Sidnei Rafael de Souza	00.009.611/8508-24	-16°05'50.500"	-56°34'24.400"	Sul do Equador	MT	POCONÉ	Areia	14	660.000,00	Alteamento a jusante				Não
+CAMPOS	Moacyr de Campos	00.008.158/7032-91	-16°10'53.470"	-56°35'57.090"	Sul do Equador	MT	POCONÉ	Areia	12	1.248.000,00	Alteamento a jusante				Não
+CANGAS	Jonas Gimenez Rodrigues	00.001.568/0888-92	-16°06'39.080"	-56°34'26.280"	Sul do Equador	MT	POCONÉ	Areia	11,5	400.000,00	Alteamento a jusante				Não
+CF - Leste	Mineração Tereza Botas Ltda.	36.960.714/0001-99	-16°12'57.000"	-56°36'15.500"	Sul do Equador	MT	POCONÉ	Rocha Aurífera	5	192.200,00	Indefinido				Não
+CF - Oeste	Mineração Tereza Botas Ltda.	36.960.714/0001-99	-16°12'51.900"	-56°36'21.400"	Sul do Equador	MT	POCONÉ	Rocha Aurífera	5	92.000,00	Indefinido				Não
+CHICO	NORAIR NELSON DE SOUZA	00.052.285/9791-34	-16°17'41.470"	-56°39'05.520"	Sul do Equador	MT	POCONÉ	Areia	8	484.000,00	Alteamento a jusante				Não
+COQUEIRAL	EVANDRO DE SOUZA	00.089.486/5109-97	-16°03'11.270"	-56°32'59.720"	Sul do Equador	MT	POCONÉ	Areia	14	400.000,00	Alteamento a jusante				Não
+FRED	Frederico Augusto de Arruda Gimenez Me	07.111.522/0001-00	-16°03'42.270"	-56°33'37.530"	Sul do Equador	MT	POCONÉ	Areia	10	150.000,00	Alteamento a jusante				Não
+GAÚCHO	Airton Luiz Carus	00.035.505/9230-20	-16°14'51.200"	-56°35'39.800"	Sul do Equador	MT	POCONÉ	Areia	10	150.000,00	Alteamento a jusante				Não
+JOAO PAULO	Elisa Maciel Santos	00.069.390/0611-72	-16°14'55.560"	-56°36'19.500"	Sul do Equador	MT	POCONÉ	Argila	14,75	450.000,00	Alteamento a jusante				Não
+LU	José Vicente Nunes Rondon	00.000.649/2011-91	-16°14'28.910"	-56°36'17.520"	Sul do Equador	MT	POCONÉ	Areia	2	590.000,00	Alteamento a jusante				Não
+MARANATA	Sidnei Rafael de Souza	00.009.611/8508-24	-16°02'16.500"	-56°32'15.500"	Sul do Equador	MT	POCONÉ	Areia	14,5	483.000,00	Alteamento a jusante				Não
+MINERAÇÃO VALE DOURADO	Marcir Norberto Weber	15.947.559/0001-09	-14°51'02.100"	-56°34'25.400"	Sul do Equador	MT	ROSÁRIO OESTE	Aluvião Aurífero	1	2	Indefinido				Não
+Moça Bonita	Valdemir Carlos de Souza	00.032.618/3101-44	-16°11'25.864"	-56°24'47.168"	Sul do Equador	MT	POCONÉ	Minério de Ouro Primário	8	238.605,87	Alteamento a jusante				Não
+OREGON	SÉRGIO DE FRANÇA	00.030.215/7229-49	-16°16'27.700"	-56°38'14.100"	Sul do Equador	MT	POCONÉ	Areia	6	810.000,00	Alteamento a jusante				Não
+OURINHOS I	João Ginenes Rodrigues	00.051.095/7858-34	-16°07'11.800"	-56°35'15.800"	Sul do Equador	MT	POCONÉ	Argila	14,9	1.300.000,00	Alteamento a jusante				Não
+Rejeito	Vantage Brasil Mineração Ltda.	08.222.734/0001-27	-11°18'48.229"	-59°05'10.553"	Sul do Equador	MT	JUÍNA	Rocha Diamantífera	4	424.000,00	Indefinido				Não
+RODUÍ II	ADÃO AFONSO RODUÍ	00.046.937/2509-91	-16°14'20.620"	-56°39'09.370"	Sul do Equador	MT	POCONÉ	Areia	3	140.000,00	Alteamento a jusante				Não
+VALE DOURADO	Marcir Norberto Weber	15.947.559/0001-09	-14°51'02.100"	-56°34'25.400"	Sul do Equador	MT	ROSÁRIO OESTE	Aluvião Aurífero	1	2	Indefinido				Não
+1 Mina	Vale S A Filial: Vale Serra Sul	33.592.510/0089-96	-6°23'57.800"	-50°20'24.500"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Minério de Ferro	8,5	188.680,72	Etapa única				Não
+1 Usina	Vale S A Filial: Vale Serra Sul	33.592.510/0089-96	-6°27'17.700"	-50°13'43.500"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Minério de Ferro	7	34.000,00	Etapa única				Não
+3 Kalunga	Vale S A Filial: Vale Manganês do Azul	33.592.510/0130-51	-6°07'12.200"	-50°18'08.700"	Sul do Equador	PA	PARAUAPEBAS	Minério de Manganês	3,5	1.965.306,00	Etapa única				Não
+3 Mina	Vale S A Filial: Vale Serra Sul	33.592.510/0089-96	-6°23'39.900"	-50°19'11.300"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Minério de Ferro	14,61	165.320,00	Etapa única				Não
+Bacia C Usina	Vale S A Filial: Vale Serra Sul	33.592.510/0089-96	-6°26'20.400"	-50°14'08.900"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Minério de Ferro	7,3	30.114,00	Etapa única				Não
+Barragem A1	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°28'18.900"	-56°23'08.700"	Sul do Equador	PA	ORIXIMINÁ	Argila	11	422.000,00	Alteamento a montante ou desconhecido				Não
+Barragem Água Fria	Mineracao Rio do Norte S A	04.932.216/0001-46	-1°27'56.900"	-56°23'26.400"	Sul do Equador	PA	ORIXIMINÁ	Argila	8	103.000,00	Alteamento a montante ou desconhecido				Não
+BARRAGEM SÃO GERALDO	Cooperativa Mineradora dos Garimpeiros de Ariquemes	22.825.491/0001-42	-6°06'36.700"	-52°16'31.000"	Sul do Equador	PA	SÃO FÉLIX DO XINGU	Areia e Cascalho	3	5.250,00	Indefinido				Não
+BARRAGEM SAO GERALDO 02	Cooperativa Mineradora dos Garimpeiros de Ariquemes	22.825.491/0001-42	-6°04'32.800"	-52°15'18.700"	Sul do Equador	PA	SÃO FÉLIX DO XINGU	Areia e Cascalho	3	10.500,00	Indefinido				Não
+Barramento 10	Vale S A Filial: Vale Serra Sul	33.592.510/0089-96	-6°26'36.800"	-50°19'05.200"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Minério de Ferro	2,9	10.670,00	Etapa única				Não
+Barramento 7	Vale S A Filial: Vale Serra Sul	33.592.510/0089-96	-6°26'26.000"	-50°19'31.800"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Minério de Ferro	2,4	2.467,00	Etapa única				Não
+Barramento 8	Vale S A Filial: Vale Serra Sul	33.592.510/0089-96	-6°26'25.600"	-50°19'12.000"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Minério de Ferro	2,4	4.511,00	Etapa única				Não
+CSO1	Vale S A Filial: Vale Mina Sossego	33.592.510/0009-01	-6°24'28.900"	-50°02'39.000"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Argila Arenosa	6	1	Etapa única				Não
+Dique 04	Vale S A Filial: Vale Minas MOP	33.592.510/0075-90	-6°33'31.456"	-51°10'40.184"	Sul do Equador	PA	SÃO FÉLIX DO XINGU	Minério de Níquel	5,9	87.700,00	Etapa única				Não
+Dique 05	Vale S A Filial: Vale Minas MOP	33.592.510/0075-90	-6°33'21.445"	-51°10'24.538"	Sul do Equador	PA	SÃO FÉLIX DO XINGU	Minério de Níquel	10,85	405.554,90	Etapa única				Não
+Dique 06	Vale S A Filial: Vale Minas MOP	33.592.510/0075-90	-6°34'49.300"	-51°10'27.000"	Sul do Equador	PA	SÃO FÉLIX DO XINGU	Minério de Níquel	10,5	78.000,00	Etapa única				Não
+Dique do Puma 01	Vale Minas MOP	33.592.510/0075-90	-6°29'06.900"	-51°04'39.100"	Sul do Equador	PA	PARAUAPEBAS	Minério de Níquel	13,6	295.000,00	Etapa única				Não
+Dique Provisorio 01	Vale S A Filial: Vale Minas MOP	33.592.510/0075-90	-6°33'42.700"	-51°10'16.100"	Sul do Equador	PA	SÃO FÉLIX DO XINGU	Minério de Níquel	6,2	28.500,00	Etapa única				Não
+Dique Provisorio 02	Vale S A Filial: Vale Minas MOP	33.592.510/0075-90	-6°33'37.400"	-51°10'00.200"	Sul do Equador	PA	SÃO FÉLIX DO XINGU	Minério de Níquel	4,8	21.300,00	Etapa única				Não
+E48 Bacia I	Vale S A Filial: Vale Serra Sul	33.592.510/0089-96	-6°25'11.700"	-50°18'47.900"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Minério de Ferro	5,03	6.333,00	Indefinido				Não
+Igarapé	Vale S A Filial: Vale Minas MOP	33.592.510/0075-90	-6°35'24.000"	-51°05'24.000"	Sul do Equador	PA	OURILÂNDIA DO NORTE	Minério de Níquel	8,1	1.862.231,00	Etapa única				Não
+Lagoa de Disposição n°04 - LD4	Alcoa World Alumina Brasil Ltda.	06.167.730/0001-68	-2°29'12.100"	-56°10'41.300"	Sul do Equador	PA	JURUTI	Bauxita Grau Não Metalúrgico	12	750.000,00	Etapa única				Não
+LAGOA FACEL 3	Cadam S.a.	04.788.980/0001-90	-0°54'40.017"	-52°25'56.866"	Sul do Equador	PA	ALMEIRIM	Caulim	11	600.000,00	Etapa única				Não
+LAGOA FACEL 4	Cadam S.a.	04.788.980/0001-90	-0°54'52.451"	-52°25'43.269"	Sul do Equador	PA	ALMEIRIM	Caulim	9	412.800,00	Etapa única				Não
+Lagoa Progeo	Vale S A Filial: Vale Serra Sul	33.592.510/0089-96	-6°26'30.700"	-50°19'35.400"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Minério de Ferro	2,5	21.520,00	Etapa única				Não
+Maney Mineração	Valdinei Mauro de Souza	00.056.836/0581-49	-6°47'20.006"	-56°36'29.199"	Sul do Equador	PA	ITAITUBA	Minério de Ouro Secundário	5	400.000,00	Etapa única				Não
+PN - 1	Vale S A Filial: Vale Mina Sossego	33.592.510/0009-01	-6°24'20.600"	-50°03'25.600"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Argila Arenosa	5	100.000,00	Etapa única				Não
+PN - 3	Vale S A Filial: Vale Mina Sossego	33.592.510/0009-01	-6°24'09.341"	-50°04'31.472"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Argila Arenosa	6,5	1.120,00	Etapa única				Não
+PN - 4	Vale S A Filial: Vale Mina Sossego	33.592.510/0009-01	-6°24'41.461"	-50°01'59.710"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Argila Arenosa	5	7.000,00	Etapa única				Não
+PN - 6	Vale S A Filial: Vale Mina Sossego	33.592.510/0009-01	-6°24'21.578"	-50°05'03.123"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Argila Arenosa	5,5	50.000,00	Etapa única				Não
+PN -5	Vale S A Filial: Vale Mina Sossego	33.592.510/0009-01	-6°25'16.985"	-50°02'09.927"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Argila Arenosa	4	6.000,00	Etapa única				Não
+PS -1	Vale S A Filial: Vale Mina Sossego	33.592.510/0009-01	-6°26'01.900"	-50°02'54.100"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Argila Arenosa	7	220.000,00	Etapa única				Não
+RECON	Mineração São Francisco de Assis Ltda.	42.323.964/0001-10	-6°49'53.500"	-51°59'27.600"	Sul do Equador	PA	SÃO FÉLIX DO XINGU	Areia	3	0	Indefinido				Não
+Sul Pilha	Vale S A Filial: Vale Serra Sul	33.592.510/0089-96	-6°28'41.600"	-50°19'16.900"	Sul do Equador	PA	CANAÃ DOS CARAJÁS	Minério de Ferro	12	496.059,42	Etapa única				Não
+Usina	Vale S A Filial: Vale Minas MOP	33.592.510/0075-90	-6°34'49.700"	-51°04'37.500"	Sul do Equador	PA	OURILÂNDIA DO NORTE	Minério de Níquel	8,5	494.416,00	Etapa única				Não
+QUIXABA USINA	Rozen Mineradora, Consultoria e Assessoria Em Gestão Empresarial Ltda Me	10.857.721/0001-76	-6°48'26.900"	-37°00'28.800"	Sul do Equador	PB	VÁRZEA	Areia Quartzosa	3	450	Indefinido				Não
+803.285/2014	Plinio Almeida Boson	11.714.784/0001-36	-9°14'09.800"	-42°34'41.200"	Sul do Equador	PI	SÃO LOURENÇO DO PIAUÍ	Saibro	1	500	Indefinido				Não
+bonito	Ecb Rochas Ornamentais do Brasil Ltda	02.746.671/0001-21	-5°12'32.100"	-41°42'27.600"	Sul do Equador	PI	CASTELO DO PIAUÍ	Quartzito	1,5	900	Indefinido				Não
+areal eskema	Areal Eskema Ltda	32.110.223/0001-06	-22°44'38.000"	-43°42'28.000"	Sul do Equador	RJ	SEROPÉDICA	Areia	8	80.000,00	Indefinido				Não
+Pond de Emergência	Anglo American Minério de Ferro Brasil S.a	02.359.572/0004-30	-21°49'52.000"	-41°01'14.000"	Sul do Equador	RJ	SÃO JOÃO DA BARRA	Minério de Ferro	4,5	333.438,00	Etapa única				Não
+BARRAGEM 01	Cooperativa Mineradora dos Garimpeiros de Ariquemes	22.825.491/0001-42	-10°30'18.000"	-63°37'14.100"	Sul do Equador	RO	CAMPO NOVO DE RONDÔNIA	Areia e Cascalho	3	31.250,00	Indefinido				Não
+BARRAGEM 02	Cooperativa Mineradora dos Garimpeiros de Ariquemes	22.825.491/0001-42	-11°09'42.300"	-62°25'02.700"	Sul do Equador	RO	CAMPO NOVO DE RONDÔNIA	Areia e Cascalho	3,5	31.250,00	Indefinido				Não
+BARRAGEM 339	Cooperativa Mineradora dos Garimpeiros de Ariquemes	22.825.491/0001-42	-11°08'14.500"	-61°37'15.100"	Sul do Equador	RO	MINISTRO ANDREAZZA	Areia e Cascalho	4,5	7.500,00	Indefinido				Não
+BARRAGEM 341	Cooperativa Mineradora dos Garimpeiros de Ariquemes	22.825.491/0001-42	-11°08'14.500"	-61°37'15.100"	Sul do Equador	RO	MINISTRO ANDREAZZA	Areia e Cascalho	4,5	7.500,00	Indefinido				Não
+BARRAGEM TABOQUINHA	Cooperativa Mineradora dos Garimpeiros de Ariquemes	22.825.491/0001-42	-9°31'24.000"	-62°54'21.200"	Sul do Equador	RO	CUJUBIM	Areia e Cascalho	4,5	7.500,00	Indefinido				Não
+BARRAGEM TARILÂNDIA 01	Cooperativa Mineradora dos Garimpeiros de Ariquemes	22.825.491/0001-42	-10°49'19.200"	-62°50'02.200"	Sul do Equador	RO	JARU	Argila	3	31.250,00	Indefinido				Não
+BARRAGEM URUPA 01	Cooperativa Mineradora dos Garimpeiros de Ariquemes	22.825.491/0001-42	-11°08'07.500"	-62°26'15.100"	Sul do Equador	RO	URUPÁ	Argila	3	31.250,00	Indefinido				Não
+Belíssima	Cooperativa de Garimpeiros de Santa Cruz Ltda	34.726.547/0001-90	-9°47'34.047"	-63°33'34.869"	Sul do Equador	RO	ARIQUEMES	Minério de Estanho Secundário	10	1.300.000,00	Etapa única				Não
+Queimada	Metalmig Mineração Indústria e Comércio S A	34.456.038/0001-95	-9°25'25.900"	-63°02'52.400"	Sul do Equador	RO	ITAPUÃ DO OESTE	Aluvião Estanífero	5	60.000,00	Etapa única				Não
+RESERVATÓRIO 01	Farias e Rodrigues Ltda Me	11.239.511/0001-87	-12°57'09.000"	-60°24'38.700"	Sul do Equador	RO	VILHENA	Argila Arenosa	2	1.296,00	Indefinido				Não
+RESERVATÓRIO 01	Muller & Cia Ltda Me	04.800.249/0001-32	-12°53'50.800"	-60°25'21.300"	Sul do Equador	RO	VILHENA	Argila Arenosa	2	17.848,00	Indefinido				Não
+RESERVATÓRIO 01	Norte Sul TerraplenagemComercio EIRELIMe	17.133.940/0001-51	-12°55'57.300"	-60°20'58.300"	Sul do Equador	RO	VILHENA	Argila Arenosa	3	124.125,00	Indefinido				Não
+RESERVATÓRIO 01	PORTO COMÉRCIO DE AREIA LTDA ME	08.491.915/0001-59	-12°57'35.100"	-60°17'15.500"	Sul do Equador	RO	VILHENA	Argila Arenosa	2	16.000,00	Indefinido				Não
+Reservatório 01	White Solder Metalurgia e Mineração - Sol Nascente	04.107.120/0002-24	-9°37'20.200"	-63°03'39.100"	Sul do Equador	RO	RIO CRESPO	Areia e Cascalho	6	45.500,00	Indefinido				Não
+RESERVATÓRIO 02	Muller & Cia Ltda Me	04.800.249/0001-32	-12°48'15.200"	-60°21'54.400"	Sul do Equador	RO	VILHENA	Argila Arenosa	2	30.800,00	Indefinido				Não
+RIO BRANCO	Minerais & Metais Comércio e Indústria Ltda Filial: Marcos	02.587.633/0007-69	-9°46'14.500"	-62°44'26.300"	Sul do Equador	RO	RIO CRESPO	Areia	4	600.000,00	Indefinido				Não
+MNP-01	Mineração Nova Petrópolis Ltda.	16.785.060/0001-05	-29°20'48.000"	-51°11'30.000"	Sul do Equador	RS	NOVA PETRÓPOLIS	Areia	5	4.000,00	Etapa única				Não
+VIAMAO	D & L Mineração Ltda.	09.044.878/0001-01	-29°10'00.000"	-50°49'16.000"	Sul do Equador	RS	VIAMÃO	Areia	13	111.000,00	Indefinido				Não
+Barragem 101	Indústria Carbonífera Rio Deserto Ltda	83.286.500/0001-69	-28°43'45.000"	-49°14'54.000"	Sul do Equador	SC	IÇARA	Carvão Mineral Camada Barro Branco	3	9.542,20	Etapa única				Não
+Santa Líbera	Cooperativa de Extração de Carvão Mineral dos Trabalhadores de Criciúma	80.967.540/0001-88	-28°44'18.600"	-49°25'33.200"	Sul do Equador	SC	FORQUILHINHA	Carvão Mineral Camada Barro Branco	2,2	3.500,00	Indefinido				Não
+Dique Petrobrás	Mosaic Fertilizantes P&K S.A. Filial: Taquari Vassouras	33.931.486/0033-18	-10°39'12.400"	-37°01'50.100"	Sul do Equador	SE	ROSÁRIO DO CATETE	Sais	6	6.362,07	Etapa única				Não
+1. CONJUNTO DE LEIRAS DE DECANTAÇÃO	Realmix Agregados Minerais Ltda	02.931.701/0001-70	-23°11'34.600"	-48°21'45.000"	Sul do Equador	SP	BOFETE	Areia	3	140.059,00	Etapa única				Não
+12 - AN	Mineração Jundu Ltda.	60.628.468/0001-57	-22°09'25.047"	-47°38'34.049"	Sul do Equador	SP	ANALÂNDIA	Argila	10	492.348,00	Etapa única				Não
+13 - AN	Mineração Jundu Ltda.	60.628.468/0001-57	-22°09'18.075"	-47°38'22.025"	Sul do Equador	SP	ANALÂNDIA	Argila	8	663.184,00	Alteamento a jusante				Não
+Barramento 1	MINERADORA PEDRIX LTDA	01.290.096/0001-32	-23°23'35.060"	-46°46'30.100"	Sul do Equador	SP	CAIEIRAS	Granito	4	56.000,00	Etapa única				Não
+Boa Sorte	Empresa Mineradora Boa Sorte Ltda	45.599.032/0001-93	-23°24'43.000"	-46°12'42.800"	Sul do Equador	SP	MOGI DAS CRUZES	Argila Arenosa	0	365.000,00	Indefinido				Não
+CAMC	Extração de Areia e Pedregulho Cachoeira Ltda.	45.600.327/0001-32	-23°24'04.600"	-46°12'19.500"	Sul do Equador	SP	MOGI DAS CRUZES	Argila	13	588.484,00	Etapa única				Não
+Cascalho	Cascalho Extração e Comércio de Areia, Cascalho e Argila Ltda Epp	00.311.698/0001-66	-22°44'52.600"	-46°52'18.000"	Sul do Equador	SP	PEDREIRA	Argila	0	140.000,00	Indefinido				Não
+CAVA	Milton José Aparecido Giuli Me	38.799.607/0001-56	-23°00'29.728"	-47°28'56.567"	Sul do Equador	SP	CAPIVARI	Areia	0	180.000,00	Etapa única				Não
+CAVA 1	L Pavan & Cia Ltda	44.140.069/0001-96	-23°47'06.400"	-46°41'48.400"	Sul do Equador	SP	SÃO PAULO	Argila	0	120.000,00	Indefinido				Não
+CAVA 2	L Pavan & Cia Ltda	44.140.069/0001-96	-23°46'58.500"	-46°41'55.700"	Sul do Equador	SP	SÃO PAULO	Argila	0	92.000,00	Indefinido				Não
+CHAPADINHA 061	Uilson Romanha & Cia Ltda	00.934.199/0001-25	-23°39'32.700"	-48°00'20.400"	Sul do Equador	SP	ITAPETININGA	Argila	6	565.500,00	Etapa única				Não
+CHAPADINHA 221	Uilson Romanha & Cia Ltda	00.934.199/0001-25	-23°39'05.500"	-47°59'32.500"	Sul do Equador	SP	ITAPETININGA	Argila	10,6	740.000,00	Etapa única				Não
+Conjunto de cavas em desativação recuperação	Mineradora Areia Nova Ltda	02.286.818/0001-48	-23°10'39.400"	-48°20'35.900"	Sul do Equador	SP	BOFETE	Areia	0	0	Etapa única				Não
+Conterpa	Conterpa, Conservação e Terraplagem e Pavimentação Ltda	02.002.588/0001-48	-22°51'40.100"	-47°14'19.000"	Sul do Equador	SP	HORTOLÂNDIA	Argila	0	300.000,00	Indefinido				Não
+decantação de finos / reservatorio agua processo	Mineradora Areia Nova Ltda	02.286.818/0001-48	-23°10'41.300"	-48°20'47.500"	Sul do Equador	SP	BOFETE	Areia	0	0	Etapa única				Não
+Deposito de Finos Porto de Areia Serramar	Pecuária Serramar EIRELI	03.938.233/0001-28	-23°39'35.000"	-45°31'16.000"	Sul do Equador	SP	CARAGUATATUBA	Areia	0	385.000,00	Indefinido				Não
+Dique 2	PEDREIRA SARGON LTDA	60.101.300/0001-99	-23°21'27.900"	-46°17'09.200"	Sul do Equador	SP	SANTA ISABEL	Argila	5	40.000,00	Etapa única				Não
+Dique 4 (Barragem 3 - Bota fora)	PEDREIRA SARGON LTDA	60.101.300/0001-99	-23°21'24.500"	-46°16'31.200"	Sul do Equador	SP	SANTA ISABEL	Argila	8	15.000,00	Etapa única				Não
+Dique 5 (Barragem 4 - Bota fora)	PEDREIRA SARGON LTDA	60.101.300/0001-99	-23°21'21.800"	-46°16'28.900"	Sul do Equador	SP	SANTA ISABEL	Argila	10	12.000,00	Etapa única				Não
+Dutra	Dutra Extração de Areia Ltda.	48.098.701/0001-31	-23°25'50.600"	-46°12'39.200"	Sul do Equador	SP	MOGI DAS CRUZES	Argila Arenosa	0	130.000,00	Indefinido				Não
+engebrita	Pedreira Engebrita Ltda	61.728.804/0001-04	-23°52'55.700"	-46°18'51.600"	Sul do Equador	SP	SANTOS	Granito	3,5	30.000,00	Indefinido				Não
+Fazenda Santa Fé	Tech Rock Mineração Ltda.	62.579.818/0001-68	-23°30'32.300"	-47°23'27.200"	Sul do Equador	SP	SOROCABA	Argila	3	2.700,00	Indefinido				Não
+Fiori	Empresa de Mineração Fiori do Taboão Ltda.	00.265.541/0001-41	-23°24'16.000"	-46°11'54.500"	Sul do Equador	SP	MOGI DAS CRUZES	Argila Arenosa	0	325.000,00	Indefinido				Não
+Guará 2	Extração de Areia e Pedregulho Cachoeira Ltda.	45.600.327/0001-32	-23°23'32.300"	-46°08'10.900"	Sul do Equador	SP	GUARAREMA	Argila	5	78.300,00	Etapa única				Não
+JBS2	EMPRESA DE MINERAÇÃO E ARTEFATOS DE CIMENTO JBS LTDA EPP	47.354.774/0001-84	-23°23'46.800"	-46°11'51.500"	Sul do Equador	SP	MOGI DAS CRUZES	Argila Arenosa	11	270.000,00	Indefinido				Não
+JBS3	EMPRESA DE MINERAÇÃO E ARTEFATOS DE CIMENTO JBS LTDA EPP	47.354.774/0001-84	-23°23'32.000"	-46°12'02.500"	Sul do Equador	SP	MOGI DAS CRUZES	Argila Arenosa	0	310.000,00	Indefinido				Não
+MD 05/2016	Mineração Descalvado Ltda	54.114.475/0001-38	-21°57'24.480"	-47°37'18.695"	Sul do Equador	SP	DESCALVADO	Areia Industrial	12,75	245.447,47	Etapa única				Não
+OURO BRANCO LESTE	MINERAÇÃO OURO BRANCO SALTO DE PIRAPORA LTDA ME	72.911.985/0001-18	-23°39'42.400"	-47°39'53.200"	Sul do Equador	SP	SALTO DE PIRAPORA	Argila	5	399.000,00	Etapa única				Não
+PIRAPORÃO 138 II	Uilson Romanha & Cia Ltda	00.934.199/0001-25	-23°37'42.100"	-47°37'19.200"	Sul do Equador	SP	SALTO DE PIRAPORA	Argila	4	28.000,00	Etapa única				Não
+PIRAPORÃO 138 III	Uilson Romanha & Cia Ltda	00.934.199/0001-25	-23°37'53.600"	-47°37'18.500"	Sul do Equador	SP	SALTO DE PIRAPORA	Argila	8	115.200,00	Etapa única				Não
+PORTO-4A	Itaquareia Ind. Extr. Minérios Ltda	55.023.386/0001-49	-23°33'46.100"	-46°16'04.500"	Sul do Equador	SP	MOGI DAS CRUZES	Argila	8	933.900,00	Etapa única				Não
+PORTO-4B	Itaquareia Ind. Extr. Minérios Ltda	55.023.386/0001-49	-23°33'56.300"	-46°16'24.100"	Sul do Equador	SP	MOGI DAS CRUZES	Argila	7	345.000,00	Etapa única				Não
+PORTO-6B	Itaquareia Ind. Extr. Minérios Ltda	55.023.386/0001-49	-23°23'08.800"	-46°11'39.200"	Sul do Equador	SP	MOGI DAS CRUZES	Argila	12	290.000,00	Etapa única				Não
+PORTO-8	Itaquareia Ind. Extr. Minérios Ltda	55.023.386/0001-49	-23°33'21.000"	-46°16'59.500"	Sul do Equador	SP	SUZANO	Argila	14	1.472.940,00	Etapa única				Não
+Quevedo 1	EXTRAÇAO E COMERCIO DE AREIA QUEVEDO & SILVA LTDA	02.745.436/0001-35	-23°21'17.300"	-47°43'48.900"	Sul do Equador	SP	TATUÍ	Argila Arenosa	8	96.500,00	Indefinido				Não
+Quevedo 2	EXTRAÇAO E COMERCIO DE AREIA QUEVEDO & SILVA LTDA	02.745.436/0001-35	-23°21'21.300"	-47°43'42.400"	Sul do Equador	SP	TATUÍ	Argila Arenosa	7	194.676,65	Indefinido				Não
+Sedimentação de finos	EXTRAÇÃO E COMÉRCIO DE AREIA BOFETE LTDA	69.018.919/0001-09	-23°07'13.700"	-48°13'41.000"	Sul do Equador	SP	BOFETE	Areia	10	0	Etapa única				Não
+Sítio Horii	Empresa de Mineração Horii Ltda.	52.573.227/0001-20	-23°37'15.900"	-46°14'51.300"	Sul do Equador	SP	MOGI DAS CRUZES	Caulim	13,4	117.462,80	Indefinido				Não
+TABOÃO 01	EXTRAÇÃO DE AREIA TABOAO LTDA	59.724.484/0001-64	-23°23'49.600"	-46°12'18.200"	Sul do Equador	SP	MOGI DAS CRUZES	Argila Arenosa	12,5	350.000,00	Indefinido				Não
+TABOÃO 02	EXTRAÇÃO DE AREIA TABOAO LTDA	59.724.484/0001-64	-23°23'42.700"	-46°12'20.400"	Sul do Equador	SP	MOGI DAS CRUZES	Argila Arenosa	12	556.508,40	Indefinido				Não
+TABOÃO 03	EXTRAÇÃO DE AREIA TABOAO LTDA	59.724.484/0001-64	-23°23'38.400"	-46°12'35.100"	Sul do Equador	SP	MOGI DAS CRUZES	Argila Arenosa	2	9.624,00	Indefinido				Não
+TANQUE DE DECANTAÇÃO	Mineração Santa Luzia de Aguaí Ltda	03.716.256/0001-98	-21°59'46.400"	-47°10'06.900"	Sul do Equador	SP	AGUAÍ	Argila	3	35.000,00	Etapa única				Não
+TANQUE DE DECANTAÇÃO	Tbk Mineração Limitada	07.707.446/0001-08	-22°56'18.300"	-47°14'24.900"	Sul do Equador	SP	MONTE MOR	Argila Arenosa	12	14.460,00	Indefinido				Não
+TANQUE DE DECANTAÇÃO 2	Mineração Santa Luzia de Aguaí Ltda	03.716.256/0001-98	-21°59'46.200"	-47°10'04.100"	Sul do Equador	SP	AGUAÍ	Argila	3	40.000,00	Etapa única				Não
+TANQUE DE LAMA	Concresand Mineração Ltda	03.833.915/0001-76	-23°11'19.000"	-48°20'59.000"	Sul do Equador	SP	BOFETE	Argila Arenosa	7	30.000,00	Alteamento por linha de centro				Não
+TD2	Disk Base Extração de Areia e Comercio de Materiais Para Construção Ltda Me	62.136.189/0001-00	-23°34'46.419"	-47°49'45.677"	Sul do Equador	SP	ALAMBARI	Areia	2	1.800,00	Etapa única				Não
+UNIDOS	Unidos Extração e Comércio de Areia e Pedra Ltda Epp	67.337.360/0001-54	-23°37'08.900"	-47°49'12.900"	Sul do Equador	SP	SARAPUÍ	Argila	8	86.240,00	Etapa única				Não
+BARRAGEM	Monte Sinai Mineração Ltda	00.060.095/0001-39	-10°47'21.000"	-48°04'46.000"	Sul do Equador	TO	MONTE DO CARMO	Argila Arenosa	5,7	39.000,00	Indefinido				Não
+BARRAGEM GEOMINAS	Geominas Minerações Ltda.	11.979.744/0001-16	-11°38'50.700"	-47°40'36.240"	Sul do Equador	TO	NATIVIDADE	Sedimento	5	9.750,00	Etapa única				Não
+BARRAGEM GEOMINAS-001	Geominas Minerações Ltda.	11.979.744/0001-16	-11°38'57.580"	-47°40'34.240"	Sul do Equador	TO	NATIVIDADE	Sedimento	8	86.000,00	Etapa única				Não
+BARRAGEM GEOMINAS-002	Geominas Minerações Ltda.	11.979.744/0001-16	-11°39'00.010"	-47°40'30.010"	Sul do Equador	TO	NATIVIDADE	Sedimento	8	70.800,00	Etapa única				Não
+SANTA LUZIA	Mineração Santa Luzia Limitada	19.791.590/0001-46	-11°35'20.200"	-47°52'59.420"	Sul do Equador	TO	NATIVIDADE	Argila	5	600.000,00	Etapa única				Não

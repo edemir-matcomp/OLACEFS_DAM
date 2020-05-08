@@ -1,0 +1,69 @@
+Extender os experimentos de detecção de barragens em Pequena Escala
+ABORDAGENS:
+
+Experimentos mais simples/diretos
+
+###############################################
+### ANTES DE FAZER A FILTRAGEM DE QUALIDADE ###
+###############################################
+
+
+0) UTILIZAR APENAS 2019
+1) USAR APENAS MINAS GERAIS
+2) Treinar modelo de classificação e Testar em MG inteira
+3) Plotar no mapa
+
+
+0) UTILIZAR APENAS 2019
+1) USAR TODAS AS REGIOES do BRASIL
+2) Treinar modelo de classificação e Testar em MG inteira
+3) Plotar no mapa
+
+
+################################################
+### DEPOIS DE FAZER A FILTRAGEM DE QUALIDADE ###
+################################################
+
+0) UTILIZAR APENAS 2019
+1) USAR APENAS MINAS GERAIS
+2) Treinar modelo de classificação e Testar em MG inteira
+3) Plotar no mapa
+
+
+0) UTILIZAR APENAS 2019
+1) USAR TODAS AS REGIOES do BRASIL
+2) Treinar modelo de classificação e Testar em MG inteira
+3) Plotar no mapa
+
+
+#########################################################################
+### PEGAR A MELHOR DOS RESULTADOS ANTERIORES E AUGMENTAR COM TEMPORAL ###
+#########################################################################
+
+0) UTILIZAR 2016-2019
+1) SEPARAR EM REGIOES do ESTADO ( usar apenas barragens de MG )
+2) Treinar modelo de classificação e Testar em MG inteira
+3) Plotar no mapa
+
+0) UTILIZAR APENAS 2016-2019
+1) USAR TODAS AS REGIOES do BRASIL
+2) Treinar modelo de classificação e Testar em MG inteira
+3) Plotar no mapa
+
+
+
+
+
+
+
+
+
+
+
+Bonus - Explorar o domain shift temporal
+
+0) UTILIZAR APENAS 2019-2016
+1) SEPARAR EM REGIOES do ESTADO ( selecionas apenas MG )
+2) Extrair Features com algo pre treinado ( ou treinar e retirar a fully )
+3) Treinar e testar sem UDA
+4) Treinar e testar com UDA

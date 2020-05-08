@@ -1,0 +1,770 @@
+ID_BARRAGEM	MINERIO PRINCIPAL	ALTURA ATUAL (m)	VOLUME ATUAL (m3)	METODO CONSTRUTIVO	CATEGORIA DE RISCO	DANO POTENCIAL ASSOCIADO	CLASSE
+1	Minerio de Estanho Primario	22	27700000	Etapa unica	Baixa	Media	C
+2	Minerio de Estanho Primario	10,3	924000	Etapa unica	Baixa	Media	C
+3	Minerio de Estanho Primario	5	48873	Etapa unica	Baixa	Media	C
+4	Minerio de Estanho Primario	30	53380000	Alteamento a jusante	Baixa	Alta	B
+5	Minerio de Estanho Primario	22	1018054	Etapa unica	Baixa	Media	C
+6	Minerio de Estanho Primario	14,7	886241	Etapa unica	Baixa	Media	C
+7	Minerio de Estanho Primario	4	75522	Etapa unica	Baixa	Media	C
+8	Minerio de Estanho Primario	18	52800	Etapa unica	Baixa	Media	C
+9	Caulim	25	1755555	Alteamento a jusante	Baixa	Media	C
+10	Itabirito	28	25366731	Alteamento a montante ou desconhecido	Media	Media	C
+11	Minerio de Ouro Primario	27	11352000	Alteamento a jusante	Baixa	Alta	B
+12	Minerio de Ouro Primario	36	6280000	Etapa unica	Baixa	Alta	B
+13	Minerio de Ferro	15,5	440300	Etapa unica	Baixa	Baixa	E
+14	Rocha Aurifera	61	10000000	Alteamento por linha de centro	Baixa	Alta	B
+15	Areia	12	348370	Alteamento a montante ou desconhecido	Media	Media	C
+16	Rocha Aurifera	88	9146767,12	Alteamento a jusante	Baixa	Alta	B
+17	Areia	19	1438806	Alteamento a montante ou desconhecido	Media	Baixa	D
+18	Minerio de Ouro Primario	25	1403849	Alteamento a jusante	Baixa	Alta	B
+19	Minerio de Ouro Primario	22	207365	Alteamento a jusante	Baixa	Alta	B
+20	Minerio de Vanadio	11,99	149486,93	Alteamento por linha de centro	Baixa	Media	C
+21	Minerio de Vanadio	15,19	391923,43	Etapa unica	Baixa	Baixa	E
+22	Minerio de Vanadio	20,21	425141	Etapa unica	Baixa	Media	C
+23	Minerio de Cobre	6,65	45400000	Etapa unica	Baixa	Baixa	E
+24	Minerio de Niquel	27	23238613,66	Alteamento a jusante	Baixa	Alta	B
+25	Rocha Aurifera	23	13770423	Alteamento a jusante	Baixa	Alta	B
+26	Rocha Aurifera	11,17	1721104	Alteamento a jusante	Baixa	Alta	B
+27	Rocha Aurifera	17,89	248254,3	Alteamento a jusante	Baixa	Alta	B
+28	Rocha Aurifera	8,37	5000	Etapa unica	Baixa	Media	C
+29	Sedimento	7	1171600	Etapa unica	Baixa	Media	C
+30	Fosfato	28	1500000	Alteamento a jusante	Baixa	Media	C
+31	Fosfato	56	32000000	Alteamento por linha de centro	Baixa	Alta	B
+32	Minerio de Cobre	47	179363962	Alteamento por linha de centro	Baixa	Alta	B
+33	Minerio de Ouro Primario	37	6488715,79	Alteamento a jusante	Baixa	Alta	B
+34	Rocha Fosfatica	65	45000000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+35	Vermiculita	12	600000	Etapa unica	Baixa	Alta	B
+36	Minerio de Ouro Primario	87	4829094,43	Alteamento a montante ou desconhecido	Baixa	Alta	B
+37	Minerio de Niobio	31	100000	Alteamento a montante ou desconhecido	Media	Alta	B
+38	Minerio de Niobio	25	1800000	Alteamento a jusante	Baixa	Alta	B
+39	Minerio de Niobio	20	1100000	Alteamento a jusante	Baixa	Alta	B
+40	Minerio de Ferro	78	13718217	Alteamento a jusante	Baixa	Alta	B
+41	Minerio de Ferro	55	7100000	Alteamento a jusante	Baixa	Alta	B
+42	Minerio de Ferro	27,4	79431	Etapa unica	Baixa	Alta	B
+43	Minerio de Ferro	28	92635	Alteamento a montante ou desconhecido	Baixa	Alta	B
+44	Aluviao com Gemas	40	5648000	Alteamento a jusante	Media	Alta	B
+45	Minerio de Ferro	24	770600	Alteamento a jusante	Baixa	Baixa	E
+46	Minerio de Ferro	57	2385000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+47	Minerio de Ferro	40	333000	Etapa unica	Baixa	Alta	B
+48	Argila	19	297747,61	Etapa unica	Baixa	Alta	B
+49	Xisto	12	55000	Alteamento a jusante	Baixa	Media	C
+50	Minerio de Manganes	17	100000	Etapa unica	Baixa	Alta	B
+51	Minerio de Ferro	10	441115,63	Etapa unica	Baixa	Alta	B
+52	Xisto	13	798178	Alteamento a jusante	Baixa	Alta	B
+53	Minerio de Manganes	29	265000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+54	Minerio de Ferro	18,5	137575	Etapa unica	Baixa	Alta	B
+55	Minerio de Ferro	55	1896000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+56	Minerio de Ferro	98	4865160	Alteamento por linha de centro	Baixa	Alta	B
+57	Xisto	47	1090000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+58	Minerio com Gemas	26,4	223840	Etapa unica	Baixa	Baixa	E
+59	Minerio de Ferro	20	121175	Etapa unica	Baixa	Media	C
+60	Minerio de Ferro	24	127161	Etapa unica	Baixa	Media	C
+61	Minerio de Ferro	17	12000	Etapa unica	Baixa	Alta	B
+62	Minerio de Ferro	22	26000	Etapa unica	Baixa	Alta	B
+63	Minerio de Ferro	15,76	142500	Alteamento a jusante	Baixa	Media	C
+64	Minerio de Ferro	25	318550	Alteamento a jusante	Baixa	Alta	B
+65	Minerio de Ferro	33	407524	Etapa unica	Baixa	Alta	B
+66	Minerio de Ferro	20	1200000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+67	Calcario Dolomitico	15	240000	Etapa unica	Baixa	Baixa	E
+68	Minerio de Ferro	40	86937,1	Etapa unica	Baixa	Media	C
+69	Calcario	10	900000	Etapa unica	Baixa	Media	C
+70	Minerio de Ferro	32	3200000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+71	Minerio de Zinco	21	1800000	Etapa unica	Baixa	Alta	B
+72	Hematita	12	40000	Etapa unica	Baixa	Alta	B
+73	Calcario Dolomitico	32,5	1600000	Alteamento por linha de centro	Baixa	Alta	B
+74	Minerio de Ferro	12	64000	Etapa unica	Baixa	Media	C
+75	Calcario Dolomitico	12	500000	Etapa unica	Baixa	Alta	B
+76	Minerio de Ferro	64	5105350,84	Etapa unica	Baixa	Alta	B
+77	Fosfato	8	30000	Alteamento a jusante	Baixa	Alta	B
+78	Fosfato	13,5	631000	Etapa unica	Baixa	Media	C
+79	Fosfato	23,5	4600000	Etapa unica	Baixa	Alta	B
+80	Minerio de Zinco	44	11200000	Alteamento a jusante	Baixa	Alta	B
+81	Minerio de Ferro	35	3140693	Alteamento a montante ou desconhecido	Baixa	Alta	B
+82	Fosfato	25	3260000	Alteamento a jusante	Baixa	Media	C
+83	Minerio de Ferro	61,5	4100000	Alteamento a montante ou desconhecido	Baixa	Media	C
+84	Minerio de Ferro	47	190000	Alteamento a montante ou desconhecido	Baixa	Baixa	E
+85	Minerio de Ferro	55	571815	Alteamento a jusante	Baixa	Media	C
+86	Sedimento	22	22000	Etapa unica	Baixa	Alta	B
+87	Minerio de Ferro	68	657575	Alteamento a montante ou desconhecido	Baixa	Alta	B
+88	Fosfato	58	24000000	Alteamento por linha de centro	Baixa	Alta	B
+89	Minerio de Ferro	37	22460	Alteamento por linha de centro	Media	Alta	B
+90	Minerio de Ferro	27	180000	Alteamento a montante ou desconhecido	Baixa	Baixa	E
+91	Minerio de Ferro	25	750000	Alteamento a jusante	Baixa	Media	C
+92	Minerio de Ferro	40	2616466	Alteamento a montante ou desconhecido	Baixa	Alta	B
+93	Minerio de Ferro	80	2200000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+94	Minerio de Ferro	33	6439465	Alteamento a montante ou desconhecido	Baixa	Alta	B
+95	Minerio de Ferro	65	13001821	Alteamento a montante ou desconhecido	Baixa	Alta	B
+96	Minerio de Ferro	38	500000	Alteamento a montante ou desconhecido	Baixa	Baixa	E
+97	Minerio de Ferro	41	5393580	Etapa unica	Baixa	Alta	B
+98	Fosfato	74,2	48000000	Alteamento por linha de centro	Baixa	Alta	B
+99	Fosfato	14	650000	Etapa unica	Baixa	Media	C
+100	Fosfato	21	2000000	Alteamento a jusante	Baixa	Baixa	E
+101	Fosfato	33	2560000	Alteamento a jusante	Baixa	Alta	B
+102	Fosfato	91	170000000	Alteamento por linha de centro	Baixa	Alta	B
+103	Argila	23	1450000	Etapa unica	Baixa	Alta	B
+104	Fosfato	57	80000000	Alteamento por linha de centro	Baixa	Alta	B
+105	Fosfato	35	8300000	Etapa unica	Baixa	Alta	B
+106	Fosfato	10	417600	Etapa unica	Baixa	Media	C
+107	Minerio de Ferro	84	21713715	Alteamento a jusante	Baixa	Alta	B
+108	Minerio de Ferro	58	7560000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+109	Minerio de Ferro	25	471679,71	Alteamento a montante ou desconhecido	Baixa	Media	C
+110	Minerio de Ferro	13,5	109380,15	Alteamento a montante ou desconhecido	Baixa	Alta	B
+111	Minerio de Niobio	25	22000	Etapa unica	Baixa	Baixa	E
+112	Minerio de Ferro	17	450281,8	Alteamento a montante ou desconhecido	Baixa	Media	C
+113	Minerio de Ferro	9	16636	Alteamento a jusante	Baixa	Media	C
+114	Sedimento	17	120942	Etapa unica	Baixa	Alta	B
+115	Itabirito	163	129590000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+116	Bauxita Grau Nao Metalurgico	29,5	237000	Etapa unica	Baixa	Baixa	E
+117	Minerio de Ferro	27,5	72597,75	Etapa unica	Baixa	Baixa	E
+118	Minerio de Ferro	41,5	60000000	Alteamento a jusante	Baixa	Alta	B
+119	Minerio de Ferro	89	5250000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+120	Minerio de Ferro	25	396000	Alteamento a montante ou desconhecido	Media	Media	C
+121	Rocha Fosfatica	44	22000000	Etapa unica	Baixa	Alta	B
+122	Minerio de Ferro	30	812901	Alteamento a montante ou desconhecido	Baixa	Alta	B
+123	Fosfato	13,96	90000	Alteamento por linha de centro	Baixa	Alta	B
+124	Cascalho	15	41000	Etapa unica	Baixa	Alta	B
+125	Cascalho	6,5	104000	Etapa unica	Baixa	Alta	B
+126	Minerio de Ouro Primario	94	148349348	Alteamento por linha de centro	Baixa	Alta	B
+127	Fosfato	25	35200	Alteamento por linha de centro	Baixa	Alta	B
+128	Minerio de Ouro Primario	40	14160,67	Etapa unica	Alta	Alta	A
+129	Minerio de Ferro	48	3100000	Etapa unica	Media	Media	C
+130	Minerio de Ouro Primario	32	549927	Etapa unica	Alta	Alta	A
+131	Minerio de Ferro	80	12535000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+132	Minerio de Ferro	1	87775	Etapa unica	Media	Alta	B
+133	Minerio de Ouro Primario	33	6379265,53	Alteamento a jusante	Baixa	Alta	B
+134	Minerio de Ouro Primario	34	1400000	Alteamento a jusante	Baixa	Alta	B
+135	Minerio de Niquel	46,8	3250000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+136	Minerio de Ouro Primario	61	551621	Alteamento a montante ou desconhecido	Baixa	Media	C
+137	Minerio de Ferro	46	7545160	Alteamento a jusante	Baixa	Alta	B
+138	Minerio de Ouro Primario	104	399058945	Alteamento por linha de centro	Baixa	Alta	B
+139	Minerio de Ferro	4	100000	Etapa unica	Baixa	Media	C
+140	Minerio de Ferro	56	955000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+141	Minerio de Ferro	6	190000	Etapa unica	Baixa	Alta	B
+142	Minerio de Ferro	45	2850833,82	Alteamento a jusante	Baixa	Alta	B
+143	Minerio de Ouro Primario	57	3408804	Alteamento a jusante	Baixa	Alta	B
+144	Xisto	25,5	3000000	Alteamento a jusante	Baixa	Alta	B
+145	Minerio de Ferro	15,4	220841	Alteamento a jusante	Baixa	Alta	B
+146	Minerio de Ferro	21,3	157082	Alteamento a jusante	Baixa	Alta	B
+147	Minerio de Ferro	99,3	22978889	Alteamento por linha de centro	Baixa	Alta	B
+148	Minerio de Ferro	47	2230000	Alteamento a jusante	Baixa	Alta	B
+149	Minerio de Ferro	27	470000	Etapa unica	Baixa	Alta	B
+150	Minerio de Ferro	36	2136495	Etapa unica	Baixa	Alta	B
+151	Fosfato	21	1890000	Alteamento a jusante	Baixa	Baixa	E
+152	Fosfato	48	2817000	Alteamento por linha de centro	Baixa	Baixa	E
+153	Minerio de Ferro	32,5	8795438	Alteamento a jusante	Baixa	Alta	B
+154	Minerio de Ferro	22,35	870558	Alteamento a jusante	Baixa	Alta	B
+155	Minerio de Ferro	23,05	680000	Etapa unica	Baixa	Alta	B
+156	Minerio de Ferro	21	9126	Etapa unica	Baixa	Alta	B
+157	Minerio de Ferro	13,45	20000	Etapa unica	Baixa	Media	C
+158	Minerio de Ouro Primario	41	4240553	Alteamento a jusante	Baixa	Alta	B
+159	Minerio de Ferro	60	35874318	Etapa unica	Baixa	Alta	B
+160	Filito	13	260000	Alteamento a jusante	Baixa	Alta	B
+161	Minerio de Ouro Primario	82	7907500	Alteamento por linha de centro	Baixa	Alta	B
+162	Minerio de Ouro Primario	90	7521683,5	Alteamento a jusante	Baixa	Alta	B
+163	Minerio de Ferro	32,7	989786	Etapa unica	Baixa	Alta	B
+164	Minerio de Ferro	22,5	150000	Etapa unica	Baixa	Media	C
+165	Minerio de Ferro	39	6571347,7	Etapa unica	Baixa	Alta	B
+166	Minerio de Ferro	15	100	Etapa unica	Baixa	Media	C
+167	Minerio de Ferro	20	400	Etapa unica	Baixa	Media	C
+168	Sedimento	15	12600	Etapa unica	Baixa	Media	C
+169	Minerio de Ferro	23,5	10010305	Alteamento a jusante	Media	Media	C
+170	Minerio de Ferro	25	6053	Alteamento a jusante	Baixa	Baixa	E
+171	Cascalho	16	18300	Etapa unica	Baixa	Baixa	E
+172	Minerio de Ferro	9	19765,55	Etapa unica	Media	Media	C
+173	Minerio de Ferro	17	24103,39	Etapa unica	Media	Media	C
+174	Minerio de Ferro	6	6	Etapa unica	Media	Media	C
+175	Minerio de Ferro	4	11	Etapa unica	Media	Media	C
+176	Argila Arenosa	24	13241	Etapa unica	Baixa	Media	C
+177	Areia e Cascalho	23	1540000	Alteamento a jusante	Baixa	Alta	B
+178	Cascalho	28	18556	Etapa unica	Baixa	Baixa	E
+179	Minerio de Ferro	12	318425	Etapa unica	Baixa	Media	C
+180	Minerio de Ferro	12	634140	Etapa unica	Baixa	Media	C
+181	Sedimento	15,5	473452	Etapa unica	Baixa	Alta	B
+182	Sedimento	14,6	81360,9	Etapa unica	Baixa	Media	C
+183	Cascalho	15,5	116696	Etapa unica	Baixa	Baixa	E
+184	Cascalho	10	8821	Etapa unica	Baixa	Media	C
+185	Cascalho	38	282079	Etapa unica	Baixa	Alta	B
+186	Areia e Cascalho	12	45562,87	Etapa unica	Baixa	Alta	B
+187	Dolomito	25	25200	Etapa unica	Baixa	Media	C
+188	Argila Arenosa	16,7	85000	Etapa unica	Baixa	Baixa	E
+189	Sedimento	12	2950000	Alteamento a jusante	Baixa	Alta	B
+190	Sedimento	12,5	1006318	Etapa unica	Baixa	Alta	B
+191	Minerio de Ferro	77	37683207,4	Alteamento por linha de centro	Baixa	Alta	B
+192	Minerio de Ferro	50	204000	Etapa unica	Baixa	Baixa	E
+193	Minerio de Ferro	17	201441	Etapa unica	Baixa	Baixa	E
+194	Minerio de Ferro	19	1020000	Alteamento a montante ou desconhecido	Baixa	Baixa	E
+195	Minerio de Ferro	98,28	12042671	Alteamento a montante ou desconhecido	Baixa	Alta	B
+196	Minerio de Ferro	95,76	20862740	Alteamento a montante ou desconhecido	Baixa	Alta	B
+197	Minerio de Ferro	77	23143107,62	Alteamento a montante ou desconhecido	Baixa	Alta	B
+198	Minerio de Ferro	105	4306560	Etapa unica	Baixa	Alta	B
+199	Minerio de Ferro	7,5	45000	Etapa unica	Baixa	Media	C
+200	Minerio de Ferro	37,28	1261209,07	Alteamento a jusante	Baixa	Alta	B
+201	Minerio de Ferro	43	800000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+202	Minerio de Ferro	86	11741325,34	Alteamento a montante ou desconhecido	Baixa	Alta	B
+203	Minerio de Ferro	20	18241	Etapa unica	Baixa	Baixa	E
+204	Minerio de Ferro	11	16846	Etapa unica	Baixa	Media	C
+205	Minerio de Ferro	71	130751697,3	Alteamento a jusante	Baixa	Alta	B
+206	Bauxita Grau Metalurgico	38	13820000	Etapa unica	Baixa	Alta	B
+207	Minerio de Ferro	13,4	238000	Etapa unica	Baixa	Alta	B
+208	Minerio de Ferro	14	130000	Etapa unica	Baixa	Alta	B
+209	Minerio de Ferro	15	1400000	Etapa unica	Baixa	Baixa	E
+210	Minerio de Ferro	19,1	10000	Etapa unica	Baixa	Media	C
+211	Minerio de Ferro	12	1860000	Alteamento a jusante	Baixa	Media	C
+212	Minerio de Ferro	97,92	94590445	Alteamento a jusante	Baixa	Alta	B
+213	Xisto	37	156260	Alteamento a jusante	Baixa	Media	C
+214	Minerio de Ferro	12,7	15000	Etapa unica	Baixa	Alta	B
+215	Minerio de Ferro	16,05	241000	Etapa unica	Baixa	Alta	B
+216	Minerio de Ferro	16,85	8068	Etapa unica	Baixa	Baixa	E
+217	Minerio de Ferro	21	290202,16	Etapa unica	Baixa	Alta	B
+218	Bauxita Grau Metalurgico	52	31598100	Alteamento a jusante	Baixa	Alta	B
+219	Minerio de Ouro Primario	19	335562	Alteamento por linha de centro	Baixa	Alta	B
+220	Minerio de Ferro	23,5	400000	Etapa unica	Baixa	Alta	B
+221	Minerio de Ferro	11,3	1089830,5	Etapa unica	Baixa	Alta	B
+222	Minerio de Ferro	58,8	16550529	Etapa unica	Baixa	Alta	B
+223	Itabirito	48	6940000	Etapa unica	Baixa	Alta	B
+224	Minerio de Ferro	23	36685	Etapa unica	Baixa	Media	C
+225	Minerio de Ferro	34,5	22101	Etapa unica	Baixa	Baixa	E
+226	Minerio de Ferro	21	20000	Etapa unica	Baixa	Baixa	E
+227	Minerio de Ferro	9,5	30000	Etapa unica	Baixa	Alta	B
+228	Minerio de Ferro	7	15000	Etapa unica	Baixa	Media	C
+229	Minerio de Ferro	40	431595,59	Alteamento a jusante	Baixa	Media	C
+230	Minerio de Ferro	28	1537164	Alteamento a jusante	Baixa	Alta	B
+231	Minerio de Ferro	25	1830000	Alteamento a montante ou desconhecido	Baixa	Baixa	E
+232	Minerio de Ferro	69	226957900	Alteamento a jusante	Baixa	Alta	B
+233	Minerio de Ferro	31	800200	Alteamento a jusante	Baixa	Alta	B
+234	Minerio de Ferro	20	1994773	Etapa unica	Baixa	Alta	B
+235	Minerio de Ferro	16	107057	Etapa unica	Baixa	Alta	B
+236	Xisto	50	17500000	Etapa unica	Baixa	Alta	B
+237	Minerio de Ouro Primario	50,5	8690243	Alteamento a jusante	Baixa	Alta	B
+238	Minerio de Ferro	31	13800000	Etapa unica	Baixa	Alta	B
+239	Areia e Cascalho	36	660278,89	Alteamento a jusante	Baixa	Alta	B
+240	Minerio de Ferro	52,4	15700000	Alteamento a jusante	Baixa	Alta	B
+241	Minerio de Ferro	83	53740000	Alteamento a jusante	Baixa	Alta	B
+242	Minerio de Ferro	35	510361,84	Etapa unica	Baixa	Alta	B
+243	Minerio de Ferro	85	6016849	Alteamento a montante ou desconhecido	Baixa	Alta	B
+244	Minerio de Ouro Primario	15	1010000	Etapa unica	Baixa	Media	C
+245	Minerio de Ouro Primario	15	1188168,57	Etapa unica	Baixa	Media	C
+246	Minerio de Ouro Primario	11,8	530359,06	Etapa unica	Baixa	Media	C
+247	Minerio de Ouro Primario	46,3	1749516,71	Alteamento a jusante	Baixa	Media	C
+248	Minerio de Ferro	25	950000	Etapa unica	Baixa	Alta	B
+249	Minerio de Ferro	64,9	34000000	Etapa unica	Baixa	Alta	B
+250	Minerio de Ferro	10	20500	Etapa unica	Baixa	Alta	B
+251	Minerio de Ouro Primario	18	684133,45	Etapa unica	Baixa	Alta	B
+252	Minerio de Ferro	35	9500000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+253	Minerio de Ferro	40	843809	Etapa unica	Baixa	Alta	B
+254	Minerio de Ferro	40	843809	Etapa unica	Baixa	Alta	B
+255	Minerio de Ferro	22,5	22200	Etapa unica	Baixa	Media	C
+256	Pegmatito	40	658400	Alteamento a montante ou desconhecido	Baixa	Alta	B
+257	Pegmatito	32	1258000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+258	Pegmatito	19	264601,17	Etapa unica	Baixa	Alta	B
+259	Minerio de Ferro	4,25	27525	Etapa unica	Baixa	Media	C
+260	Minerio de Ferro	4,2	84510,65	Etapa unica	Baixa	Media	C
+261	Minerio de Manganes	4,95	169312,5	Etapa unica	Baixa	Alta	B
+262	Minerio de Ferro	11	103000	Etapa unica	Baixa	Media	C
+263	Minerio de Ferro	23	600000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+264	Minerio de Ferro	34,5	2130284	Alteamento por linha de centro	Baixa	Alta	B
+265	Minerio de Ouro Primario	10	500668,83	Alteamento a jusante	Baixa	Media	C
+266	Rocha Aurifera	6	245385	Etapa unica	Baixa	Alta	B
+267	Minerio de Ouro Primario	8	1270287	Alteamento a montante ou desconhecido	Media	Alta	B
+268	Rocha Aurifera	25	625000	Alteamento a jusante	Media	Baixa	D
+269	Minerio de Ouro Primario	22,05	4640000	Alteamento a jusante	Media	Alta	B
+270	Argila	6	50000	Alteamento a jusante	Media	Media	C
+271	Minerio de Ouro Primario	15	1067704,2	Alteamento por linha de centro	Media	Baixa	D
+272	Minerio de Ouro Primario	10	95000	Alteamento por linha de centro	Baixa	Media	C
+273	Areia	7,5	1205301,52	Alteamento a jusante	Media	Media	C
+274	Rocha Aurifera	15	1183119,15	Alteamento a jusante	Baixa	Baixa	E
+275	Minerio de Ouro Primario	30	2100000	Alteamento a jusante	Media	Baixa	D
+276	Rocha Aurifera	51	4508500,37	Alteamento a jusante	Baixa	Alta	B
+277	Rocha Aurifera	16	1654500	Alteamento por linha de centro	Baixa	Baixa	E
+278	Rocha Aurifera	10	3534000	Alteamento por linha de centro	Baixa	Baixa	E
+279	Rocha Aurifera	12	3704000	Alteamento a jusante	Media	Baixa	D
+280	Minerio de Ouro Primario	45	1300000	Alteamento a jusante	Media	Media	C
+281	Areia	14	450000	Alteamento a jusante	Media	Media	C
+282	Minerio de Ouro Primario	20,3	650000	Alteamento a montante ou desconhecido	Media	Media	C
+283	Minerio de Ouro Primario	15	941039,88	Alteamento a jusante	Baixa	Media	C
+284	Minerio de Ouro Primario	16,5	64107,97	Etapa unica	Baixa	Media	C
+285	Minerio de Ouro Primario	8	15652000	Alteamento por linha de centro	Baixa	Alta	B
+286	Minerio de Ouro Primario	15,3	50676,2	Etapa unica	Baixa	Media	C
+287	Minerio de Ouro Primario	19	419440,8	Etapa unica	Baixa	Alta	B
+288	Areia	1,45	265000	Alteamento a jusante	Media	Media	C
+289	Areia	20	867000	Alteamento a jusante	Media	Media	C
+290	Minerio de Zinco	20	230000	Etapa unica	Media	Alta	B
+291	Minerio de Ouro Primario	13,12	440000	Etapa unica	Baixa	Alta	B
+292	Minerio de Ouro Primario	16,24	210000	Etapa unica	Baixa	Media	C
+293	Minerio de Ouro Primario	13,58	150000	Etapa unica	Baixa	Media	C
+294	Areia	25	490000	Alteamento a jusante	Media	Media	C
+295	Areia	19	200000	Alteamento a jusante	Baixa	Baixa	E
+296	Aluviao Aurifero	15	671803,89	Alteamento a jusante	Media	Media	C
+297	Minerio de Ouro Primario	5	150000	Alteamento a jusante	Media	Media	C
+298	Minerio de Ouro Primario	10,4	1267291,33	Alteamento a jusante	Media	Baixa	D
+299	Minerio de Ouro Primario	15	642200,99	Alteamento a jusante	Baixa	Baixa	E
+300	Minerio de Ouro Primario	15	582171,51	Alteamento a jusante	Baixa	Baixa	E
+301	Minerio de Manganes	7,5	718027	Etapa unica	Baixa	Media	C
+302	Minerio de Manganes	32	12995662	Alteamento a jusante	Baixa	Alta	B
+303	Bauxita Grau Metalurgico	31,8	21100000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+304	Bauxita Grau Metalurgico	37	3218629	Alteamento a jusante	Baixa	Alta	B
+305	Bauxita Grau Metalurgico	13	595008,65	Etapa unica	Baixa	Alta	B
+306	Caulim	9	858000	Etapa unica	Baixa	Alta	B
+307	Caulim	9	260000	Etapa unica	Baixa	Alta	B
+308	Minerio de Ouro Primario	14,5	80000	Etapa unica	Baixa	Media	C
+309	Caulim	9	850000	Etapa unica	Baixa	Alta	B
+310	Caulim	9	465584	Etapa unica	Baixa	Alta	B
+311	Caulim	13,5	510000	Etapa unica	Baixa	Alta	B
+312	Caulim	13,5	270000	Etapa unica	Baixa	Alta	B
+313	Caulim	13,5	767000	Etapa unica	Baixa	Alta	B
+314	Caulim	11	366433	Etapa unica	Baixa	Media	C
+315	Caulim	3	80000	Etapa unica	Baixa	Alta	B
+316	Caulim	13	270000	Etapa unica	Baixa	Media	C
+317	Caulim	4,5	45000	Etapa unica	Baixa	Media	C
+318	Caulim	8	175000	Etapa unica	Baixa	Media	C
+319	Minerio de Ouro Primario	8	130000	Alteamento a montante ou desconhecido	Media	Media	C
+320	Minerio de Ouro Primario	7	87000	Alteamento a montante ou desconhecido	Baixa	Media	C
+321	Caulim	11	30000	Etapa unica	Baixa	Media	C
+322	Minerio de Cobre	11	1058000	Etapa unica	Baixa	Media	C
+323	Areia	14,7	600000	Alteamento a jusante	Baixa	Media	C
+324	Minerio de Cobre	19	220238,65	Etapa unica	Baixa	Media	C
+325	Minerio de Cobre	13	891538	Etapa unica	Baixa	Media	C
+326	Minerio de Cobre	63	33200000	Alteamento a jusante	Baixa	Alta	B
+327	Minerio de Manganes	14,6	1724296,94	Alteamento a jusante	Baixa	Media	C
+328	Caulim	35	1182758	Alteamento a jusante	Baixa	Alta	B
+329	Minerio de Cobre	42,1	108444833,89	Alteamento por linha de centro	Baixa	Alta	B
+330	Caulim	10	1190000	Etapa unica	Baixa	Media	C
+331	Minerio de Cobre	11	969524	Etapa unica	Baixa	Media	C
+332	Minerio de Cobre	16,42	2800000	Etapa unica	Baixa	Media	C
+333	Minerio de Cobre	16,5	22937,88	Etapa unica	Baixa	Media	C
+334	Minerio de Ferro	25	1875779,93	Etapa unica	Baixa	Media	C
+335	Minerio de Ferro	24	5811299	Etapa unica	Baixa	Alta	B
+336	Minerio de Ferro	34	110469304,67	Alteamento a jusante	Baixa	Alta	B
+337	Minerio de Ferro	34,5	681816	Etapa unica	Baixa	Media	C
+338	Minerio de Manganes	21	1662946,63	Alteamento a jusante	Baixa	Media	C
+339	Bauxita Grau Nao Metalurgico	24	2879251,38	Etapa unica	Baixa	Media	C
+340	Bauxita Grau Nao Metalurgico	24	3037180,56	Alteamento a jusante	Baixa	Media	C
+341	Bauxita Grau Nao Metalurgico	14,8	6024760	Etapa unica	Baixa	Media	C
+342	Bauxita Grau Nao Metalurgico	11,5	4178849,93	Etapa unica	Baixa	Media	C
+343	Minerio de Ferro	51	4249278,83	Etapa unica	Baixa	Alta	B
+344	Minerio de Ferro	30	641566	Etapa unica	Baixa	Baixa	E
+345	Minerio de Ouro Primario	25	12000000	Alteamento a jusante	Media	Alta	B
+346	Bauxita Grau Metalurgico	13,5	11626208	Alteamento a jusante	Baixa	Alta	B
+347	Argila	15	1470000	Etapa unica	Baixa	Media	C
+348	Argila	16	7300000	Alteamento a montante ou desconhecido	Baixa	Media	C
+349	Argila	16	5400000	Alteamento a montante ou desconhecido	Baixa	Media	C
+350	Argila	15	3600000	Alteamento a montante ou desconhecido	Baixa	Media	C
+351	Argila	15	2298321	Alteamento a montante ou desconhecido	Baixa	Media	C
+352	Argila	15	2200000	Alteamento a montante ou desconhecido	Baixa	Media	C
+353	Argila	20	1700000	Alteamento a montante ou desconhecido	Baixa	Media	C
+354	Argila	20	8900000	Alteamento a montante ou desconhecido	Baixa	Media	C
+355	Argila	20	4900000	Alteamento a montante ou desconhecido	Baixa	Media	C
+356	Argila	19	7107205,4	Alteamento a montante ou desconhecido	Baixa	Media	C
+357	Argila	19	5455557,3	Alteamento a montante ou desconhecido	Baixa	Media	C
+358	Argila	19	6994486,6	Alteamento a montante ou desconhecido	Baixa	Media	C
+359	Argila	19	9274798,9	Alteamento a montante ou desconhecido	Baixa	Media	C
+360	Argila	12	712790	Alteamento a montante ou desconhecido	Baixa	Media	C
+361	Argila	19	4300000	Alteamento a montante ou desconhecido	Baixa	Media	C
+362	Argila	16	5843082,8	Alteamento a montante ou desconhecido	Baixa	Media	C
+363	Argila	16	8200000	Alteamento a montante ou desconhecido	Baixa	Media	C
+364	Argila	16	11900000	Alteamento a montante ou desconhecido	Baixa	Media	C
+365	Argila	10	8200000	Alteamento a montante ou desconhecido	Baixa	Media	C
+366	Argila	8	2480789,2	Alteamento a montante ou desconhecido	Baixa	Media	C
+367	Argila	15	8500000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+368	Argila	15	8956085	Alteamento a montante ou desconhecido	Baixa	Alta	B
+369	Argila	22	5390783	Alteamento por linha de centro	Baixa	Media	C
+370	Fluorita	22	226035	Alteamento a jusante	Media	Media	C
+371	Minerio de Ouro Primario	25	302000	Alteamento a montante ou desconhecido	Baixa	Media	C
+372	Fluorita	13,5	672408	Etapa unica	Media	Media	C
+373	Argila Arenosa	19	204000	Etapa unica	Baixa	Alta	B
+374	Aluviao Estanifero	5	105000	Etapa unica	Media	Alta	B
+375	Areia	5	60000	Etapa unica	Media	Alta	B
+376	Aluviao Estanifero	5	10699776	Etapa unica	Media	Media	C
+377	Aluviao Estanifero	8	3595017	Etapa unica	Media	Media	C
+378	Aluviao Estanifero	8	3020623	Etapa unica	Media	Alta	B
+379	Aluviao Estanifero	10	9170673	Etapa unica	Media	Media	C
+380	Aluviao Estanifero	14,3	288321,8	Etapa unica	Baixa	Alta	B
+381	Aluviao Estanifero	10	3755613	Etapa unica	Media	Media	C
+382	Aluviao Estanifero	18	435000	Etapa unica	Baixa	Media	C
+383	Aluviao Estanifero	18	435000	Etapa unica	Baixa	Media	C
+384	Aluviao Estanifero	18	87000	Etapa unica	Baixa	Media	C
+385	Aluviao Estanifero	15	194900	Etapa unica	Media	Media	C
+386	Aluviao Estanifero	20	145193,15	Etapa unica	Media	Media	C
+387	Carvao Mineral	10	534000	Alteamento a montante ou desconhecido	Media	Media	C
+388	Carvao Mineral	20	2371167	Alteamento a montante ou desconhecido	Media	Alta	B
+389	Arenito	15	53000000	Etapa unica	Media	Baixa	D
+390	Carvao Mineral	3	17250	Indefinido	Media	Media	C
+391	Carvao Mineral Camada Bonito	5,3	14679,9	Etapa unica	Baixa	Alta	B
+392	Carvao Mineral Camada Bonito	6,5	14368	Etapa unica	Baixa	Alta	B
+393	Carvao Mineral Camada Barro Branco	7,1	500000	Etapa unica	Media	Media	C
+394	Carvao Mineral	3,5	35742	Etapa unica	Baixa	Media	C
+395	Carvao Mineral Camada Bonito	27	70831	Etapa unica	Baixa	Alta	B
+396	Carvao Mineral Camada Bonito	20	150000	Etapa unica	Media	Alta	B
+397	Carvao Mineral	10	527420	Etapa unica	Media	Alta	B
+398	Carvao Mineral Camada Bonito	35	63469,61	Alteamento a montante ou desconhecido	Baixa	Alta	B
+399	Carvao Mineral Camada Barro Branco	13	64629,25	Etapa unica	Baixa	Alta	B
+400	Silvanita	4	17340,3	Etapa unica	Baixa	Media	C
+401	Silvanita	5,5	7439,01	Etapa unica	Baixa	Media	C
+402	Argila	15	1500000	Alteamento a jusante	Baixa	Baixa	E
+403	Argila	15	577840,39	Alteamento a jusante	Baixa	Baixa	E
+404	Calcario Dolomitico	20	8500	Etapa unica	Media	Baixa	D
+405	Rocha Fosfatica	33	5301026	Alteamento a montante ou desconhecido	Baixa	Alta	B
+406	Rocha Fosfatica	60	7220000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+407	Rocha Carbonatica	13,5	3200000	Alteamento por linha de centro	Baixa	Alta	B
+408	Argila	25	659323,59	Alteamento a jusante	Media	Alta	B
+409	Granito	27,36	375000	Etapa unica	Baixa	Alta	B
+410	Granito	9,64	154433,29	Etapa unica	Baixa	Alta	B
+411	Granito	45	3190000	Alteamento a jusante	Baixa	Alta	B
+412	Argila	23,58	1800000	Alteamento a jusante	Baixa	Media	C
+413	Rocha Carbonatica	60	6340000	Alteamento a montante ou desconhecido	Baixa	Alta	B
+414	Argila	14	74135	Etapa unica	Media	Media	C
+415	Argila	20	170000	Etapa unica	Media	Media	C
+416	Argila	18	735000	Etapa unica	Baixa	Baixa	E
+417	Minerio de Estanho Primario	20	260000	Alteamento a montante ou desconhecido	Media	Baixa	D
+418	Argila Arenosa	12	331920	Alteamento a montante ou desconhecido	Media	Media	C
+419	Argila Caulinitica	5	271000	Etapa unica	Baixa	Media	C
+420	Argila Caulinitica	5	112000	Alteamento a jusante	Media	Media	C
+421	Areia	14,04	157070,5	Alteamento a montante ou desconhecido	Baixa	Media	C
+422	Areia Industrial	25	921154,7	Alteamento por linha de centro	Baixa	Baixa	E
+423	Argila	3	399000	Etapa unica	Media	Alta	B
+424	Argila Arenosa	7	704000	Alteamento a jusante	Media	Media	C
+425	Fosfato	20,5	4136059,54	Alteamento a jusante	Baixa	Alta	B
+426	Minerio de Estanho Primario	5	209969	Etapa unica			
+427	Minerio de Estanho Primario	6	56519	Etapa unica			
+428	Minerio de Estanho Primario	8	1320,09	Etapa unica			
+429	Minerio de Estanho Primario	4,9	130979	Etapa unica			
+430	Minerio de Estanho Primario	6	3752	Etapa unica			
+431	Minerio de Estanho Primario	5	84941	Etapa unica			
+432	Minerio de Estanho Primario	4	75522	Etapa unica			
+433	Minerio de Cromo	5	650000	Indefinido			
+434	Minerio de Ouro Primario	10	80000	Indefinido			
+435	Minerio de Ferro	8	42000	Indefinido			
+436	Caulim	13	245418	Etapa unica			
+437	Caulim	10	52000	Etapa unica			
+438	Minerio de Ouro Primario	5	82000	Indefinido			
+439	Minerio de Ferro	9	700000	Indefinido			
+440	Magnesita	4,78	52912,3	Etapa unica			
+441	Minerio de Cobre	2	12200	Alteamento a jusante			
+442	Minerio de Cobre	2	12000	Alteamento a jusante			
+443	Minerio de Cobre	2	8500	Alteamento a jusante			
+444	Argila	7	60277	Alteamento a jusante			
+445	Fosfato	4	235467,89	Indefinido			
+446	Bentonita	14	7500	Alteamento por linha de centro			
+447	Cromita	2	875	Etapa unica			
+448	Cromita	2	1100	Etapa unica			
+449	Cromita	2	1125	Etapa unica			
+450	Cromita	14,6	29688	Alteamento a montante ou desconhecido			
+451	Cromita	8,5	201205	Alteamento por linha de centro			
+452	Minerio de Cobre	0	323173	Indefinido			
+453	Minerio de Cobre	1,5	440000	Etapa unica			
+454	Minerio de Niquel	5	246848	Etapa unica			
+455	Cromita	5	185520	Etapa unica			
+456	Cromita	11,2	0	Alteamento por linha de centro			
+457	Cromita	8,4	94325	Etapa unica			
+458	Minerio de Cobre	6	100566	Alteamento por linha de centro			
+459	Sedimento	1	164976	Alteamento a jusante			
+460	Minerio de Cobre	2	85786	Alteamento a jusante			
+461	Minerio de Cobre	14	111960	Alteamento a jusante			
+462	Sedimento	2	30460	Alteamento a jusante			
+463	Minerio de Cobre	6,8	10277	Alteamento a jusante			
+464	Minerio de Cobre	3,5	71698	Alteamento a jusante			
+465	Minerio de Cobre	9,5	102246	Alteamento a jusante			
+466	Minerio de Cobre	5	172053	Alteamento a jusante			
+467	Minerio de Cobre	4	155498	Alteamento a jusante			
+468	Minerio de Cobre	5	141410	Alteamento a jusante			
+469	Minerio de Cobre	2	7052	Alteamento a jusante			
+470	Minerio de Cobre	5	79459	Alteamento a jusante			
+471	Minerio de Cobre	5	80000	Alteamento a jusante			
+472	Minerio de Cobre	0	255131	Indefinido			
+473	Minerio de Cobre	0	0	Indefinido			
+474	Granulito Gnaisse	2	3000	Indefinido			
+475	Vermiculita	13,65	70000	Alteamento a jusante			
+476	Sedimento	14,8	0	Etapa unica			
+477	Argila	6	600	Etapa unica			
+478	Areia Quartzosa	5	3000	Indefinido			
+479	Argila	0	832598,77	Indefinido			
+480	Saibro	2	9000	Indefinido			
+481	Minerio de Ferro	12	0,01	Etapa unica			
+482	Minerio de Ferro	8,14	8400	Alteamento a jusante			
+483	Minerio de Ferro	10	15412,7	Alteamento a jusante			
+484	Minerio de Ferro	13	300	Etapa unica			
+485	Minerio de Ferro	11,8	92434	Alteamento por linha de centro			
+486	Minerio de Ferro	14,5	2935	Etapa unica			
+487	Minerio de Ferro	9	1000	Alteamento a montante ou desconhecido			
+488	Minerio de Ferro	7	500	Etapa unica			
+489	Minerio de Ferro	7	5000	Etapa unica			
+490	Minerio de Ferro	7	2200	Etapa unica			
+491	Minerio de Ferro	5	2200	Etapa unica			
+492	Minerio de Ferro	12	12000	Etapa unica			
+493	Minerio de Ferro	8	3500	Etapa unica			
+494	Dolomito	5	3480	Etapa unica			
+495	Dolomito	6	1000	Etapa unica			
+496	Agalmatolito	2	3660	Indefinido			
+497	Agalmatolito	2,25	5700	Indefinido			
+498	Agalmatolito	2	1570	Indefinido			
+499	Minerio de Ferro	3,6	612,23	Etapa unica			
+500	Argila Refrataria	2	7300	Etapa unica			
+501	Minerio de Niobio	14,3	108377,16	Alteamento a jusante			
+502	Sedimento	8	12000	Etapa unica			
+503	Sedimento	2	14000	Etapa unica			
+504	Minerio de Ferro	3	3420	Etapa unica			
+505	Minerio de Ferro	3	5480	Etapa unica			
+506	Minerio de Ferro	7	4078	Etapa unica			
+507	Minerio de Ferro	4	3600	Etapa unica			
+508	Minerio de Ferro	4	2640	Etapa unica			
+509	Minerio de Ferro	7	7063	Etapa unica			
+510	Minerio de Ferro	6	6435	Etapa unica			
+511	Minerio de Ferro	6	3833	Etapa unica			
+512	Argila	8	18113	Etapa unica			
+513	Areia	4	10200	Etapa unica			
+514	Sedimento	8	90000	Etapa unica			
+515	Minerio de Ferro	8	61000	Etapa unica			
+516	Minerio de Ferro	14	108879	Etapa unica			
+517	Argila Arenosa	10	20000	Etapa unica			
+518	Areia	7	14200	Etapa unica			
+519	Argila Arenosa	4,46	14000	Etapa unica			
+520	Minerio de Ferro	8	28000	Etapa unica			
+521	Minerio de Ferro	5	30000	Etapa unica			
+522	Sedimento	9	20000	Etapa unica			
+523	Cascalho	8	210000	Etapa unica			
+524	Sedimento	7	2500	Etapa unica			
+525	Cascalho	2,88	12000	Etapa unica			
+526	Argila	2	4600	Etapa unica			
+527	Argila	2	4300	Etapa unica			
+528	Argila	2	4600	Etapa unica			
+529	Argila Refrataria	2	7100	Etapa unica			
+530	Argila	2	4900	Etapa unica			
+531	Argila Refrataria	2	4900	Etapa unica			
+532	Argila Refrataria	2	3900	Etapa unica			
+533	Minerio de Ferro	8	15377,28	Etapa unica			
+534	Minerio de Ferro	8,2	511	Etapa unica			
+535	Minerio de Ferro	8,5	2165,46	Etapa unica			
+536	Minerio de Ferro	8,83	503	Etapa unica			
+537	Minerio de Ferro	9	12000	Alteamento a jusante			
+538	Minerio de Ferro	9	70613,28	Etapa unica			
+539	Minerio de Manganes	11	8000	Etapa unica			
+540	Minerio de Manganes	14	36000	Etapa unica			
+541	Minerio de Manganes	6	5000	Etapa unica			
+542	Sedimento	2	250	Etapa unica			
+543	Sedimento	8	183	Etapa unica			
+544	Minerio de Ferro	10	80000	Etapa unica			
+545	Minerio de Ferro	14	12347	Etapa unica			
+546	Minerio de Ferro	9	15000	Etapa unica			
+547	Argila Arenosa	13	30000	Etapa unica			
+548	Minerio de Ferro	6	2100	Etapa unica			
+549	Argila Arenosa	12	45000	Etapa unica			
+550	Minerio de Ferro	5	900	Etapa unica			
+551	Argila Arenosa	11,45	76000	Etapa unica			
+552	Minerio de Ferro	3	100	Etapa unica			
+553	Argila Arenosa	12	50000	Etapa unica			
+554	Minerio de Ferro	14	2500	Etapa unica			
+555	Minerio de Ferro	12	48252	Etapa unica			
+556	Sedimento	2	300	Etapa unica			
+557	Argila Arenosa	12,45	54000	Etapa unica			
+558	Argila Arenosa	9,93	54000	Etapa unica			
+559	Sedimento	3	100	Etapa unica			
+560	Argila	3	200	Etapa unica			
+561	Sedimento	1,5	25	Etapa unica			
+562	Sedimento	14,5	52000	Etapa unica			
+563	Sedimento	10	8000	Etapa unica			
+564	Sedimento	10	12000	Alteamento a jusante			
+565	Sedimento	7,5	14457,6	Etapa unica			
+566	Sedimento	7,5	16557	Etapa unica			
+567	Argila Arenosa	13	15524	Etapa unica			
+568	Sedimento	8	17000	Etapa unica			
+569	Sedimento	5	30	Etapa unica			
+570	Argila Arenosa	8,8	3800	Etapa unica			
+571	Argila Arenosa	10	8750	Etapa unica			
+572	Argila Arenosa	10,2	5000	Etapa unica			
+573	Argila Arenosa	12	10000	Etapa unica			
+574	Argila Arenosa	9,4	5600	Etapa unica			
+575	Sedimento	4	13134,76	Etapa unica			
+576	Minerio de Ferro	4	1600	Etapa unica			
+577	Serpentinito	14,87	2376	Etapa unica			
+578	Argila	0	0	Indefinido			
+579	Minerio de Ferro	8	11250	Etapa unica			
+580	Minerio de Ferro	9,9	10000	Etapa unica			
+581	Fosfato	9,5	22000	Alteamento a jusante			
+582	Minerio de Ferro	6	57000	Etapa unica			
+583	Argila Arenosa	12	12000	Etapa unica			
+584	Argila Arenosa	2	100	Etapa unica			
+585	Argila Arenosa	9,2	15100	Etapa unica			
+586	Argila Arenosa	10,6	7100	Etapa unica			
+587	Argila Arenosa	3,8	1350	Etapa unica			
+588	Minerio de Ferro	4,3	88750	Etapa unica			
+589	Argila Arenosa	10	10120	Etapa unica			
+590	Minerio de Ferro	5	1200	Etapa unica			
+591	Minerio de Ferro	8	3830,74	Alteamento a jusante			
+592	Minerio de Ferro	12,64	5000	Etapa unica			
+593	Areia	4	90	Indefinido			
+594	Minerio de Ferro	5	3524,96	Etapa unica			
+595	Minerio de Ferro	7,5	47900	Alteamento a jusante			
+596	Minerio de Ferro	7,15	7000	Etapa unica			
+597	Calcario Dolomitico	3	10650	Indefinido			
+598	Calcario Dolomitico	2	17950	Indefinido			
+599	Calcario Dolomitico	3	2850	Indefinido			
+600	Argila	6	96000	Etapa unica			
+601	Minerio de Ferro	8	7185,66	Etapa unica			
+602	Minerio de Ferro	7	12912,54	Etapa unica			
+603	Minerio de Ferro	11,4	10626,16	Alteamento a jusante			
+604	Minerio de Ferro	12	7000	Etapa unica			
+605	Xisto	2	2000	Indefinido			
+606	Minerio de Ferro	9	38558,57	Etapa unica			
+607	Argila Arenosa	8,46	0	Etapa unica			
+608	Minerio de Ferro	10,75	20000	Etapa unica			
+609	Areia	3	15000	Indefinido			
+610	Bauxita Grau Metalurgico	11,33	200000	Indefinido			
+611	Argila Arenosa	13	150000	Etapa unica			
+612	Minerio de Ferro	12	12000	Etapa unica			
+613	Minerio de Ferro	4	5233,2	Etapa unica			
+614	Minerio de Manganes	10,07	9479	Etapa unica			
+615	Minerio de Manganes	11,69	5662	Etapa unica			
+616	Minerio de Manganes	13,05	5862	Etapa unica			
+617	Minerio de Ferro	9,6	10275	Etapa unica			
+618	Minerio de Ferro	9,6	7557	Etapa unica			
+619	Minerio de Ferro	4,31	5397,71	Etapa unica			
+620	Minerio de Ferro	5	4385	Etapa unica			
+621	Minerio de Ferro	5	3766	Etapa unica			
+622	Minerio de Ferro	5	2319,8	Etapa unica			
+623	Minerio de Ferro	5	7259,8	Etapa unica			
+624	Minerio de Ferro	5,25	8032,89	Etapa unica			
+625	Minerio de Ferro	10	76000	Etapa unica			
+626	Areia	14	300000	Alteamento a jusante			
+627	Areia	3	350000	Alteamento por linha de centro			
+628	Minerio de Ouro Primario	5	146000	Indefinido			
+629	Rocha Aurifera	8	450000	Indefinido			
+630	Rocha Aurifera	6	124650	Indefinido			
+631	Minerio de Ouro Primario	5	7500	Indefinido			
+632	Minerio de Ouro Primario	2	100	Indefinido			
+633	Areia	7,5	54608	Indefinido			
+634	Rocha Aurifera	10	100000	Indefinido			
+635	Rocha Aurifera	11	1815000	Alteamento por linha de centro			
+636	Minerio de Ouro Primario	13,49	483417,27	Alteamento a jusante			
+637	Minerio de Ouro Primario	6	153602,7	Alteamento a jusante			
+638	Areia	14	660000	Alteamento a jusante			
+639	Areia	12	1248000	Alteamento a jusante			
+640	Areia	11,5	400000	Alteamento a jusante			
+641	Rocha Aurifera	5	192200	Indefinido			
+642	Rocha Aurifera	5	92000	Indefinido			
+643	Areia	8	484000	Alteamento a jusante			
+644	Areia	14	400000	Alteamento a jusante			
+645	Areia	10	150000	Alteamento a jusante			
+646	Areia	10	150000	Alteamento a jusante			
+647	Argila	14,75	450000	Alteamento a jusante			
+648	Areia	2	590000	Alteamento a jusante			
+649	Areia	14,5	483000	Alteamento a jusante			
+650	Aluviao Aurifero	1	2	Indefinido			
+651	Minerio de Ouro Primario	8	238605,87	Alteamento a jusante			
+652	Areia	6	810000	Alteamento a jusante			
+653	Argila	14,9	1300000	Alteamento a jusante			
+654	Rocha Diamantifera	4	424000	Indefinido			
+655	Areia	3	140000	Alteamento a jusante			
+656	Aluviao Aurifero	1	2	Indefinido			
+657	Minerio de Ferro	8,5	188680,72	Etapa unica			
+658	Minerio de Ferro	7	34000	Etapa unica			
+659	Minerio de Manganes	3,5	1965306	Etapa unica			
+660	Minerio de Ferro	14,61	165320	Etapa unica			
+661	Minerio de Ferro	7,3	30114	Etapa unica			
+662	Argila	11	422000	Alteamento a montante ou desconhecido			
+663	Argila	8	103000	Alteamento a montante ou desconhecido			
+664	Areia e Cascalho	3	5250	Indefinido			
+665	Areia e Cascalho	3	10500	Indefinido			
+666	Minerio de Ferro	2,9	10670	Etapa unica			
+667	Minerio de Ferro	2,4	2467	Etapa unica			
+668	Minerio de Ferro	2,4	4511	Etapa unica			
+669	Argila Arenosa	6	1	Etapa unica			
+670	Minerio de Niquel	5,9	87700	Etapa unica			
+671	Minerio de Niquel	10,85	405554,9	Etapa unica			
+672	Minerio de Niquel	10,5	78000	Etapa unica			
+673	Minerio de Niquel	13,6	295000	Etapa unica			
+674	Minerio de Niquel	6,2	28500	Etapa unica			
+675	Minerio de Niquel	4,8	21300	Etapa unica			
+676	Minerio de Ferro	5,03	6333	Indefinido			
+677	Minerio de Niquel	8,1	1862231	Etapa unica			
+678	Bauxita Grau Nao Metalurgico	12	750000	Etapa unica			
+679	Caulim	11	600000	Etapa unica			
+680	Caulim	9	412800	Etapa unica			
+681	Minerio de Ferro	2,5	21520	Etapa unica			
+682	Minerio de Ouro Secundario	5	400000	Etapa unica			
+683	Argila Arenosa	5	100000	Etapa unica			
+684	Argila Arenosa	6,5	1120	Etapa unica			
+685	Argila Arenosa	5	7000	Etapa unica			
+686	Argila Arenosa	5,5	50000	Etapa unica			
+687	Argila Arenosa	4	6000	Etapa unica			
+688	Argila Arenosa	7	220000	Etapa unica			
+689	Areia	3	0	Indefinido			
+690	Minerio de Ferro	12	496059,42	Etapa unica			
+691	Minerio de Niquel	8,5	494416	Etapa unica			
+692	Areia Quartzosa	3	450	Indefinido			
+693	Saibro	1	500	Indefinido			
+694	Quartzito	1,5	900	Indefinido			
+695	Areia	8	80000	Indefinido			
+696	Minerio de Ferro	4,5	333438	Etapa unica			
+697	Areia e Cascalho	3	31250	Indefinido			
+698	Areia e Cascalho	3,5	31250	Indefinido			
+699	Areia e Cascalho	4,5	7500	Indefinido			
+700	Areia e Cascalho	4,5	7500	Indefinido			
+701	Areia e Cascalho	4,5	7500	Indefinido			
+702	Argila	3	31250	Indefinido			
+703	Argila	3	31250	Indefinido			
+704	Minerio de Estanho Secundario	10	1300000	Etapa unica			
+705	Aluviao Estanifero	5	60000	Etapa unica			
+706	Argila Arenosa	2	1296	Indefinido			
+707	Argila Arenosa	2	17848	Indefinido			
+708	Argila Arenosa	3	124125	Indefinido			
+709	Argila Arenosa	2	16000	Indefinido			
+710	Areia e Cascalho	6	45500	Indefinido			
+711	Argila Arenosa	2	30800	Indefinido			
+712	Areia	4	600000	Indefinido			
+713	Areia	5	4000	Etapa unica			
+714	Areia	13	111000	Indefinido			
+715	Carvao Mineral Camada Barro Branco	3	9542,2	Etapa unica			
+716	Carvao Mineral Camada Barro Branco	2,2	3500	Indefinido			
+717	Sais	6	6362,07	Etapa unica			
+718	Areia	3	140059	Etapa unica			
+719	Argila	10	492348	Etapa unica			
+720	Argila	8	663184	Alteamento a jusante			
+721	Granito	4	56000	Etapa unica			
+722	Argila Arenosa	0	365000	Indefinido			
+723	Argila	13	588484	Etapa unica			
+724	Argila	0	140000	Indefinido			
+725	Areia	0	180000	Etapa unica			
+726	Argila	0	120000	Indefinido			
+727	Argila	0	92000	Indefinido			
+728	Argila	6	565500	Etapa unica			
+729	Argila	10,6	740000	Etapa unica			
+730	Areia	0	0	Etapa unica			
+731	Argila	0	300000	Indefinido			
+732	Areia	0	0	Etapa unica			
+733	Areia	0	385000	Indefinido			
+734	Argila	5	40000	Etapa unica			
+735	Argila	8	15000	Etapa unica			
+736	Argila	10	12000	Etapa unica			
+737	Argila Arenosa	0	130000	Indefinido			
+738	Granito	3,5	30000	Indefinido			
+739	Argila	3	2700	Indefinido			
+740	Argila Arenosa	0	325000	Indefinido			
+741	Argila	5	78300	Etapa unica			
+742	Argila Arenosa	11	270000	Indefinido			
+743	Argila Arenosa	0	310000	Indefinido			
+744	Areia Industrial	12,75	245447,47	Etapa unica			
+745	Argila	5	399000	Etapa unica			
+746	Argila	4	28000	Etapa unica			
+747	Argila	8	115200	Etapa unica			
+748	Argila	8	933900	Etapa unica			
+749	Argila	7	345000	Etapa unica			
+750	Argila	12	290000	Etapa unica			
+751	Argila	14	1472940	Etapa unica			
+752	Argila Arenosa	8	96500	Indefinido			
+753	Argila Arenosa	7	194676,65	Indefinido			
+754	Areia	10	0	Etapa unica			
+755	Caulim	13,4	117462,8	Indefinido			
+756	Argila Arenosa	12,5	350000	Indefinido			
+757	Argila Arenosa	12	556508,4	Indefinido			
+758	Argila Arenosa	2	9624	Indefinido			
+759	Argila	3	35000	Etapa unica			
+760	Argila Arenosa	12	14460	Indefinido			
+761	Argila	3	40000	Etapa unica			
+762	Argila Arenosa	7	30000	Alteamento por linha de centro			
+763	Areia	2	1800	Etapa unica			
+764	Argila	8	86240	Etapa unica			
+765	Argila Arenosa	5,7	39000	Indefinido			
+766	Sedimento	5	9750	Etapa unica			
+767	Sedimento	8	86000	Etapa unica			
+768	Sedimento	8	70800	Etapa unica			
+769	Argila	5	600000	Etapa unica			
