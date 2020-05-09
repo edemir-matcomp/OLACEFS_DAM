@@ -5,8 +5,8 @@ Este projeto de pesquisa objetiva desenvolver metodologias para prospectar instr
 Especificamente, o projeto se baseia em uma parceria da Organização Latino-Americana e do Caribe de Entidades Fiscalizadoras Superiores (OLACEFS) com o laboratório Pattern Recognition and Earth Observation – Patreo/DCC/UFMG.
 
 São propostos dois temas para serem explorados nesse projeto:
-● Monitoramento de barragens de rejeitos de minérios
-● Identificação de desmatamentos na região amazônica por meio de radar
+    Monitoramento de barragens de rejeitos de minérios
+    Identificação de desmatamentos na região amazônica por meio de radar
 
 
 ## Getting Started
