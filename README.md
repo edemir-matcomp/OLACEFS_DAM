@@ -77,11 +77,11 @@ Give an example
 
 ## Authors
 
-* **Alice Gomes** - *Initial work* - []()
-* **Edemir Ferreira** - *Initial work* - [edemir-matcomp](https://github.com/edemir-matcomp)
-* **Ester Fiorillo** - *Initial work* - []()
-* **Matheus Brito** - *Initial work* - [mbfaria](https://github.com/mbfaria)
-* **Pedro Fonseca** - *Initial work* - [PedroFW](https://github.com/PedroFW)
+* **Alice Gomes** - []()
+* **Edemir Ferreira** - [edemir-matcomp](https://github.com/edemir-matcomp)
+* **Ester Fiorillo** - []()
+* **Matheus Brito** - [mbfaria](https://github.com/mbfaria)
+* **Pedro Fonseca** - [PedroFW](https://github.com/PedroFW)
 
 
 
