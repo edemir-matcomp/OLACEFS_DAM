@@ -75,20 +75,15 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Alice Gomes** - *Initial work* - []()
+* **Edemir Ferreira** - *Initial work* - [edemir-matcomp](https://github.com/edemir-matcomp)
+* **Ester Fiorillo** - *Initial work* - []()
+* **Matheus Brito** - *Initial work* - [mbfaria](https://github.com/mbfaria)
+* **Pedro Fonseca** - *Initial work* - [PedroFW](https://github.com/PedroFW)
+
+
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
