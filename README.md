@@ -84,10 +84,6 @@ Give an example
 * **Pedro Fonseca** - [PedroFW](https://github.com/PedroFW)
 
 
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-
 ## Acknowledgments
 
 * Organização Latino-Americana e do Caribe de Entidades Fiscalizadoras Superiores (OLACEFS)
