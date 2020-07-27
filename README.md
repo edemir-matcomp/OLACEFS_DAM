@@ -63,9 +63,9 @@ docker run -it --gpus all --ipc=host --name=olacef_container -w /home -v /home:/
 
 Detailed instructions for each of the project deliveries are in their respective folders
               
-1. https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/1_Script_GEE
-2. https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/2_Classification
-3. https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/3_Script_GEE_Desmatamento
+1. 1_Script_GEE (https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/1_Script_GEE)
+2. 2_Classification (https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/2_Classification)
+3. 3_Script_GEE_Desmatamento (https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/3_Script_GEE_Desmatamento)
 
 ```
 https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/1_Script_GEE
