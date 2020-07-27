@@ -59,27 +59,34 @@ End with an example of getting some data out of the system or using it for a lit
 docker run -it --gpus all --ipc=host --name=olacef_container -w /home -v /home:/home edemirfaj/patreo_bot:gpu-py3 bash
 ```
 
-### Break down into end to end tests
+### Instructions
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
+Detailed instructions for each of the project deliveries are in their respective folders
+              
+1. https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/1_Script_GEE
+2. https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/2_Classification
+3. https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/3_Script_GEE_Desmatamento
 
 ```
-Give an example
+https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/1_Script_GEE
 ```
+
+### DELIVERY SCHEDULE
+
+| Nº  | Entregas  | Mar-Abr 2020 | Mai-Jul 2020 | Ago-Set 2020 | Out-Dez 2020 
+| :------------: |:---------------:| :-----:| :---------------:| :---------------:| :---------------: |
+| 1 | Scripts para extração de imagens de barragens de minério | X |  |  |  |
+| 2 | Scripts de treinamento, avaliação e uso dos modelos treinados para detecção de barragens de minério | X |  |  |  |
+| 3 | Scripts para extração de imagens e dados de desmatamento |  | X |  |  |
+| 4 | Scripts de treinamento, avaliação e uso dos modelos treinados para detecção de desmatamento |  |  | X |  |
+| 5 | Oficina à distância para transferência de conhecimento  (14 horas de carga) |  |  |  | X |
+| 6 | Relatório final |  |  |  | X |
 
 ## Authors
 
 * **Alice Gomes** - []()
 * **Edemir Ferreira** - [edemir-matcomp](https://github.com/edemir-matcomp)
-* **Ester Fiorillo** - []()
+* **Ester Fiorillo** - [esterfiorillo](https://github.com/esterfiorillo)
 * **Matheus Brito** - [mbfaria](https://github.com/mbfaria)
 * **Pedro Fonseca** - [PedroFW](https://github.com/PedroFW)
 
