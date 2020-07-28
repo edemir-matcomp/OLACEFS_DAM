@@ -84,7 +84,7 @@ https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/1_Script_GEE
 
 ## Authors
 
-* **Alice Gomes** - []()
+* **Alice Gomes** - [gmcalice](https://github.com/gmcalice)
 * **Edemir Ferreira** - [edemir-matcomp](https://github.com/edemir-matcomp)
 * **Ester Fiorillo** - [esterfiorillo](https://github.com/esterfiorillo)
 * **Matheus Brito** - [mbfaria](https://github.com/mbfaria)
