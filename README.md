@@ -14,21 +14,11 @@ São propostos dois temas para serem explorados nesse projeto:
 What things you need to install the software and how to install them
 
 ```
-Docker Engine
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
 Docker Engine: https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository
 Nvidia-Docker (for gpu support)
 ```
 
-And repeat
+### Installing
 
 ```
 # Docker installing steps
@@ -51,12 +41,14 @@ sudo apt-get install -y nvidia-container-toolkit
 sudo reboot
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Running the docker container
 
 ```
+# With GPU support
 docker run -it --gpus all --ipc=host --name=olacef_container -w /home -v /home:/home edemirfaj/patreo_bot:gpu-py3 bash
+
+# Without GPU support
+docker run -it --ipc=host --name=olacef_container -w /home -v /home:/home edemirfaj/patreo_bot:gpu-py3 bash
 ```
 
 ### Instructions
@@ -67,9 +59,6 @@ Detailed instructions for each of the project deliveries are in their respective
 2. **2_Classification** - [2_Classification](https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/2_Classification)
 3. **3_Script_GEE_Desmatamento** - [3_Script_GEE_Desmatamento](https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/3_Script_GEE_Desmatamento)
 
-```
-https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/1_Script_GEE
-```
 
 ### DELIVERY SCHEDULE
 
