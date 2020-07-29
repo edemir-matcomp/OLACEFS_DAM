@@ -4,7 +4,6 @@ import unidecode
 import time
 
 #Open CSV with mapbiomas alerts
-#data = pd.read_csv("../6_Get_mapbiomas_data/file_mapbiomas.csv")
 data = pd.read_csv("file_mapbiomas.csv")
 data = data.values
 
@@ -70,7 +69,7 @@ for al in range(0, data.shape[0]):
         task_config = { 
         'scale' : 10,
         'region': region,
-        'folder':'GEE_mapbiomas5',
+        'folder':'GEE_mapbiomas',
         'fileFormat':'GeoTIFF',
         'skipEmptyTiles' : True, 
         'maxPixels' : 1e13
