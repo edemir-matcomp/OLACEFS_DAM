@@ -12,7 +12,11 @@ All necessary prerequisites are already installed in docker container
 ### Usage
 
 1. Get access for Google Earth Engine (GEE) at [signup](https://earthengine.google.com/signup/)
-2. Inside the container previously created, enter in the folder **OLACEFS_DAM/1_Script_GEE/gee** and run:
+2. Inside the container previously created, run this command to authenticate your account:
+```sh
+earthengine authenticate
+```
+3. Enter in the folder **OLACEFS_DAM/1_Script_GEE/gee** and run:
 ```sh
 python googleEarthEngine.py
 ```
