@@ -24,14 +24,18 @@ All necessary prerequisites are already installed in docker container
 Tailing Dam Classification
 ![](https://github.com/edemir-matcomp/OLACEFS_DAM/blob/master/2_Classification/benchmark_dam_classification.png)
 
+
 Construction Method Classification
 ![](https://github.com/edemir-matcomp/OLACEFS_DAM/blob/master/2_Classification/benchmark_construction_method_classification.png)
+
 
 Associated Potencial Damage Classification
 ![](https://github.com/edemir-matcomp/OLACEFS_DAM/blob/master/2_Classification/benchmark_damage_classification.png)
 
+
 Main Ore Classification
 ![](https://github.com/edemir-matcomp/OLACEFS_DAM/blob/master/2_Classification/benchmark_ore_classification.png)
+
 
 Risk Category Classification
 ![](https://github.com/edemir-matcomp/OLACEFS_DAM/blob/master/2_Classification/benchmark_risk_classification.png)
