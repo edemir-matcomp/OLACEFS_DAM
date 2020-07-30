@@ -21,10 +21,14 @@ earthengine authenticate
 python googleEarthEngine.py
 ```
 
-<!-- ADDITIONAL CONFIGS -->
-## ADDITIONAL CONFIGS
 
+<!-- Examples of Downloaded Images -->
+## Examples of Downloaded Images
 
+![](https://github.com/edemir-matcomp/OLACEFS_DAM/blob/master/1_Script_GEE/example_gee_sentinel_landsat.png)
+
+<!-- References -->
+## References
 
 For more examples, please refer to the Google Earth Engine [Documentation](https://developers.google.com/earth-engine)
 
