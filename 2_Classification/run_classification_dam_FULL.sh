@@ -1,7 +1,7 @@
-export CUDA_VISIBLE_DEVICES=1
+export CUDA_VISIBLE_DEVICES=0
 
-dataset_path='/home/users/edemir/barragem_master/data_processed/sentinel/2019'
-output_path='/home/users/edemir/JSTARS_DAM/2_Classification_DAM/results/'${dataset_path##*/}
+dataset_path='2_Classification_DAM/data/sentinel/2019'
+output_path='2_Classification_DAM/results/'${dataset_path##*/}
 
 #channels='rgb'
 #dataset_path='/home/users/edemir/barragem_detection/data/DATASET_BARRAGEM_LASTONE2/new_sentinel/processed/2019'
