@@ -18,10 +18,9 @@ All necessary prerequisites are already installed in docker container
 ```
 
 
-<!-- Examples of Downloaded Images -->
-## Examples of Downloaded Images
+<!-- Benchmark Results -->
+## Benchmark Results
 
-Example of a tailing dam image extract from the years of 2016 to 2019 from sentinel and landsat satellites
 
 
 ![](https://github.com/edemir-matcomp/OLACEFS_DAM/blob/master/1_Script_GEE/example_gee_sentinel_landsat.png)
@@ -29,6 +28,6 @@ Example of a tailing dam image extract from the years of 2016 to 2019 from senti
 <!-- References -->
 ## References
 
-For more examples, please refer to the Google Earth Engine [Documentation](https://developers.google.com/earth-engine)
+For more details of experiments, please refer to the paper [BRAZILDAM: A BENCHMARK DATASET FOR TAILINGS DAM DETECTION](https://arxiv.org/pdf/2003.07948.pdf)
 
 
