@@ -21,6 +21,14 @@ python shp_file.py
 python earth_engine.py
 ```
 
+<!-- Examples of Downloaded Images -->
+## Examples of Downloaded Images
+
+Example of a deforestation alert SAR images extract from the mapbiomas webset, with a temporal resolution of 3 months.
+
+
+![](https://github.com/edemir-matcomp/OLACEFS_DAM/blob/master/3_Script_GEE_Desmatamento/mapbiomas_example.png)
+
 
 <!-- ADDITIONAL CONFIGS -->
 ## ADDITIONAL CONFIGS
