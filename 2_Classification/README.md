@@ -11,14 +11,10 @@ All necessary prerequisites are already installed in docker container
 
 ### Usage
 
-1. Get access for Google Earth Engine (GEE) at [signup](https://earthengine.google.com/signup/)
-2. Inside the container previously created, run this command to authenticate your account:
+1. Download dataset in [sentinel 2019](https://drive.google.com/file/d/1ODzJPYYup0Ga4g3BOsl1OsFdk4WFT7YW/view?usp=sharing) and put dataset in folder **code/data/**
+2. Enter in the folder **OLACEFS_DAM/2_Classification** and run:
 ```sh
-earthengine authenticate
-```
-3. Enter in the folder **OLACEFS_DAM/1_Script_GEE/gee** and run:
-```sh
-python googleEarthEngine.py
+./run_classification_dam_FULL.sh
 ```
 
 
