@@ -1,7 +1,7 @@
 import os 
 
 # File with the desired coordinates separated by tab
-input_file = "../barragem_2019_novas_coordenadas.tsv"
+input_file = "barragem_2019_novas_coordenadas.tsv"
 
 # Column in the file where the latitude is located
 column_latitude = 3
