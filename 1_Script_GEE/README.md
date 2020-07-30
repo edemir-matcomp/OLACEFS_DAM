@@ -26,6 +26,6 @@ python googleEarthEngine.py
 
 
 
-_For more examples, please refer to the Google Earth Engine [Documentation](https://developers.google.com/earth-engine)
+For more examples, please refer to the Google Earth Engine [Documentation](https://developers.google.com/earth-engine)
 
 
