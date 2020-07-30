@@ -25,6 +25,11 @@ python googleEarthEngine.py
 <!-- Examples of Downloaded Images -->
 ## Examples of Downloaded Images
 
+Example of a tailing dam image extract from the years of 2016 to 2019 from sentinel and landsat satellites
+
+Barragem B5	Mosaic Fertilizantes P&K S.A. Filial: Araxa	33.931.486/0019-60	-19°37'01.000"	-47°01'16.000"	Sul do Equador	MG	ARAXÁ	Fosfato	74,2	48000000	Alteamento por linha de centro	Baixa	Alta	B	Sim
+
+
 ![](https://github.com/edemir-matcomp/OLACEFS_DAM/blob/master/1_Script_GEE/example_gee_sentinel_landsat.png)
 
 <!-- References -->
