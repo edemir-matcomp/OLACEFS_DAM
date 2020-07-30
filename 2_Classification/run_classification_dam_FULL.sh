@@ -18,11 +18,11 @@ optimizer='adam'
 #mkdir logs_runs
 for batch_size in 16
 do
-    #for method in 'resnet' 'alexnet' 'vgg' 'squeezenet' 'inception' 'densenet'
-    for method in 'densenet'
+    for method in 'resnet' 'alexnet' 'vgg' 'squeezenet' 'inception' 'densenet'
+    #for method in 'densenet'
     do
-        #for learning_rate in 0.01 0.001 0.0001
-        for learning_rate in 0.0001
+        for learning_rate in 0.01 0.001 0.0001
+        #for learning_rate in 0.0001
         do
         
             # Create a directory for logging
