@@ -16,11 +16,11 @@ All necessary prerequisites are already installed in docker container
 ```sh
 earthengine authenticate
 ```
-3. Enter in the folder **OLACEFS_DAM/3_Script_GEE_Desmatamento/EarthEngine** and run:
+3. (Optional if want to regenerate table of alerts) First, download shapefile alerts from mapbiomas in https://plataforma.alerta.mapbiomas.org/downloads. Copy the shapefile files to **OLACEFS_DAM/3_Script_GEE_Desmatamento/EarthEngine** and run:
 ```sh
 python shp_file.py
 ```
-4. After that, in the same folder, run:
+5. After that, in the same folder, run:
 ```sh
 python earth_engine.py
 ```
