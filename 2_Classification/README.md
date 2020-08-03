@@ -29,7 +29,7 @@ All necessary prerequisites are already installed in docker container
 ![](https://github.com/edemir-matcomp/OLACEFS_DAM/blob/master/2_Classification/benchmark_construction_method_classification.png)
 
 
-- Associated Potencial Damage Classification
+- Associated Potential Damage Classification
 ![](https://github.com/edemir-matcomp/OLACEFS_DAM/blob/master/2_Classification/benchmark_damage_classification.png)
 
 
