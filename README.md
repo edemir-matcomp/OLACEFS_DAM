@@ -56,8 +56,8 @@ docker run -it --ipc=host --name=olacef_container -w /home -v /home:/home edemir
 Detailed instructions for each of the project deliveries are in their respective folders
               
 1. **1_Script_GEE** - [1_Script_GEE](https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/1_Script_GEE), [COLAB](https://colab.research.google.com/drive/1exOeSfbCkI0fIIj7hMdhyeY2A3qOiiSd)
-2. **2_Classification** - [2_Classification](https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/2_Classification) [COLAB](https://drive.google.com/file/d/1bdbsm5XSFl7y13JtAyu20-_wKTfDnqPG/view?usp=sharing)
-3. **3_Script_GEE_Desmatamento** - [3_Script_GEE_Desmatamento](https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/3_Script_GEE_Desmatamento) [COLAB](https://colab.research.google.com/drive/1gUg_rQLjoGIvsHHUu8LwdGkM0gf0uljo?usp=sharing)
+2. **2_Classification** - [2_Classification](https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/2_Classification), [COLAB](https://drive.google.com/file/d/1bdbsm5XSFl7y13JtAyu20-_wKTfDnqPG/view?usp=sharing)
+3. **3_Script_GEE_Desmatamento** - [3_Script_GEE_Desmatamento](https://github.com/edemir-matcomp/OLACEFS_DAM/tree/master/3_Script_GEE_Desmatamento), [COLAB](https://colab.research.google.com/drive/1gUg_rQLjoGIvsHHUu8LwdGkM0gf0uljo?usp=sharing)
 
 
 ### DELIVERY SCHEDULE
