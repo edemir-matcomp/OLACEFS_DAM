@@ -9,6 +9,8 @@ from skimage.io import imread, imsave
 
 import utils as U
 
+dataset_add = "/home/users/DATASETS/MapBiomas_SAR/"
+
 class DataGenerator(keras.utils.Sequence):
     'Generates data for Keras'
     def __init__(self, list_ids, batch_size=1, dim=(32,32), n_channels=2, mean=(0,0) ,std=(1,1), shuffle=True):
@@ -50,12 +52,12 @@ class DataGenerator(keras.utils.Sequence):
 
         for i, ID in enumerate(list_ids_temp):
 
-            img1 = skimage.img_as_float64(imread("/home/users/DATASETS/MapBiomas_SAR/GEE_mapbiomas/"+ ID + "_2019-01-01.tif"))  
-            img2 = skimage.img_as_float64(imread("/home/users/DATASETS/MapBiomas_SAR/GEE_mapbiomas/"+ ID + "_2019-04-01.tif"))
-            img3 = skimage.img_as_float64(imread("/home/users/DATASETS/MapBiomas_SAR/GEE_mapbiomas/"+ ID + "_2019-07-01.tif"))
-            img4 = skimage.img_as_float64(imread("/home/users/DATASETS/MapBiomas_SAR/GEE_mapbiomas/"+ ID + "_2019-10-01.tif"))
-            img5 = skimage.img_as_float64(imread("/home/users/DATASETS/MapBiomas_SAR/GEE_mapbiomas/"+ ID + "_2020-01-01.tif"))   
-            mask = skimage.img_as_float64(imread("/home/users/DATASETS/MapBiomas_SAR/GEE_mapbiomas_masks/"+ ID + ".tif"))
+            img1 = skimage.img_as_float64(imread(dataset_add + "GEE_mapbiomas/"+ ID + "_2019-01-01.tif"))  
+            img2 = skimage.img_as_float64(imread(dataset_add + "GEE_mapbiomas/"+ ID + "_2019-04-01.tif"))
+            img3 = skimage.img_as_float64(imread(dataset_add + "GEE_mapbiomas/"+ ID + "_2019-07-01.tif"))
+            img4 = skimage.img_as_float64(imread(dataset_add + "GEE_mapbiomas/"+ ID + "_2019-10-01.tif"))
+            img5 = skimage.img_as_float64(imread(dataset_add + "GEE_mapbiomas/"+ ID + "_2020-01-01.tif"))   
+            mask = skimage.img_as_float64(imread(dataset_add + "GEE_mapbiomas_masks/"+ ID + ".tif"))
             
             img1 = U.normalization(img1, mean=dataset_mean, std=dataset_std)
             img2 = U.normalization(img2, mean=dataset_mean, std=dataset_std)
