@@ -23,8 +23,6 @@ print('Training')
 
 nb_epoch = 400
 
-dataset_add = '/home/users/pedrow/datasets/Mapbiomas_SAR/'
-
 params_tr = {'batch_size': 8,
           'dim': (32,32),
           'n_channels': 10,
@@ -39,18 +37,18 @@ params_va = {'batch_size': 8,
           'std': (1.53520544, 1.45585154),
           'shuffle': False}
 
-file = open("train.txt", "r")
+file = open("data_split/train.txt", "r")
 tr_list = [line.rstrip('\n') for line in file]
 file.close()
 
-file = open("val.txt", "r")
+file = open("data_split/val.txt", "r")
 va_list = [line.rstrip('\n') for line in file]
 file.close()
 
 training_generator = D.DataGenerator(tr_list, **params_tr)
 validation_generator = D.DataGenerator(va_list, **params_va)
 
-mcp_save = ModelCheckpoint('weightsteste', save_best_only=True, monitor='val_loss', mode='min')
+mcp_save = ModelCheckpoint('weights', save_best_only=True, monitor='val_loss', mode='min')
 reduce_lr_loss = ReduceLROnPlateau(monitor='val_loss', factor=0.1, patience=7, verbose=1, min_delta=1e-4, mode='min')
 
 model.fit_generator(generator=training_generator,
@@ -61,5 +59,5 @@ model.fit_generator(generator=training_generator,
                     callbacks=[mcp_save])
   
 print('Trained model saved')
-with open('histteste', 'wb') as file_pi:
+with open('hist', 'wb') as file_pi:
         pickle.dump(history.history, file_pi)
