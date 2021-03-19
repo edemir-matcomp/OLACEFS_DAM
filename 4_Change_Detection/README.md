@@ -21,3 +21,5 @@ python evaluate.py
 ### Google Colab Notebook
 
 First of all, copy the file "models.py" and the weights of the trained network into your Google Drive. Then, run "GEE_Desmatamento.ipynb" in the Google Colab and follow the instructions in it.
+
+[GEE_Desmatamento](https://colab.research.google.com/drive/1SWAh0ImS5b7HvX9-e9WpjEUuKG8vZArl?usp=sharing)
