@@ -8,6 +8,10 @@ São propostos dois temas para serem explorados nesse projeto:
   * Monitoramento de barragens de rejeitos de minérios
   * Identificação de desmatamentos na região amazônica por meio de radar
 
+Para acompanhamento dos temas e entendimento do projeto como um todo, foram gravados os seguintes videos de auxilio.:
+  * Identificação de barragens de rejeito de minério: https://youtu.be/IvlA7LI3gSk
+  * Monitoramento de desmatamento usando imagens SAR: https://youtu.be/5WQ9wsu9YAs
+
 
 ### Prerequisites
 
