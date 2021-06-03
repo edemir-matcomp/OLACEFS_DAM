@@ -80,6 +80,7 @@ Detailed instructions for each of the project deliveries are in their respective
 * **Alice Gomes** - [gmcalice](https://github.com/gmcalice)
 * **Edemir Ferreira** - [edemir-matcomp](https://github.com/edemir-matcomp)
 * **Ester Fiorillo** - [esterfiorillo](https://github.com/esterfiorillo)
+* **Gabriel Machado** - [gabriellm2003](https://github.com/gabriellm2003)
 * **Matheus Brito** - [mbfaria](https://github.com/mbfaria)
 * **Pedro Fonseca** - [PedroFW](https://github.com/PedroFW)
 
